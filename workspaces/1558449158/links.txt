@@ -1,0 +1,42 @@
+sourceId	targetId
+"Cell membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"Cell membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"G-protein coupled receptor"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"G-protein coupled receptor"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+Glycoprotein	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"glycosylation site:N-linked (GlcNAc...)"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"GO:0004930~G-protein coupled receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"GO:0004930~G-protein coupled receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+GO:0005856~cytoskeleton	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"GO:0005886~plasma membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"GO:0005886~plasma membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"GO:0007165~signal transduction"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"GO:0007165~signal transduction"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"GO:0007186~G-protein coupled receptor signaling pathway"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"GO:0007186~G-protein coupled receptor signaling pathway"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+GO:0016020~membrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+GO:0016020~membrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"GO:0016021~integral component of membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"GO:0016021~integral component of membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"GO:0042803~protein homodimerization activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"IPR000276:G protein-coupled receptor- rhodopsin-like"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"IPR000276:G protein-coupled receptor- rhodopsin-like"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"IPR017452:GPCR- rhodopsin-like- 7TM"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"IPR017452:GPCR- rhodopsin-like- 7TM"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+Lipoprotein	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+Membrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+Membrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+Receptor	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+Receptor	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"topological domain:Cytoplasmic"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"topological domain:Cytoplasmic"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"topological domain:Extracellular"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"topological domain:Extracellular"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+Transducer	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+Transducer	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+Transmembrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+Transmembrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"Transmembrane helix"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"Transmembrane helix"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt
+"transmembrane region"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt
+"transmembrane region"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt

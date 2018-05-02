@@ -1,0 +1,34 @@
+sourceId	targetId
+Node1	"Alternative splicing"
+Node2	"Cell membrane"
+Node3	"Cell membrane"
+Node4	Glycoprotein
+Node5	"glycosylation site:N-linked (GlcNAc...)"
+Node6	"GO:0005886~plasma membrane"
+Node7	"GO:0005886~plasma membrane"
+Node8	"GO:0005886~plasma membrane"
+Node9	"GO:0005886~plasma membrane"
+Node10	"GO:0007186~G-protein coupled receptor signaling pathway"
+Node11	GO:0016020~membrane
+Node12	GO:0016020~membrane
+Node13	"GO:0016021~integral component of membrane"
+Node14	"GO:0016021~integral component of membrane"
+Node15	Membrane
+Node16	Membrane
+Node17	Membrane
+Node18	Membrane
+Node19	Receptor
+Node20	Receptor
+Node21	"splice variant"
+Node22	"splice variant"
+Node23	Transmembrane
+Node24	Transmembrane
+Node25	Transmembrane
+Node26	Transmembrane
+Node27	"Transmembrane helix"
+Node28	"Transmembrane helix"
+Node29	"Transmembrane helix"
+Node30	"Transmembrane helix"
+Node31	"transmembrane region"
+Node32	"transmembrane region"
+Node33	"transmembrane region"

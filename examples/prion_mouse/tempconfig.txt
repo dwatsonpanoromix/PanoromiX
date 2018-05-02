@@ -1,0 +1,17 @@
+rootId	rootX	rootY	timepoint	charge	gravity	linkWidth	linkColor	maxScore	minScore	radius	fontColorNode	fontColorCenter	saved	key	colorLabel	sizeLabel	typeLabel	tpLabels	typeColors	fillColors	discreteFillColors
+"Androgen metabolism"	712.792371675	486.865664906	1	0	0	1.5	#7487c5	3	-3	15.5226780326	#000000	#0000ff	yes	571637	Color:	Size:	Type:	"Time-Point 1,Time-Point 2,Time-Point 3,Time-Point 4,Time-Point 5,Time-Point 6"	#d62728,#1f77b4,#9467bd,#2ca02c,#ff7f0e,#8c564b	#1a9641,#a6d96a,#ffffbf,#fdae61,#d7191c	#2ca02c,#d62728,#9467bd,#1f77b4,#ff7f0e
+"Caveolic vesicle"	505.845032621	149.969219608
+"Cholesterol homeostasis"	896.154906631	410.809418942
+"Complement activation"	1138.973053	192.929493453
+ECM	912.953124783	104.706104405
+Endocytosis	398.773997408	247.091981002
+"Fcg receptors"	1419.22668031	276.024430261
+"GAG metabolism"	556.172258125	519.150376961
+Golgi	779.587549929	387.781357331
+"Lipid acceptors"	1143.53500661	428.516160326
+"Lysosomal Proteases"	420.475900983	541.538795959
+Plasminogen	1265.76801327	126.225449955
+PM	1323.14592832	398.091703054
+"Reactive astrogliosis"	748.868773445	600.073040359
+Signaling	649.02261978	191.146457854
+"Sphingolipid metabolism"	822.698683226	525.159083829

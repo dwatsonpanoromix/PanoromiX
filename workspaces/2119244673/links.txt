@@ -1,0 +1,1057 @@
+sourceId	targetId	Relation	marker_start	marker_end	linkColor
+"PAK4 S291"	"PRKAR1A S83"	cluster	4	2	Yellow
+"PAK4 S291"	"PPP1R2 S121"	cluster	4	2	Yellow
+"PAK4 S291"	"PPP1R2 S122"	cluster	4	2	Yellow
+"PRKAR1A S83"	"PPP1R2 S121"	cluster	4	2	Yellow
+"PRKAR1A S83"	"PPP1R2 S122"	cluster	4	2	Yellow
+"PPP1R2 S121"	"PPP1R2 S122"	cluster	4	2	Yellow
+"RPL12 S38"	"LIG3 S913"	cluster	4	2	Yellow
+"RPL12 S38"	"LMNB1 S23"	cluster	4	2	Yellow
+"LIG3 S913"	"LMNB1 S23"	cluster	4	2	Yellow
+"DDX3X S594"	"PAICS S27"	cluster	4	2	Yellow
+"DDX3X S594"	"ORC2 T226"	cluster	4	2	Yellow
+"DDX3X S594"	"TPX2 S738"	cluster	4	2	Yellow
+"PAICS S27"	"ORC2 T226"	cluster	4	2	Yellow
+"PAICS S27"	"TPX2 S738"	cluster	4	2	Yellow
+"ORC2 T226"	"TPX2 S738"	cluster	4	2	Yellow
+"LMNB1 S393"	"ZC3HC1 S395"	cluster	4	2	Yellow
+"LMNB1 S393"	"SRSF9 S216"	cluster	4	2	Yellow
+"LMNB1 S393"	"C2orf49 S193"	cluster	4	2	Yellow
+"LMNB1 S393"	"STMN1 S25"	cluster	4	2	Yellow
+"LMNB1 S393"	"SRRM2 T1413"	cluster	4	2	Yellow
+"LMNB1 S393"	"ARID1A S363"	cluster	4	2	Yellow
+"LMNB1 S393"	"RPS6 S240"	cluster	4	2	Yellow
+"ZC3HC1 S395"	"SRSF9 S216"	cluster	4	2	Yellow
+"ZC3HC1 S395"	"C2orf49 S193"	cluster	4	2	Yellow
+"ZC3HC1 S395"	"STMN1 S25"	cluster	4	2	Yellow
+"ZC3HC1 S395"	"SRRM2 T1413"	cluster	4	2	Yellow
+"ZC3HC1 S395"	"ARID1A S363"	cluster	4	2	Yellow
+"ZC3HC1 S395"	"RPS6 S240"	cluster	4	2	Yellow
+"SRSF9 S216"	"C2orf49 S193"	cluster	4	2	Yellow
+"SRSF9 S216"	"STMN1 S25"	cluster	4	2	Yellow
+"SRSF9 S216"	"SRRM2 T1413"	cluster	4	2	Yellow
+"SRSF9 S216"	"ARID1A S363"	cluster	4	2	Yellow
+"SRSF9 S216"	"RPS6 S240"	cluster	4	2	Yellow
+"C2orf49 S193"	"STMN1 S25"	cluster	4	2	Yellow
+"C2orf49 S193"	"SRRM2 T1413"	cluster	4	2	Yellow
+"C2orf49 S193"	"ARID1A S363"	cluster	4	2	Yellow
+"C2orf49 S193"	"RPS6 S240"	cluster	4	2	Yellow
+"STMN1 S25"	"SRRM2 T1413"	cluster	4	2	Yellow
+"STMN1 S25"	"ARID1A S363"	cluster	4	2	Yellow
+"STMN1 S25"	"RPS6 S240"	cluster	4	2	Yellow
+"SRRM2 T1413"	"ARID1A S363"	cluster	4	2	Yellow
+"SRRM2 T1413"	"RPS6 S240"	cluster	4	2	Yellow
+"ARID1A S363"	"RPS6 S240"	cluster	4	2	Yellow
+"ARHGEF2 S886"	"PPP1R12A T696"	cluster	4	2	Yellow
+"ARHGEF2 S886"	"KLC1 S521"	cluster	4	2	Yellow
+"PPP1R12A T696"	"KLC1 S521"	cluster	4	2	Yellow
+"HIST1H1E T18"	"GTF2I T558"	cluster	4	2	Yellow
+"HIST1H1E T18"	"ELAVL1 S202"	cluster	4	2	Yellow
+"HIST1H1E T18"	"NCL T121"	cluster	4	2	Yellow
+"HIST1H1E T18"	"HMGA1 S36"	cluster	4	2	Yellow
+"HIST1H1E T18"	"SLC9A3R1 S280"	cluster	4	2	Yellow
+"HIST1H1E T18"	"LIG3 S210"	cluster	4	2	Yellow
+"HIST1H1E T18"	"NPM1 T199"	cluster	4	2	Yellow
+"HIST1H1E T18"	"RAD18 S99"	cluster	4	2	Yellow
+"HIST1H1E T18"	"HMGA1 T53"	cluster	4	2	Yellow
+"GTF2I T558"	"ELAVL1 S202"	cluster	4	2	Yellow
+"GTF2I T558"	"NCL T121"	cluster	4	2	Yellow
+"GTF2I T558"	"HMGA1 S36"	cluster	4	2	Yellow
+"GTF2I T558"	"SLC9A3R1 S280"	cluster	4	2	Yellow
+"GTF2I T558"	"LIG3 S210"	cluster	4	2	Yellow
+"GTF2I T558"	"NPM1 T199"	cluster	4	2	Yellow
+"GTF2I T558"	"RAD18 S99"	cluster	4	2	Yellow
+"GTF2I T558"	"HMGA1 T53"	cluster	4	2	Yellow
+"ELAVL1 S202"	"NCL T121"	cluster	4	2	Yellow
+"ELAVL1 S202"	"HMGA1 S36"	cluster	4	2	Yellow
+"ELAVL1 S202"	"SLC9A3R1 S280"	cluster	4	2	Yellow
+"ELAVL1 S202"	"LIG3 S210"	cluster	4	2	Yellow
+"ELAVL1 S202"	"NPM1 T199"	cluster	4	2	Yellow
+"ELAVL1 S202"	"RAD18 S99"	cluster	4	2	Yellow
+"ELAVL1 S202"	"HMGA1 T53"	cluster	4	2	Yellow
+"NCL T121"	"HMGA1 S36"	cluster	4	2	Yellow
+"NCL T121"	"SLC9A3R1 S280"	cluster	4	2	Yellow
+"NCL T121"	"LIG3 S210"	cluster	4	2	Yellow
+"NCL T121"	"NPM1 T199"	cluster	4	2	Yellow
+"NCL T121"	"RAD18 S99"	cluster	4	2	Yellow
+"NCL T121"	"HMGA1 T53"	cluster	4	2	Yellow
+"HMGA1 S36"	"SLC9A3R1 S280"	cluster	4	2	Yellow
+"HMGA1 S36"	"LIG3 S210"	cluster	4	2	Yellow
+"HMGA1 S36"	"NPM1 T199"	cluster	4	2	Yellow
+"HMGA1 S36"	"RAD18 S99"	cluster	4	2	Yellow
+"HMGA1 S36"	"HMGA1 T53"	cluster	4	2	Yellow
+"SLC9A3R1 S280"	"LIG3 S210"	cluster	4	2	Yellow
+"SLC9A3R1 S280"	"NPM1 T199"	cluster	4	2	Yellow
+"SLC9A3R1 S280"	"RAD18 S99"	cluster	4	2	Yellow
+"SLC9A3R1 S280"	"HMGA1 T53"	cluster	4	2	Yellow
+"LIG3 S210"	"NPM1 T199"	cluster	4	2	Yellow
+"LIG3 S210"	"RAD18 S99"	cluster	4	2	Yellow
+"LIG3 S210"	"HMGA1 T53"	cluster	4	2	Yellow
+"NPM1 T199"	"RAD18 S99"	cluster	4	2	Yellow
+"NPM1 T199"	"HMGA1 T53"	cluster	4	2	Yellow
+"RAD18 S99"	"HMGA1 T53"	cluster	4	2	Yellow
+"HNRNPK S284"	"PAK2 S141"	cluster	4	2	Yellow
+"HNRNPK S284"	"AKT1S1 S183"	cluster	4	2	Yellow
+"HNRNPK S284"	"RPS6KB1 S447"	cluster	4	2	Yellow
+"HNRNPK S284"	"PEA15 S104"	cluster	4	2	Yellow
+"HNRNPK S284"	"ARHGAP35 S1150"	cluster	4	2	Yellow
+"HNRNPK S284"	"LASP1 S146"	cluster	4	2	Yellow
+"HNRNPK S284"	"PRKCD S304"	cluster	4	2	Yellow
+"HNRNPK S284"	"RIF1 S2205"	cluster	4	2	Yellow
+"HNRNPK S284"	"STMN1 S38"	cluster	4	2	Yellow
+"HNRNPK S284"	"PEA15 S116"	cluster	4	2	Yellow
+"HNRNPK S284"	"SNRNP70 S226"	cluster	4	2	Yellow
+"HNRNPK S284"	"PATL1 S184"	cluster	4	2	Yellow
+"HNRNPK S284"	"STIM1 S575"	cluster	4	2	Yellow
+"PAK2 S141"	"AKT1S1 S183"	cluster	4	2	Yellow
+"PAK2 S141"	"RPS6KB1 S447"	cluster	4	2	Yellow
+"PAK2 S141"	"PEA15 S104"	cluster	4	2	Yellow
+"PAK2 S141"	"ARHGAP35 S1150"	cluster	4	2	Yellow
+"PAK2 S141"	"LASP1 S146"	cluster	4	2	Yellow
+"PAK2 S141"	"PRKCD S304"	cluster	4	2	Yellow
+"PAK2 S141"	"RIF1 S2205"	cluster	4	2	Yellow
+"PAK2 S141"	"STMN1 S38"	cluster	4	2	Yellow
+"PAK2 S141"	"PEA15 S116"	cluster	4	2	Yellow
+"PAK2 S141"	"SNRNP70 S226"	cluster	4	2	Yellow
+"PAK2 S141"	"PATL1 S184"	cluster	4	2	Yellow
+"PAK2 S141"	"STIM1 S575"	cluster	4	2	Yellow
+"AKT1S1 S183"	"RPS6KB1 S447"	cluster	4	2	Yellow
+"AKT1S1 S183"	"PEA15 S104"	cluster	4	2	Yellow
+"AKT1S1 S183"	"ARHGAP35 S1150"	cluster	4	2	Yellow
+"AKT1S1 S183"	"LASP1 S146"	cluster	4	2	Yellow
+"AKT1S1 S183"	"PRKCD S304"	cluster	4	2	Yellow
+"AKT1S1 S183"	"RIF1 S2205"	cluster	4	2	Yellow
+"AKT1S1 S183"	"STMN1 S38"	cluster	4	2	Yellow
+"AKT1S1 S183"	"PEA15 S116"	cluster	4	2	Yellow
+"AKT1S1 S183"	"SNRNP70 S226"	cluster	4	2	Yellow
+"AKT1S1 S183"	"PATL1 S184"	cluster	4	2	Yellow
+"AKT1S1 S183"	"STIM1 S575"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"PEA15 S104"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"ARHGAP35 S1150"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"LASP1 S146"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"PRKCD S304"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"RIF1 S2205"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"STMN1 S38"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"PEA15 S116"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"SNRNP70 S226"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"PATL1 S184"	cluster	4	2	Yellow
+"RPS6KB1 S447"	"STIM1 S575"	cluster	4	2	Yellow
+"PEA15 S104"	"ARHGAP35 S1150"	cluster	4	2	Yellow
+"PEA15 S104"	"LASP1 S146"	cluster	4	2	Yellow
+"PEA15 S104"	"PRKCD S304"	cluster	4	2	Yellow
+"PEA15 S104"	"RIF1 S2205"	cluster	4	2	Yellow
+"PEA15 S104"	"STMN1 S38"	cluster	4	2	Yellow
+"PEA15 S104"	"PEA15 S116"	cluster	4	2	Yellow
+"PEA15 S104"	"SNRNP70 S226"	cluster	4	2	Yellow
+"PEA15 S104"	"PATL1 S184"	cluster	4	2	Yellow
+"PEA15 S104"	"STIM1 S575"	cluster	4	2	Yellow
+"ARHGAP35 S1150"	"LASP1 S146"	cluster	4	2	Yellow
+"ARHGAP35 S1150"	"PRKCD S304"	cluster	4	2	Yellow
+"ARHGAP35 S1150"	"RIF1 S2205"	cluster	4	2	Yellow
+"ARHGAP35 S1150"	"STMN1 S38"	cluster	4	2	Yellow
+"ARHGAP35 S1150"	"PEA15 S116"	cluster	4	2	Yellow
+"ARHGAP35 S1150"	"SNRNP70 S226"	cluster	4	2	Yellow
+"ARHGAP35 S1150"	"PATL1 S184"	cluster	4	2	Yellow
+"ARHGAP35 S1150"	"STIM1 S575"	cluster	4	2	Yellow
+"LASP1 S146"	"PRKCD S304"	cluster	4	2	Yellow
+"LASP1 S146"	"RIF1 S2205"	cluster	4	2	Yellow
+"LASP1 S146"	"STMN1 S38"	cluster	4	2	Yellow
+"LASP1 S146"	"PEA15 S116"	cluster	4	2	Yellow
+"LASP1 S146"	"SNRNP70 S226"	cluster	4	2	Yellow
+"LASP1 S146"	"PATL1 S184"	cluster	4	2	Yellow
+"LASP1 S146"	"STIM1 S575"	cluster	4	2	Yellow
+"PRKCD S304"	"RIF1 S2205"	cluster	4	2	Yellow
+"PRKCD S304"	"STMN1 S38"	cluster	4	2	Yellow
+"PRKCD S304"	"PEA15 S116"	cluster	4	2	Yellow
+"PRKCD S304"	"SNRNP70 S226"	cluster	4	2	Yellow
+"PRKCD S304"	"PATL1 S184"	cluster	4	2	Yellow
+"PRKCD S304"	"STIM1 S575"	cluster	4	2	Yellow
+"RIF1 S2205"	"STMN1 S38"	cluster	4	2	Yellow
+"RIF1 S2205"	"PEA15 S116"	cluster	4	2	Yellow
+"RIF1 S2205"	"SNRNP70 S226"	cluster	4	2	Yellow
+"RIF1 S2205"	"PATL1 S184"	cluster	4	2	Yellow
+"RIF1 S2205"	"STIM1 S575"	cluster	4	2	Yellow
+"STMN1 S38"	"PEA15 S116"	cluster	4	2	Yellow
+"STMN1 S38"	"SNRNP70 S226"	cluster	4	2	Yellow
+"STMN1 S38"	"PATL1 S184"	cluster	4	2	Yellow
+"STMN1 S38"	"STIM1 S575"	cluster	4	2	Yellow
+"PEA15 S116"	"SNRNP70 S226"	cluster	4	2	Yellow
+"PEA15 S116"	"PATL1 S184"	cluster	4	2	Yellow
+"PEA15 S116"	"STIM1 S575"	cluster	4	2	Yellow
+"SNRNP70 S226"	"PATL1 S184"	cluster	4	2	Yellow
+"SNRNP70 S226"	"STIM1 S575"	cluster	4	2	Yellow
+"PATL1 S184"	"STIM1 S575"	cluster	4	2	Yellow
+"SHC1 S139"	"MARK2 T596"	cluster	4	2	Yellow
+"SHC1 S139"	"PPP1R12A S445"	cluster	4	2	Yellow
+"SHC1 S139"	"ILK T181"	cluster	4	2	Yellow
+"SHC1 S139"	"EDC3 S161"	cluster	4	2	Yellow
+"MARK2 T596"	"PPP1R12A S445"	cluster	4	2	Yellow
+"MARK2 T596"	"ILK T181"	cluster	4	2	Yellow
+"MARK2 T596"	"EDC3 S161"	cluster	4	2	Yellow
+"PPP1R12A S445"	"ILK T181"	cluster	4	2	Yellow
+"PPP1R12A S445"	"EDC3 S161"	cluster	4	2	Yellow
+"ILK T181"	"EDC3 S161"	cluster	4	2	Yellow
+"HIST1H1E S36"	"BAD S118"	cluster	4	2	Yellow
+"HIST1H1E S36"	"SUDS3 S234"	cluster	4	2	Yellow
+"BAD S118"	"SUDS3 S234"	cluster	4	2	Yellow
+"PPP2R5D S573"	"MAP4 S1073"	cluster	4	2	Yellow
+"PPP2R5D S573"	"ARFIP1 S132"	cluster	4	2	Yellow
+"MAP4 S1073"	"ARFIP1 S132"	cluster	4	2	Yellow
+"CDK1 T161"	"HIST4H4 S48"	cluster	4	2	Yellow
+"CDK1 T161"	"KLC2 S545"	cluster	4	2	Yellow
+"CDK1 T161"	"SRSF6 S303"	cluster	4	2	Yellow
+"CDK1 T161"	"ABCF1 S109"	cluster	4	2	Yellow
+"CDK1 T161"	"PRKAB1 S108"	cluster	4	2	Yellow
+"CDK1 T161"	"MARS S825"	cluster	4	2	Yellow
+"CDK1 T161"	"OXSR1 S339"	cluster	4	2	Yellow
+"CDK1 T161"	"PRKAR2A S99"	cluster	4	2	Yellow
+"CDK1 T161"	"HNRNPK S216"	cluster	4	2	Yellow
+"CDK1 T161"	"PKM S37"	cluster	4	2	Yellow
+"CDK1 T161"	"PRKCD S299"	cluster	4	2	Yellow
+"CDK1 T161"	"RPLP2 S105"	cluster	4	2	Yellow
+"CDK1 T161"	"CDK7 S164"	cluster	4	2	Yellow
+"HIST4H4 S48"	"KLC2 S545"	cluster	4	2	Yellow
+"HIST4H4 S48"	"SRSF6 S303"	cluster	4	2	Yellow
+"HIST4H4 S48"	"ABCF1 S109"	cluster	4	2	Yellow
+"HIST4H4 S48"	"PRKAB1 S108"	cluster	4	2	Yellow
+"HIST4H4 S48"	"MARS S825"	cluster	4	2	Yellow
+"HIST4H4 S48"	"OXSR1 S339"	cluster	4	2	Yellow
+"HIST4H4 S48"	"PRKAR2A S99"	cluster	4	2	Yellow
+"HIST4H4 S48"	"HNRNPK S216"	cluster	4	2	Yellow
+"HIST4H4 S48"	"PKM S37"	cluster	4	2	Yellow
+"HIST4H4 S48"	"PRKCD S299"	cluster	4	2	Yellow
+"HIST4H4 S48"	"RPLP2 S105"	cluster	4	2	Yellow
+"HIST4H4 S48"	"CDK7 S164"	cluster	4	2	Yellow
+"KLC2 S545"	"SRSF6 S303"	cluster	4	2	Yellow
+"KLC2 S545"	"ABCF1 S109"	cluster	4	2	Yellow
+"KLC2 S545"	"PRKAB1 S108"	cluster	4	2	Yellow
+"KLC2 S545"	"MARS S825"	cluster	4	2	Yellow
+"KLC2 S545"	"OXSR1 S339"	cluster	4	2	Yellow
+"KLC2 S545"	"PRKAR2A S99"	cluster	4	2	Yellow
+"KLC2 S545"	"HNRNPK S216"	cluster	4	2	Yellow
+"KLC2 S545"	"PKM S37"	cluster	4	2	Yellow
+"KLC2 S545"	"PRKCD S299"	cluster	4	2	Yellow
+"KLC2 S545"	"RPLP2 S105"	cluster	4	2	Yellow
+"KLC2 S545"	"CDK7 S164"	cluster	4	2	Yellow
+"SRSF6 S303"	"ABCF1 S109"	cluster	4	2	Yellow
+"SRSF6 S303"	"PRKAB1 S108"	cluster	4	2	Yellow
+"SRSF6 S303"	"MARS S825"	cluster	4	2	Yellow
+"SRSF6 S303"	"OXSR1 S339"	cluster	4	2	Yellow
+"SRSF6 S303"	"PRKAR2A S99"	cluster	4	2	Yellow
+"SRSF6 S303"	"HNRNPK S216"	cluster	4	2	Yellow
+"SRSF6 S303"	"PKM S37"	cluster	4	2	Yellow
+"SRSF6 S303"	"PRKCD S299"	cluster	4	2	Yellow
+"SRSF6 S303"	"RPLP2 S105"	cluster	4	2	Yellow
+"SRSF6 S303"	"CDK7 S164"	cluster	4	2	Yellow
+"ABCF1 S109"	"PRKAB1 S108"	cluster	4	2	Yellow
+"ABCF1 S109"	"MARS S825"	cluster	4	2	Yellow
+"ABCF1 S109"	"OXSR1 S339"	cluster	4	2	Yellow
+"ABCF1 S109"	"PRKAR2A S99"	cluster	4	2	Yellow
+"ABCF1 S109"	"HNRNPK S216"	cluster	4	2	Yellow
+"ABCF1 S109"	"PKM S37"	cluster	4	2	Yellow
+"ABCF1 S109"	"PRKCD S299"	cluster	4	2	Yellow
+"ABCF1 S109"	"RPLP2 S105"	cluster	4	2	Yellow
+"ABCF1 S109"	"CDK7 S164"	cluster	4	2	Yellow
+"PRKAB1 S108"	"MARS S825"	cluster	4	2	Yellow
+"PRKAB1 S108"	"OXSR1 S339"	cluster	4	2	Yellow
+"PRKAB1 S108"	"PRKAR2A S99"	cluster	4	2	Yellow
+"PRKAB1 S108"	"HNRNPK S216"	cluster	4	2	Yellow
+"PRKAB1 S108"	"PKM S37"	cluster	4	2	Yellow
+"PRKAB1 S108"	"PRKCD S299"	cluster	4	2	Yellow
+"PRKAB1 S108"	"RPLP2 S105"	cluster	4	2	Yellow
+"PRKAB1 S108"	"CDK7 S164"	cluster	4	2	Yellow
+"MARS S825"	"OXSR1 S339"	cluster	4	2	Yellow
+"MARS S825"	"PRKAR2A S99"	cluster	4	2	Yellow
+"MARS S825"	"HNRNPK S216"	cluster	4	2	Yellow
+"MARS S825"	"PKM S37"	cluster	4	2	Yellow
+"MARS S825"	"PRKCD S299"	cluster	4	2	Yellow
+"MARS S825"	"RPLP2 S105"	cluster	4	2	Yellow
+"MARS S825"	"CDK7 S164"	cluster	4	2	Yellow
+"OXSR1 S339"	"PRKAR2A S99"	cluster	4	2	Yellow
+"OXSR1 S339"	"HNRNPK S216"	cluster	4	2	Yellow
+"OXSR1 S339"	"PKM S37"	cluster	4	2	Yellow
+"OXSR1 S339"	"PRKCD S299"	cluster	4	2	Yellow
+"OXSR1 S339"	"RPLP2 S105"	cluster	4	2	Yellow
+"OXSR1 S339"	"CDK7 S164"	cluster	4	2	Yellow
+"PRKAR2A S99"	"HNRNPK S216"	cluster	4	2	Yellow
+"PRKAR2A S99"	"PKM S37"	cluster	4	2	Yellow
+"PRKAR2A S99"	"PRKCD S299"	cluster	4	2	Yellow
+"PRKAR2A S99"	"RPLP2 S105"	cluster	4	2	Yellow
+"PRKAR2A S99"	"CDK7 S164"	cluster	4	2	Yellow
+"HNRNPK S216"	"PKM S37"	cluster	4	2	Yellow
+"HNRNPK S216"	"PRKCD S299"	cluster	4	2	Yellow
+"HNRNPK S216"	"RPLP2 S105"	cluster	4	2	Yellow
+"HNRNPK S216"	"CDK7 S164"	cluster	4	2	Yellow
+"PKM S37"	"PRKCD S299"	cluster	4	2	Yellow
+"PKM S37"	"RPLP2 S105"	cluster	4	2	Yellow
+"PKM S37"	"CDK7 S164"	cluster	4	2	Yellow
+"PRKCD S299"	"RPLP2 S105"	cluster	4	2	Yellow
+"PRKCD S299"	"CDK7 S164"	cluster	4	2	Yellow
+"RPLP2 S105"	"CDK7 S164"	cluster	4	2	Yellow
+"RB1 S612"	"MDC1 S329"	cluster	4	2	Yellow
+"RB1 S612"	"PATL1 S179"	cluster	4	2	Yellow
+"MDC1 S329"	"PATL1 S179"	cluster	4	2	Yellow
+"CDC37 S13"	"RPLP2 S102"	cluster	4	2	Yellow
+"CDC37 S13"	"NPM1 S70"	cluster	4	2	Yellow
+"CDC37 S13"	"HNRNPH2 S104"	cluster	4	2	Yellow
+"CDC37 S13"	"DNAJC5 S10"	cluster	4	2	Yellow
+"RPLP2 S102"	"NPM1 S70"	cluster	4	2	Yellow
+"RPLP2 S102"	"HNRNPH2 S104"	cluster	4	2	Yellow
+"RPLP2 S102"	"DNAJC5 S10"	cluster	4	2	Yellow
+"NPM1 S70"	"HNRNPH2 S104"	cluster	4	2	Yellow
+"NPM1 S70"	"DNAJC5 S10"	cluster	4	2	Yellow
+"HNRNPH2 S104"	"DNAJC5 S10"	cluster	4	2	Yellow
+"CAMK2G T287"	"CCDC6 S244"	cluster	4	2	Yellow
+"CAMK2G T287"	"RPS6KA3 S227"	cluster	4	2	Yellow
+"CAMK2G T287"	"CCDC6 S240"	cluster	4	2	Yellow
+"CAMK2G T287"	"HTT S419"	cluster	4	2	Yellow
+"CCDC6 S244"	"RPS6KA3 S227"	cluster	4	2	Yellow
+"CCDC6 S244"	"CCDC6 S240"	cluster	4	2	Yellow
+"CCDC6 S244"	"HTT S419"	cluster	4	2	Yellow
+"RPS6KA3 S227"	"CCDC6 S240"	cluster	4	2	Yellow
+"RPS6KA3 S227"	"HTT S419"	cluster	4	2	Yellow
+"CCDC6 S240"	"HTT S419"	cluster	4	2	Yellow
+"MTDH S568"	"SF3B1 T142"	cluster	4	2	Yellow
+"MTDH S568"	"EIF4EBP1 T37"	cluster	4	2	Yellow
+"MTDH S568"	"MCM3 T722"	cluster	4	2	Yellow
+"SF3B1 T142"	"EIF4EBP1 T37"	cluster	4	2	Yellow
+"SF3B1 T142"	"MCM3 T722"	cluster	4	2	Yellow
+"EIF4EBP1 T37"	"MCM3 T722"	cluster	4	2	Yellow
+"RB1 T826"	"LARP1 T649"	cluster	4	2	Yellow
+"RB1 T826"	"GMPS T318"	cluster	4	2	Yellow
+"RB1 T826"	"NUCKS1 S181"	cluster	4	2	Yellow
+"RB1 T826"	"EFHD2 S74"	cluster	4	2	Yellow
+"RB1 T826"	"RBL1 S640"	cluster	4	2	Yellow
+"RB1 T826"	"RB1 T373"	cluster	4	2	Yellow
+"RB1 T826"	"RBL1 S762"	cluster	4	2	Yellow
+"RB1 T826"	"HMGCS1 S495"	cluster	4	2	Yellow
+"RB1 T826"	"TK1 S13"	cluster	4	2	Yellow
+"RB1 T826"	"LRWD1 S243"	cluster	4	2	Yellow
+"LARP1 T649"	"GMPS T318"	cluster	4	2	Yellow
+"LARP1 T649"	"NUCKS1 S181"	cluster	4	2	Yellow
+"LARP1 T649"	"EFHD2 S74"	cluster	4	2	Yellow
+"LARP1 T649"	"RBL1 S640"	cluster	4	2	Yellow
+"LARP1 T649"	"RB1 T373"	cluster	4	2	Yellow
+"LARP1 T649"	"RBL1 S762"	cluster	4	2	Yellow
+"LARP1 T649"	"HMGCS1 S495"	cluster	4	2	Yellow
+"LARP1 T649"	"TK1 S13"	cluster	4	2	Yellow
+"LARP1 T649"	"LRWD1 S243"	cluster	4	2	Yellow
+"GMPS T318"	"NUCKS1 S181"	cluster	4	2	Yellow
+"GMPS T318"	"EFHD2 S74"	cluster	4	2	Yellow
+"GMPS T318"	"RBL1 S640"	cluster	4	2	Yellow
+"GMPS T318"	"RB1 T373"	cluster	4	2	Yellow
+"GMPS T318"	"RBL1 S762"	cluster	4	2	Yellow
+"GMPS T318"	"HMGCS1 S495"	cluster	4	2	Yellow
+"GMPS T318"	"TK1 S13"	cluster	4	2	Yellow
+"GMPS T318"	"LRWD1 S243"	cluster	4	2	Yellow
+"NUCKS1 S181"	"EFHD2 S74"	cluster	4	2	Yellow
+"NUCKS1 S181"	"RBL1 S640"	cluster	4	2	Yellow
+"NUCKS1 S181"	"RB1 T373"	cluster	4	2	Yellow
+"NUCKS1 S181"	"RBL1 S762"	cluster	4	2	Yellow
+"NUCKS1 S181"	"HMGCS1 S495"	cluster	4	2	Yellow
+"NUCKS1 S181"	"TK1 S13"	cluster	4	2	Yellow
+"NUCKS1 S181"	"LRWD1 S243"	cluster	4	2	Yellow
+"EFHD2 S74"	"RBL1 S640"	cluster	4	2	Yellow
+"EFHD2 S74"	"RB1 T373"	cluster	4	2	Yellow
+"EFHD2 S74"	"RBL1 S762"	cluster	4	2	Yellow
+"EFHD2 S74"	"HMGCS1 S495"	cluster	4	2	Yellow
+"EFHD2 S74"	"TK1 S13"	cluster	4	2	Yellow
+"EFHD2 S74"	"LRWD1 S243"	cluster	4	2	Yellow
+"RBL1 S640"	"RB1 T373"	cluster	4	2	Yellow
+"RBL1 S640"	"RBL1 S762"	cluster	4	2	Yellow
+"RBL1 S640"	"HMGCS1 S495"	cluster	4	2	Yellow
+"RBL1 S640"	"TK1 S13"	cluster	4	2	Yellow
+"RBL1 S640"	"LRWD1 S243"	cluster	4	2	Yellow
+"RB1 T373"	"RBL1 S762"	cluster	4	2	Yellow
+"RB1 T373"	"HMGCS1 S495"	cluster	4	2	Yellow
+"RB1 T373"	"TK1 S13"	cluster	4	2	Yellow
+"RB1 T373"	"LRWD1 S243"	cluster	4	2	Yellow
+"RBL1 S762"	"HMGCS1 S495"	cluster	4	2	Yellow
+"RBL1 S762"	"TK1 S13"	cluster	4	2	Yellow
+"RBL1 S762"	"LRWD1 S243"	cluster	4	2	Yellow
+"HMGCS1 S495"	"TK1 S13"	cluster	4	2	Yellow
+"HMGCS1 S495"	"LRWD1 S243"	cluster	4	2	Yellow
+"TK1 S13"	"LRWD1 S243"	cluster	4	2	Yellow
+"DSTN S3"	"TPR S2073"	cluster	4	2	Yellow
+"DSTN S3"	"SSH3 S37"	cluster	4	2	Yellow
+"TPR S2073"	"SSH3 S37"	cluster	4	2	Yellow
+"RALY S135"	"PAK4 S181"	cluster	4	2	Yellow
+"RALY S135"	"CARHSP1 S52"	cluster	4	2	Yellow
+"RALY S135"	"GSK3B S9"	cluster	4	2	Yellow
+"RALY S135"	"CANX S583"	cluster	4	2	Yellow
+"RALY S135"	"HNRNPA1 S4"	cluster	4	2	Yellow
+"RALY S135"	"CAD S1859"	cluster	4	2	Yellow
+"RALY S135"	"HNRNPA1 S6"	cluster	4	2	Yellow
+"RALY S135"	"URI1 S372"	cluster	4	2	Yellow
+"RALY S135"	"SSR1 S268"	cluster	4	2	Yellow
+"RALY S135"	"U2AF2 S79"	cluster	4	2	Yellow
+"RALY S135"	"FLNA S1459"	cluster	4	2	Yellow
+"RALY S135"	"CLIP1 S195"	cluster	4	2	Yellow
+"PAK4 S181"	"CARHSP1 S52"	cluster	4	2	Yellow
+"PAK4 S181"	"GSK3B S9"	cluster	4	2	Yellow
+"PAK4 S181"	"CANX S583"	cluster	4	2	Yellow
+"PAK4 S181"	"HNRNPA1 S4"	cluster	4	2	Yellow
+"PAK4 S181"	"CAD S1859"	cluster	4	2	Yellow
+"PAK4 S181"	"HNRNPA1 S6"	cluster	4	2	Yellow
+"PAK4 S181"	"URI1 S372"	cluster	4	2	Yellow
+"PAK4 S181"	"SSR1 S268"	cluster	4	2	Yellow
+"PAK4 S181"	"U2AF2 S79"	cluster	4	2	Yellow
+"PAK4 S181"	"FLNA S1459"	cluster	4	2	Yellow
+"PAK4 S181"	"CLIP1 S195"	cluster	4	2	Yellow
+"CARHSP1 S52"	"GSK3B S9"	cluster	4	2	Yellow
+"CARHSP1 S52"	"CANX S583"	cluster	4	2	Yellow
+"CARHSP1 S52"	"HNRNPA1 S4"	cluster	4	2	Yellow
+"CARHSP1 S52"	"CAD S1859"	cluster	4	2	Yellow
+"CARHSP1 S52"	"HNRNPA1 S6"	cluster	4	2	Yellow
+"CARHSP1 S52"	"URI1 S372"	cluster	4	2	Yellow
+"CARHSP1 S52"	"SSR1 S268"	cluster	4	2	Yellow
+"CARHSP1 S52"	"U2AF2 S79"	cluster	4	2	Yellow
+"CARHSP1 S52"	"FLNA S1459"	cluster	4	2	Yellow
+"CARHSP1 S52"	"CLIP1 S195"	cluster	4	2	Yellow
+"GSK3B S9"	"CANX S583"	cluster	4	2	Yellow
+"GSK3B S9"	"HNRNPA1 S4"	cluster	4	2	Yellow
+"GSK3B S9"	"CAD S1859"	cluster	4	2	Yellow
+"GSK3B S9"	"HNRNPA1 S6"	cluster	4	2	Yellow
+"GSK3B S9"	"URI1 S372"	cluster	4	2	Yellow
+"GSK3B S9"	"SSR1 S268"	cluster	4	2	Yellow
+"GSK3B S9"	"U2AF2 S79"	cluster	4	2	Yellow
+"GSK3B S9"	"FLNA S1459"	cluster	4	2	Yellow
+"GSK3B S9"	"CLIP1 S195"	cluster	4	2	Yellow
+"CANX S583"	"HNRNPA1 S4"	cluster	4	2	Yellow
+"CANX S583"	"CAD S1859"	cluster	4	2	Yellow
+"CANX S583"	"HNRNPA1 S6"	cluster	4	2	Yellow
+"CANX S583"	"URI1 S372"	cluster	4	2	Yellow
+"CANX S583"	"SSR1 S268"	cluster	4	2	Yellow
+"CANX S583"	"U2AF2 S79"	cluster	4	2	Yellow
+"CANX S583"	"FLNA S1459"	cluster	4	2	Yellow
+"CANX S583"	"CLIP1 S195"	cluster	4	2	Yellow
+"HNRNPA1 S4"	"CAD S1859"	cluster	4	2	Yellow
+"HNRNPA1 S4"	"HNRNPA1 S6"	cluster	4	2	Yellow
+"HNRNPA1 S4"	"URI1 S372"	cluster	4	2	Yellow
+"HNRNPA1 S4"	"SSR1 S268"	cluster	4	2	Yellow
+"HNRNPA1 S4"	"U2AF2 S79"	cluster	4	2	Yellow
+"HNRNPA1 S4"	"FLNA S1459"	cluster	4	2	Yellow
+"HNRNPA1 S4"	"CLIP1 S195"	cluster	4	2	Yellow
+"CAD S1859"	"HNRNPA1 S6"	cluster	4	2	Yellow
+"CAD S1859"	"URI1 S372"	cluster	4	2	Yellow
+"CAD S1859"	"SSR1 S268"	cluster	4	2	Yellow
+"CAD S1859"	"U2AF2 S79"	cluster	4	2	Yellow
+"CAD S1859"	"FLNA S1459"	cluster	4	2	Yellow
+"CAD S1859"	"CLIP1 S195"	cluster	4	2	Yellow
+"HNRNPA1 S6"	"URI1 S372"	cluster	4	2	Yellow
+"HNRNPA1 S6"	"SSR1 S268"	cluster	4	2	Yellow
+"HNRNPA1 S6"	"U2AF2 S79"	cluster	4	2	Yellow
+"HNRNPA1 S6"	"FLNA S1459"	cluster	4	2	Yellow
+"HNRNPA1 S6"	"CLIP1 S195"	cluster	4	2	Yellow
+"URI1 S372"	"SSR1 S268"	cluster	4	2	Yellow
+"URI1 S372"	"U2AF2 S79"	cluster	4	2	Yellow
+"URI1 S372"	"FLNA S1459"	cluster	4	2	Yellow
+"URI1 S372"	"CLIP1 S195"	cluster	4	2	Yellow
+"SSR1 S268"	"U2AF2 S79"	cluster	4	2	Yellow
+"SSR1 S268"	"FLNA S1459"	cluster	4	2	Yellow
+"SSR1 S268"	"CLIP1 S195"	cluster	4	2	Yellow
+"U2AF2 S79"	"FLNA S1459"	cluster	4	2	Yellow
+"U2AF2 S79"	"CLIP1 S195"	cluster	4	2	Yellow
+"FLNA S1459"	"CLIP1 S195"	cluster	4	2	Yellow
+"TRIM28 S473"	"HSPB1 S82"	cluster	4	2	Yellow
+"TRIM28 S473"	"HSPB1 S15"	cluster	4	2	Yellow
+"TRIM28 S473"	"JUND S100"	cluster	4	2	Yellow
+"TRIM28 S473"	"HSPB1 S78"	cluster	4	2	Yellow
+"TRIM28 S473"	"NCBP1 T21"	cluster	4	2	Yellow
+"TRIM28 S473"	"JUN S73"	cluster	4	2	Yellow
+"TRIM28 S473"	"NCBP1 S22"	cluster	4	2	Yellow
+"HSPB1 S82"	"HSPB1 S15"	cluster	4	2	Yellow
+"HSPB1 S82"	"JUND S100"	cluster	4	2	Yellow
+"HSPB1 S82"	"HSPB1 S78"	cluster	4	2	Yellow
+"HSPB1 S82"	"NCBP1 T21"	cluster	4	2	Yellow
+"HSPB1 S82"	"JUN S73"	cluster	4	2	Yellow
+"HSPB1 S82"	"NCBP1 S22"	cluster	4	2	Yellow
+"HSPB1 S15"	"JUND S100"	cluster	4	2	Yellow
+"HSPB1 S15"	"HSPB1 S78"	cluster	4	2	Yellow
+"HSPB1 S15"	"NCBP1 T21"	cluster	4	2	Yellow
+"HSPB1 S15"	"JUN S73"	cluster	4	2	Yellow
+"HSPB1 S15"	"NCBP1 S22"	cluster	4	2	Yellow
+"JUND S100"	"HSPB1 S78"	cluster	4	2	Yellow
+"JUND S100"	"NCBP1 T21"	cluster	4	2	Yellow
+"JUND S100"	"JUN S73"	cluster	4	2	Yellow
+"JUND S100"	"NCBP1 S22"	cluster	4	2	Yellow
+"HSPB1 S78"	"NCBP1 T21"	cluster	4	2	Yellow
+"HSPB1 S78"	"JUN S73"	cluster	4	2	Yellow
+"HSPB1 S78"	"NCBP1 S22"	cluster	4	2	Yellow
+"NCBP1 T21"	"JUN S73"	cluster	4	2	Yellow
+"NCBP1 T21"	"NCBP1 S22"	cluster	4	2	Yellow
+"JUN S73"	"NCBP1 S22"	cluster	4	2	Yellow
+"RAF1 S259"	"EEF2 T57"	cluster	4	2	Yellow
+"RAF1 S259"	"CRTC2 S70"	cluster	4	2	Yellow
+"RAF1 S259"	"RRM2 S20"	cluster	4	2	Yellow
+"EEF2 T57"	"CRTC2 S70"	cluster	4	2	Yellow
+"EEF2 T57"	"RRM2 S20"	cluster	4	2	Yellow
+"CRTC2 S70"	"RRM2 S20"	cluster	4	2	Yellow
+"LARP1 S774"	"ATRIP S224"	cluster	4	2	Yellow
+"LARP1 S774"	"PML S527"	cluster	4	2	Yellow
+"LARP1 S774"	"EIF4EBP2 T46"	cluster	4	2	Yellow
+"LARP1 S774"	"SIRT1 S47"	cluster	4	2	Yellow
+"LARP1 S774"	"PML S518"	cluster	4	2	Yellow
+"ATRIP S224"	"PML S527"	cluster	4	2	Yellow
+"ATRIP S224"	"EIF4EBP2 T46"	cluster	4	2	Yellow
+"ATRIP S224"	"SIRT1 S47"	cluster	4	2	Yellow
+"ATRIP S224"	"PML S518"	cluster	4	2	Yellow
+"PML S527"	"EIF4EBP2 T46"	cluster	4	2	Yellow
+"PML S527"	"SIRT1 S47"	cluster	4	2	Yellow
+"PML S527"	"PML S518"	cluster	4	2	Yellow
+"EIF4EBP2 T46"	"SIRT1 S47"	cluster	4	2	Yellow
+"EIF4EBP2 T46"	"PML S518"	cluster	4	2	Yellow
+"SIRT1 S47"	"PML S518"	cluster	4	2	Yellow
+"CDK1 T161"	CCNB1	interacts	4	2	#8ea2ff
+"CDC37 S13"	HSP90AA1	interacts	4	2	#8ea2ff
+"RAF1 S259"	LYN	interacts	4	2	#8ea2ff
+"CDC37 S13"	HSP90AB1	interacts	4	2	#8ea2ff
+"GSK3B S9"	BCL2	interacts	4	2	#8ea2ff
+"PEA15 S116"	MAPK1	interacts	4	2	#8ea2ff
+"PEA15 S104"	MAPK1	interacts	4	2	#8ea2ff
+"PAK2 S141"	CDC42	interacts	4	2	#8ea2ff
+"HSPB1 S78"	CYCS	interacts	4	2	#8ea2ff
+"RB1 S612"	E2F1	interacts	4	2	#8ea2ff
+"PEA15 S116"	FADD	interacts	4	2	#8ea2ff
+"PEA15 S104"	FADD	interacts	4	2	#8ea2ff
+"RB1 S612"	PIN1	interacts	4	2	#8ea2ff
+"CDC37 S13"	CDC37L1	interacts	4	2	#8ea2ff
+"STIM1 S575"	ANKS1B	interacts	4	2	#8ea2ff
+"RAF1 S259"	RERG	interacts	4	2	#8ea2ff
+"LASP1 S146"	TJP2	interacts	4	2	#8ea2ff
+"DNAJC5 S10"	STXBP5L	interacts	4	2	#8ea2ff
+CDK7	"CDK1 T161"	phosphorylates	3	2	Green
+MAP3K8	"CDK1 T161"	phosphorylates	3	2	Green
+CDK2	"ATRIP S224"	phosphorylates	3	2	Green
+CDK2	"RPL12 S38"	phosphorylates	3	2	Green
+CDK1	"TPX2 S738"	phosphorylates	3	2	Green
+PRKCI	"MARK2 T596"	phosphorylates	3	2	Green
+PRKCZ	"MARK2 T596"	phosphorylates	3	2	Green
+MARK1	"MAP4 S1073"	phosphorylates	3	2	Green
+MAPK8	"JUND S100"	phosphorylates	3	2	Green
+ADRBK1	"RPLP2 S105"	phosphorylates	3	2	Green
+CDK1	"CDK7 S164"	phosphorylates	3	2	Green
+CDK1	"HNRNPK S216"	phosphorylates	3	2	Green
+CDK2	"CDK7 S164"	phosphorylates	3	2	Green
+CDK2	"HNRNPK S216"	phosphorylates	3	2	Green
+CDK7	"CDK7 S164"	phosphorylates	3	2	Green
+CSNK2A1	"ABCF1 S109"	phosphorylates	3	2	Green
+DYRK1A	"SRSF6 S303"	phosphorylates	3	2	Green
+MAPK1	"MARS S825"	phosphorylates	3	2	Green
+MAPK1	"PKM S37"	phosphorylates	3	2	Green
+MAPK10	"HNRNPK S216"	phosphorylates	3	2	Green
+MAPK3	"MARS S825"	phosphorylates	3	2	Green
+MAPK8	"HNRNPK S216"	phosphorylates	3	2	Green
+MTOR	"OXSR1 S339"	phosphorylates	3	2	Green
+PAK2	"HIST4H4 S48"	phosphorylates	3	2	Green
+PRKAA1	"KLC2 S545"	phosphorylates	3	2	Green
+PRKAA1	"PRKAB1 S108"	phosphorylates	3	2	Green
+PRKAR2A	"PRKAR2A S99"	phosphorylates	3	2	Green
+PRKCD	"PRKCD S299"	phosphorylates	3	2	Green
+CDK1	"EFHD2 S74"	phosphorylates	3	2	Green
+CDK1	"GMPS T318"	phosphorylates	3	2	Green
+CDK1	"HMGCS1 S495"	phosphorylates	3	2	Green
+CDK1	"NUCKS1 S181"	phosphorylates	3	2	Green
+CDK1	"RB1 T373"	phosphorylates	3	2	Green
+CDK1	"TK1 S13"	phosphorylates	3	2	Green
+CDK2	"EFHD2 S74"	phosphorylates	3	2	Green
+CDK2	"GMPS T318"	phosphorylates	3	2	Green
+CDK2	"NUCKS1 S181"	phosphorylates	3	2	Green
+CDK2	"LARP1 T649"	phosphorylates	3	2	Green
+CDK2	"LRWD1 S243"	phosphorylates	3	2	Green
+CDK2	"RB1 T373"	phosphorylates	3	2	Green
+CDK2	"RB1 T826"	phosphorylates	3	2	Green
+CDK2	"RBL1 S640"	phosphorylates	3	2	Green
+CDK2	"RBL1 S762"	phosphorylates	3	2	Green
+CDK2	"TK1 S13"	phosphorylates	3	2	Green
+CDK4	"RB1 T373"	phosphorylates	3	2	Green
+CDK4	"RB1 T826"	phosphorylates	3	2	Green
+CDK4	"RBL1 S640"	phosphorylates	3	2	Green
+CDK6	"RB1 T826"	phosphorylates	3	2	Green
+CDK1	"PML S518"	phosphorylates	3	2	Green
+CDK2	"LARP1 S774"	phosphorylates	3	2	Green
+CDK2	"PML S518"	phosphorylates	3	2	Green
+CDK5	"SIRT1 S47"	phosphorylates	3	2	Green
+MAPK1	"PML S527"	phosphorylates	3	2	Green
+MAPK1	"PML S527"	phosphorylates	3	2	Green
+MAPK8	"SIRT1 S47"	phosphorylates	3	2	Green
+MTOR	"EIF4EBP2 T46"	phosphorylates	3	2	Green
+MTOR	"LARP1 S774"	phosphorylates	3	2	Green
+CDK16	"PRKAR1A S83"	phosphorylates	3	2	Green
+CDK2	"PRKAR1A S83"	phosphorylates	3	2	Green
+CSNK2A1	"PPP1R2 S121"	phosphorylates	3	2	Green
+CSNK2A1	"PPP1R2 S122"	phosphorylates	3	2	Green
+CSNK2A2	"PPP1R2 S121"	phosphorylates	3	2	Green
+CSNK2A2	"PPP1R2 S122"	phosphorylates	3	2	Green
+PAK4	"PAK4 S291"	phosphorylates	3	2	Green
+CDK1	"LIG3 S913"	phosphorylates	3	2	Green
+CDK1	"LMNB1 S23"	phosphorylates	3	2	Green
+CDK2	"LIG3 S913"	phosphorylates	3	2	Green
+AURKB	"DDX3X S594"	phosphorylates	3	2	Green
+CDK1	"PAICS S27"	phosphorylates	3	2	Green
+CDK2	"PAICS S27"	phosphorylates	3	2	Green
+CDK2	"ORC2 T226"	phosphorylates	3	2	Green
+CDK1	"SRRM2 T1413"	phosphorylates	3	2	Green
+CDK1	"ZC3HC1 S395"	phosphorylates	3	2	Green
+CDK1	"STMN1 S25"	phosphorylates	3	2	Green
+CDK1	"LMNB1 S393"	phosphorylates	3	2	Green
+CDK2	"ARID1A S363"	phosphorylates	3	2	Green
+CDK2	"C2orf49 S193"	phosphorylates	3	2	Green
+CDK2	"ZC3HC1 S395"	phosphorylates	3	2	Green
+CDK2	"STMN1 S25"	phosphorylates	3	2	Green
+CDK2	"SRSF9 S216"	phosphorylates	3	2	Green
+MAPK13	"STMN1 S25"	phosphorylates	3	2	Green
+MAPK3	"STMN1 S25"	phosphorylates	3	2	Green
+PAK2	"RPS6 S240"	phosphorylates	3	2	Green
+PRKCB	"STMN1 S25"	phosphorylates	3	2	Green
+RPS6KB1	"RPS6 S240"	phosphorylates	3	2	Green
+AURKA	"ARHGEF2 S886"	phosphorylates	3	2	Green
+DMPK	"PPP1R12A T696"	phosphorylates	3	2	Green
+ILK	"PPP1R12A T696"	phosphorylates	3	2	Green
+PAK1	"ARHGEF2 S886"	phosphorylates	3	2	Green
+PRKAA1	"KLC1 S521"	phosphorylates	3	2	Green
+PRKAA2	"KLC1 S521"	phosphorylates	3	2	Green
+RAF1	"PPP1R12A T696"	phosphorylates	3	2	Green
+ROCK1	"PPP1R12A T696"	phosphorylates	3	2	Green
+ROCK2	"PPP1R12A T696"	phosphorylates	3	2	Green
+CDK1	"HMGA1 T53"	phosphorylates	3	2	Green
+CDK1	"HMGA1 S36"	phosphorylates	3	2	Green
+CDK1	"ELAVL1 S202"	phosphorylates	3	2	Green
+CDK1	"HIST1H1E T18"	phosphorylates	3	2	Green
+CDK1	"HMGA1 T53"	phosphorylates	3	2	Green
+CDK1	"HMGA1 S36"	phosphorylates	3	2	Green
+CDK1	"LIG3 S210"	phosphorylates	3	2	Green
+CDK1	"NCL T121"	phosphorylates	3	2	Green
+CDK1	"SLC9A3R1 S280"	phosphorylates	3	2	Green
+CDK1	"NPM1 T199"	phosphorylates	3	2	Green
+CDK2	"GTF2I T558"	phosphorylates	3	2	Green
+CDK2	"ELAVL1 S202"	phosphorylates	3	2	Green
+CDK2	"HIST1H1E T18"	phosphorylates	3	2	Green
+CDK2	"HMGA1 S36"	phosphorylates	3	2	Green
+CDK2	"LIG3 S210"	phosphorylates	3	2	Green
+CDK2	"NCL T121"	phosphorylates	3	2	Green
+CDK2	"NPM1 T199"	phosphorylates	3	2	Green
+CDK2	"RAD18 S99"	phosphorylates	3	2	Green
+CDK5	"ELAVL1 S202"	phosphorylates	3	2	Green
+CDK6	"NPM1 T199"	phosphorylates	3	2	Green
+HIPK2	"HMGA1 T53"	phosphorylates	3	2	Green
+HIPK2	"HMGA1 S36"	phosphorylates	3	2	Green
+MAP3K8	"NPM1 T199"	phosphorylates	3	2	Green
+AKT1	"PEA15 S116"	phosphorylates	3	2	Green
+AURKB	"RIF1 S2205"	phosphorylates	3	2	Green
+CAMK2G	"PEA15 S116"	phosphorylates	3	2	Green
+CDK1	"STMN1 S38"	phosphorylates	3	2	Green
+CDK1	"RPS6KB1 S447"	phosphorylates	3	2	Green
+CDK2	"STMN1 S38"	phosphorylates	3	2	Green
+CDK2	"SNRNP70 S226"	phosphorylates	3	2	Green
+CDK7	"LASP1 S146"	phosphorylates	3	2	Green
+CHEK1	"RIF1 S2205"	phosphorylates	3	2	Green
+MAPK1	"STIM1 S575"	phosphorylates	3	2	Green
+MAPK1	"HNRNPK S284"	phosphorylates	3	2	Green
+MAPK1	"RPS6KB1 S447"	phosphorylates	3	2	Green
+MAPK13	"STMN1 S38"	phosphorylates	3	2	Green
+MAPK3	"STIM1 S575"	phosphorylates	3	2	Green
+MAPK3	"HNRNPK S284"	phosphorylates	3	2	Green
+MAPK3	"STMN1 S38"	phosphorylates	3	2	Green
+MTOR	"AKT1S1 S183"	phosphorylates	3	2	Green
+MTOR	"PATL1 S184"	phosphorylates	3	2	Green
+MTOR	"RPS6KB1 S447"	phosphorylates	3	2	Green
+PAK1	"STMN1 S38"	phosphorylates	3	2	Green
+PAK2	"PAK2 S141"	phosphorylates	3	2	Green
+PRKAA1	"PEA15 S116"	phosphorylates	3	2	Green
+PRKACA	"LASP1 S146"	phosphorylates	3	2	Green
+PRKAR2B	"LASP1 S146"	phosphorylates	3	2	Green
+PRKCA	"PEA15 S104"	phosphorylates	3	2	Green
+PRKCB	"STMN1 S38"	phosphorylates	3	2	Green
+PRKCD	"PRKCD S304"	phosphorylates	3	2	Green
+PRKG1	"LASP1 S146"	phosphorylates	3	2	Green
+PRKG2	"LASP1 S146"	phosphorylates	3	2	Green
+ROCK1	"ARHGAP35 S1150"	phosphorylates	3	2	Green
+UHMK1	"STMN1 S38"	phosphorylates	3	2	Green
+AKT1	"EDC3 S161"	phosphorylates	3	2	Green
+AKT2	"EDC3 S161"	phosphorylates	3	2	Green
+LATS1	"PPP1R12A S445"	phosphorylates	3	2	Green
+NUAK1	"PPP1R12A S445"	phosphorylates	3	2	Green
+PRKCA	"ILK T181"	phosphorylates	3	2	Green
+PRKCA	"SHC1 S139"	phosphorylates	3	2	Green
+AKT1	"BAD S118"	phosphorylates	3	2	Green
+ARAF	"BAD S118"	phosphorylates	3	2	Green
+BRAF	"BAD S118"	phosphorylates	3	2	Green
+CDK2	"SUDS3 S234"	phosphorylates	3	2	Green
+PAK1	"BAD S118"	phosphorylates	3	2	Green
+PIM1	"BAD S118"	phosphorylates	3	2	Green
+PIM2	"BAD S118"	phosphorylates	3	2	Green
+PIM3	"BAD S118"	phosphorylates	3	2	Green
+PRKACA	"BAD S118"	phosphorylates	3	2	Green
+PRKACA	"HIST1H1E S36"	phosphorylates	3	2	Green
+PRKCE	"BAD S118"	phosphorylates	3	2	Green
+PRKCI	"BAD S118"	phosphorylates	3	2	Green
+PRKD1	"BAD S118"	phosphorylates	3	2	Green
+RAF1	"BAD S118"	phosphorylates	3	2	Green
+RPS6KA1	"BAD S118"	phosphorylates	3	2	Green
+RPS6KA2	"BAD S118"	phosphorylates	3	2	Green
+PRKACA	"PPP2R5D S573"	phosphorylates	3	2	Green
+PRKD1	"ARFIP1 S132"	phosphorylates	3	2	Green
+CDK2	"RB1 S612"	phosphorylates	3	2	Green
+CDK4	"RB1 S612"	phosphorylates	3	2	Green
+CDK6	"RB1 S612"	phosphorylates	3	2	Green
+CHEK1	"RB1 S612"	phosphorylates	3	2	Green
+CHEK2	"RB1 S612"	phosphorylates	3	2	Green
+CSNK2A1	"MDC1 S329"	phosphorylates	3	2	Green
+MTOR	"PATL1 S179"	phosphorylates	3	2	Green
+ADRBK1	"RPLP2 S102"	phosphorylates	3	2	Green
+CDK1	"NPM1 S70"	phosphorylates	3	2	Green
+CDK2	"HNRNPH2 S104"	phosphorylates	3	2	Green
+CDK2	"NPM1 S70"	phosphorylates	3	2	Green
+CSNK2A1	"CDC37 S13"	phosphorylates	3	2	Green
+CSNK2A2	"CDC37 S13"	phosphorylates	3	2	Green
+NEK2	"NPM1 S70"	phosphorylates	3	2	Green
+PRKACA	"DNAJC5 S10"	phosphorylates	3	2	Green
+AKT1	"HTT S419"	phosphorylates	3	2	Green
+CAMK2G	"CAMK2G T287"	phosphorylates	3	2	Green
+CDK2	"CCDC6 S244"	phosphorylates	3	2	Green
+CHEK1	"CCDC6 S240"	phosphorylates	3	2	Green
+CHEK1	"CCDC6 S244"	phosphorylates	3	2	Green
+MAPK3	"CCDC6 S244"	phosphorylates	3	2	Green
+PDPK1	"RPS6KA3 S227"	phosphorylates	3	2	Green
+RPS6KA3	"RPS6KA3 S227"	phosphorylates	3	2	Green
+SGK1	"HTT S419"	phosphorylates	3	2	Green
+AKT1	"EIF4EBP1 T37"	phosphorylates	3	2	Green
+CDK2	"MCM3 T722"	phosphorylates	3	2	Green
+CDK2	"SF3B1 T142"	phosphorylates	3	2	Green
+GSK3B	"EIF4EBP1 T37"	phosphorylates	3	2	Green
+MAPK1	"EIF4EBP1 T37"	phosphorylates	3	2	Green
+MAPK14	"EIF4EBP1 T37"	phosphorylates	3	2	Green
+MTOR	"EIF4EBP1 T37"	phosphorylates	3	2	Green
+TBK1	"MTDH S568"	phosphorylates	3	2	Green
+AURKB	"SSH3 S37"	phosphorylates	3	2	Green
+CDK1	"TPR S2073"	phosphorylates	3	2	Green
+LIMK1	"DSTN S3"	phosphorylates	3	2	Green
+LIMK2	"DSTN S3"	phosphorylates	3	2	Green
+TESK2	"DSTN S3"	phosphorylates	3	2	Green
+AKT1	"CARHSP1 S52"	phosphorylates	3	2	Green
+AKT1	"GSK3B S9"	phosphorylates	3	2	Green
+AURKA	"GSK3B S9"	phosphorylates	3	2	Green
+CDK1	"CANX S583"	phosphorylates	3	2	Green
+CDK1	"FLNA S1459"	phosphorylates	3	2	Green
+CDK1	"SSR1 S268"	phosphorylates	3	2	Green
+CDK1	"U2AF2 S79"	phosphorylates	3	2	Green
+CDK2	"RALY S135"	phosphorylates	3	2	Green
+GSK3B	"GSK3B S9"	phosphorylates	3	2	Green
+ILK	"GSK3B S9"	phosphorylates	3	2	Green
+MAP4K5	"GSK3B S9"	phosphorylates	3	2	Green
+MAPK3	"CANX S583"	phosphorylates	3	2	Green
+PAK4	"PAK4 S181"	phosphorylates	3	2	Green
+PLK1	"CLIP1 S195"	phosphorylates	3	2	Green
+PRKACA	"CAD S1859"	phosphorylates	3	2	Green
+PRKACA	"GSK3B S9"	phosphorylates	3	2	Green
+PRKCA	"GSK3B S9"	phosphorylates	3	2	Green
+PRKCB	"GSK3B S9"	phosphorylates	3	2	Green
+PRKCD	"GSK3B S9"	phosphorylates	3	2	Green
+PRKCG	"GSK3B S9"	phosphorylates	3	2	Green
+PRKCH	"GSK3B S9"	phosphorylates	3	2	Green
+PRKCZ	"GSK3B S9"	phosphorylates	3	2	Green
+RPS6KA1	"CARHSP1 S52"	phosphorylates	3	2	Green
+RPS6KA1	"GSK3B S9"	phosphorylates	3	2	Green
+RPS6KA3	"GSK3B S9"	phosphorylates	3	2	Green
+RPS6KB1	"URI1 S372"	phosphorylates	3	2	Green
+RPS6KB1	"CAD S1859"	phosphorylates	3	2	Green
+RPS6KB1	"GSK3B S9"	phosphorylates	3	2	Green
+RPS6KB2	"GSK3B S9"	phosphorylates	3	2	Green
+RPS6KB2	"HNRNPA1 S6"	phosphorylates	3	2	Green
+RPS6KB2	"HNRNPA1 S4"	phosphorylates	3	2	Green
+SGK1	"CARHSP1 S52"	phosphorylates	3	2	Green
+SGK3	"GSK3B S9"	phosphorylates	3	2	Green
+AKT1	"HSPB1 S82"	phosphorylates	3	2	Green
+CDK3	"JUN S73"	phosphorylates	3	2	Green
+CHEK1	"TRIM28 S473"	phosphorylates	3	2	Green
+CHEK2	"TRIM28 S473"	phosphorylates	3	2	Green
+MAPK15	"JUN S73"	phosphorylates	3	2	Green
+MAPK8	"JUN S73"	phosphorylates	3	2	Green
+MAPK9	"JUN S73"	phosphorylates	3	2	Green
+MAPKAPK2	"HSPB1 S82"	phosphorylates	3	2	Green
+MAPKAPK2	"HSPB1 S15"	phosphorylates	3	2	Green
+MAPKAPK2	"HSPB1 S78"	phosphorylates	3	2	Green
+MAPKAPK2	"TRIM28 S473"	phosphorylates	3	2	Green
+MAPKAPK3	"HSPB1 S82"	phosphorylates	3	2	Green
+MAPKAPK3	"HSPB1 S15"	phosphorylates	3	2	Green
+MAPKAPK3	"HSPB1 S78"	phosphorylates	3	2	Green
+MAPKAPK5	"HSPB1 S82"	phosphorylates	3	2	Green
+MAPKAPK5	"HSPB1 S78"	phosphorylates	3	2	Green
+PBK	"JUN S73"	phosphorylates	3	2	Green
+PKD1	"HSPB1 S82"	phosphorylates	3	2	Green
+PLK3	"JUN S73"	phosphorylates	3	2	Green
+PRKACA	"HSPB1 S82"	phosphorylates	3	2	Green
+PRKACA	"HSPB1 S78"	phosphorylates	3	2	Green
+PRKD1	"HSPB1 S82"	phosphorylates	3	2	Green
+PRKG1	"HSPB1 S82"	phosphorylates	3	2	Green
+PRKG1	"HSPB1 S15"	phosphorylates	3	2	Green
+PRKG1	"HSPB1 S78"	phosphorylates	3	2	Green
+RPS6KB1	"NCBP1 T21"	phosphorylates	3	2	Green
+RPS6KB1	"NCBP1 S22"	phosphorylates	3	2	Green
+RPS6KB2	"HSPB1 S82"	phosphorylates	3	2	Green
+RPS6KB2	"HSPB1 S78"	phosphorylates	3	2	Green
+VRK1	"JUN S73"	phosphorylates	3	2	Green
+AKT1	"RAF1 S259"	phosphorylates	3	2	Green
+CDK1	"RRM2 S20"	phosphorylates	3	2	Green
+CDK2	"RRM2 S20"	phosphorylates	3	2	Green
+EEF2K	"EEF2 T57"	phosphorylates	3	2	Green
+LATS1	"RAF1 S259"	phosphorylates	3	2	Green
+PRKACA	"RAF1 S259"	phosphorylates	3	2	Green
+RAF1	"RAF1 S259"	phosphorylates	3	2	Green
+SIK1	"CRTC2 S70"	phosphorylates	3	2	Green
+SIK3	"CRTC2 S70"	phosphorylates	3	2	Green
+STK3	"RAF1 S259"	phosphorylates	3	2	Green
+"CDK1 T161"	4
+"ABCF1 S109"	4
+"CDK7 S164"	4
+"HIST4H4 S48"	4
+"HNRNPK S216"	4
+"KLC2 S545"	4
+"MARS S825"	4
+"OXSR1 S339"	4
+"PKM S37"	4
+"PRKAB1 S108"	4
+"PRKAR2A S99"	4
+"PRKCD S299"	4
+"RPLP2 S105"	4
+"SRSF6 S303"	4
+"EFHD2 S74"	5
+"GMPS T318"	5
+"HMGCS1 S495"	5
+"LARP1 T649"	5
+"LRWD1 S243"	5
+"NUCKS1 S181"	5
+"RB1 T373"	5
+"RB1 T826"	5
+"RBL1 S640"	5
+"RBL1 S762"	5
+"TK1 S13"	5
+"ATRIP S224"	6
+"EIF4EBP2 T46"	6
+"LARP1 S774"	6
+"PML S518"	6
+"PML S527"	6
+"SIRT1 S47"	6
+"PAK4 S291"	11
+"PPP1R2 S121"	11
+"PPP1R2 S122"	11
+"PRKAR1A S83"	11
+"RPL12 S38"	17
+"LIG3 S913"	17
+"LMNB1 S23"	17
+"DDX3X S594"	18
+"ORC2 T226"	18
+"PAICS S27"	18
+"TPX2 S738"	18
+"ARID1A S363"	29
+"C2orf49 S193"	29
+"LMNB1 S393"	29
+"RPS6 S240"	29
+"SRRM2 T1413"	29
+"SRSF9 S216"	29
+"STMN1 S25"	29
+"ZC3HC1 S395"	29
+"ARHGEF2 S886"	30
+"KLC1 S521"	30
+"PPP1R12A T696"	30
+"ELAVL1 S202"	32
+"GTF2I T558"	32
+"HIST1H1E T18"	32
+"HMGA1 S36"	32
+"HMGA1 T53"	32
+"LIG3 S210"	32
+"NCL T121"	32
+"NPM1 T199"	32
+"RAD18 S99"	32
+"SLC9A3R1 S280"	32
+"AKT1S1 S183"	33
+"ARHGAP35 S1150"	33
+"HNRNPK S284"	33
+"LASP1 S146"	33
+"PAK2 S141"	33
+"PATL1 S184"	33
+"PEA15 S104"	33
+"PEA15 S116"	33
+"PRKCD S304"	33
+"RIF1 S2205"	33
+"RPS6KB1 S447"	33
+"SNRNP70 S226"	33
+"STIM1 S575"	33
+"STMN1 S38"	33
+"MARK2 T596"	34
+"EDC3 S161"	34
+"ILK T181"	34
+"PPP1R12A S445"	34
+"SHC1 S139"	34
+"BAD S118"	37
+"HIST1H1E S36"	37
+"SUDS3 S234"	37
+"ARFIP1 S132"	38
+"PPP2R5D S573"	38
+"MAP4 S1073"	38
+"MDC1 S329"	41
+"PATL1 S179"	41
+"RB1 S612"	41
+"CDC37 S13"	42
+"DNAJC5 S10"	42
+"HNRNPH2 S104"	42
+"NPM1 S70"	42
+"RPLP2 S102"	42
+"CAMK2G T287"	43
+"CCDC6 S240"	43
+"CCDC6 S244"	43
+"HTT S419"	43
+"RPS6KA3 S227"	43
+"EIF4EBP1 T37"	48
+"MCM3 T722"	48
+"MTDH S568"	48
+"SF3B1 T142"	48
+"DSTN S3"	50
+"SSH3 S37"	50
+"TPR S2073"	50
+"CAD S1859"	52
+"CANX S583"	52
+"CARHSP1 S52"	52
+"CLIP1 S195"	52
+"FLNA S1459"	52
+"GSK3B S9"	52
+"HNRNPA1 S4"	52
+"HNRNPA1 S6"	52
+"PAK4 S181"	52
+"RALY S135"	52
+"SSR1 S268"	52
+"U2AF2 S79"	52
+"URI1 S372"	52
+"JUND S100"	53
+"HSPB1 S15"	53
+"HSPB1 S78"	53
+"HSPB1 S82"	53
+"JUN S73"	53
+"NCBP1 S22"	53
+"NCBP1 T21"	53
+"TRIM28 S473"	53
+"CRTC2 S70"	55
+"EEF2 T57"	55
+"RAF1 S259"	55
+"RRM2 S20"	55
+HSP90AA1	56
+HSP90AB1	56
+BCL2	56
+CCNB1	56
+CDC42	56
+CYCS	56
+E2F1	56
+FADD	56
+PIN1	56
+CDC37L1	56
+ANKS1B	56
+RERG	56
+TJP2	56
+STXBP5L	56
+ADRBK1	58
+AKT1	57
+AKT2	58
+ARAF	57
+AURKA	58
+AURKB	58
+BRAF	57
+CAMK2A	80
+CAMK2B	80
+CAMK2G	58
+CAMK4	80
+CDK1	59
+CDK16	59
+CDK2	59
+CDK3	59
+CDK4	59
+CDK5	59
+CDK6	59
+CDK7	59
+CHEK1	59
+CHEK2	59
+CLK1	80
+CLK2	80
+CSNK2A1	58
+CSNK2A2	58
+DMPK	58
+DYRK1A	58
+DYRK2	80
+EEF2K	58
+ERBB2	80
+GRK5	80
+GSK3B	58
+HIPK2	58
+ILK	58
+LATS1	62
+LIMK1	62
+LIMK2	62
+LYN	62
+MAP3K8	60
+MAP4K5	60
+MAPK1	60
+MAPK10	60
+MAPK13	60
+MAPK14	60
+MAPK15	60
+MAPK3	60
+MAPK8	60
+MAPK9	60
+MAPKAPK2	60
+MAPKAPK3	60
+MAPKAPK5	60
+MARK1	58
+MTOR	62
+NEK2	62
+NUAK1	62
+PAK1	62
+PAK2	62
+PAK4	62
+PASK	80
+PBK	58
+PDPK1	58
+PIM1	57
+PIM2	57
+PIM3	57
+PKD1	58
+PKMYT1	80
+PLK1	58
+PLK2	80
+PLK3	58
+PRKAA1	61
+PRKAA2	61
+PRKACA	61
+PRKAR2A	61
+PRKAR2B	61
+PRKCA	61
+PRKCB	61
+PRKCD	61
+PRKCE	61
+PRKCG	61
+PRKCH	61
+PRKCI	61
+PRKCZ	61
+PRKD1	61
+PRKG1	61
+PRKG2	61
+RAF1	57
+RHEB	80
+ROCK1	58
+ROCK2	58
+RPS6KA1	62
+RPS6KA2	62
+RPS6KA3	62
+RPS6KB1	62
+RPS6KB2	62
+SGK1	62
+SGK3	62
+SIK1	62
+SIK3	62
+SRC	80
+STK3	58
+TBK1	58
+TESK2	58
+UHMK1	58
+VRK1	58
+WEE1	80
+WEE2	80

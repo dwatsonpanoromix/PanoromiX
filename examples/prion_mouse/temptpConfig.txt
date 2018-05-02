@@ -1,0 +1,7 @@
+label	image	description
+2 Weeks	img1.jpg	No clinical sign
+4 Weeks	img2.jpg	No clinical sign
+6 Weeks	img3.jpg	No clinical sign
+8 Weeks	img4.jpg	Clinical sign: Stare
+10 Weeks	img5.jpg	"Clinical signs: Stare, Slow, Clumsy"
+12 Weeks	img6.jpg	"Clinical signs: Kyphosis, Ataxia, Head tilt, Dehydration "

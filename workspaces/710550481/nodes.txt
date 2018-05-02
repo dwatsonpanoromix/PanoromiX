@@ -1,0 +1,184 @@
+root	icon	id	name	group	type	description	size	color	timepoints
+false	none	Node1	Differentiation	"Annotation Cluster 1"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 6.315789473684211"	2	2	1
+false	none	Node2	Spermatogenesis	"Annotation Cluster 1"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node3	GO:0007283~spermatogenesis	"Annotation Cluster 1"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node4	"Developmental protein"	"Annotation Cluster 1"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 6.315789473684211"	2	2	1
+false	none	Node5	"GO:0007275~multicellular organism development"	"Annotation Cluster 1"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 6.315789473684211"	2	2	1
+false	none	Node6	Membrane	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 51.578947368421055"	6	6	1
+false	none	Node7	"disulfide bond"	"Annotation Cluster 2"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 17.894736842105264"	3	3	1
+false	none	Node8	"GO:0005886~plasma membrane"	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 32.631578947368425"	4	4	1
+false	none	Node9	"topological domain:Cytoplasmic"	"Annotation Cluster 2"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 18.947368421052634"	3	3	1
+false	none	Node10	"GO:0006954~inflammatory response"	"Annotation Cluster 2"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 5.263157894736842"	2	2	1
+false	none	Node11	"GO:0030246~carbohydrate binding"	"Annotation Cluster 2"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node12	"Transmembrane helix"	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 37.89473684210527"	5	5	1
+false	none	Node13	"glycosylation site:N-linked (GlcNAc...)"	"Annotation Cluster 2"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 20.0"	3	3	1
+false	none	Node14	"transmembrane region"	"Annotation Cluster 2"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 23.157894736842106"	3	3	1
+false	none	Node15	Transmembrane	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 37.89473684210527"	5	5	1
+false	none	Node16	Signal-anchor	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 5.263157894736842"	2	2	1
+false	none	Node17	"topological domain:Extracellular"	"Annotation Cluster 2"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 13.684210526315791"	2	2	1
+false	none	Node18	"Disulfide bond"	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 18.947368421052634"	3	3	1
+false	none	Node19	Lectin	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node20	"GO:0016021~integral component of membrane"	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 37.89473684210527"	5	5	1
+false	none	Node21	"Cell membrane"	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 21.052631578947366"	3	3	1
+false	none	Node22	"topological domain:Lumenal"	"Annotation Cluster 2"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node23	Receptor	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 14.736842105263156"	2	2	1
+false	none	Node24	Glycoprotein	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 20.0"	3	3	1
+false	none	Node25	"signal peptide"	"Annotation Cluster 2"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 14.736842105263156"	2	2	1
+false	none	Node26	GO:0016020~membrane	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 35.78947368421053"	5	5	1
+false	none	Node27	"Golgi apparatus"	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 5.263157894736842"	2	2	1
+false	none	Node28	"GO:0009897~external side of plasma membrane"	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node29	"GO:0005794~Golgi apparatus"	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 7.368421052631578"	2	2	1
+false	none	Node30	GO:0030424~axon	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node31	Signal	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 21.052631578947366"	3	3	1
+false	none	Node32	"mutagenesis site"	"Annotation Cluster 2"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node33	"GO:0016740~transferase activity"	"Annotation Cluster 2"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 7.368421052631578"	2	2	1
+false	none	Node34	Calcium	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node35	Transferase	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 7.368421052631578"	2	2	1
+false	none	Node36	"mmu01100:Metabolic pathways"	"Annotation Cluster 2"	KEGG_PATHWAY	"Category: KEGG_PATHWAY- Percentage: 5.263157894736842"	2	2	1
+false	none	Node37	"GO:0070062~extracellular exosome"	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 11.578947368421053"	2	2	1
+false	none	Node38	"GO:0005615~extracellular space"	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 6.315789473684211"	2	2	1
+false	none	Node39	"GO:0005576~extracellular region"	"Annotation Cluster 2"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 5.263157894736842"	2	2	1
+false	none	Node40	Secreted	"Annotation Cluster 2"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node41	SM00382:AAA	"Annotation Cluster 3"	SMART	"Category: SMART- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node42	"GO:0005524~ATP binding"	"Annotation Cluster 3"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 11.578947368421053"	2	2	1
+false	none	Node43	"IPR003593:AAA- ATPase domain"	"Annotation Cluster 3"	INTERPRO	"Category: INTERPRO- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node44	"IPR027417:P-loop containing nucleoside triphosphate hydrolase"	"Annotation Cluster 3"	INTERPRO	"Category: INTERPRO- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node45	Membrane	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 51.578947368421055"	6	6	1
+false	none	Node46	"GO:0005886~plasma membrane"	"Annotation Cluster 4"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 32.631578947368425"	4	4	1
+false	none	Node47	"topological domain:Cytoplasmic"	"Annotation Cluster 4"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 18.947368421052634"	3	3	1
+false	none	Node48	"Transmembrane helix"	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 37.89473684210527"	5	5	1
+false	none	Node49	"transmembrane region"	"Annotation Cluster 4"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 23.157894736842106"	3	3	1
+false	none	Node50	Transmembrane	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 37.89473684210527"	5	5	1
+false	none	Node51	"topological domain:Extracellular"	"Annotation Cluster 4"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 13.684210526315791"	2	2	1
+false	none	Node52	"GO:0016021~integral component of membrane"	"Annotation Cluster 4"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 37.89473684210527"	5	5	1
+false	none	Node53	"Cell membrane"	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 21.052631578947366"	3	3	1
+false	none	Node54	"GO:0005549~odorant binding"	"Annotation Cluster 4"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node55	Receptor	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 14.736842105263156"	2	2	1
+false	none	Node56	GO:0016020~membrane	"Annotation Cluster 4"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 35.78947368421053"	5	5	1
+false	none	Node57	"GO:0007165~signal transduction"	"Annotation Cluster 4"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 7.368421052631578"	2	2	1
+false	none	Node58	"mmu04740:Olfactory transduction"	"Annotation Cluster 4"	KEGG_PATHWAY	"Category: KEGG_PATHWAY- Percentage: 6.315789473684211"	2	2	1
+false	none	Node59	"Sensory transduction"	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 7.368421052631578"	2	2	1
+false	none	Node60	"GO:0007608~sensory perception of smell"	"Annotation Cluster 4"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 6.315789473684211"	2	2	1
+false	none	Node61	Olfaction	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 6.315789473684211"	2	2	1
+false	none	Node62	"GO:0007186~G-protein coupled receptor signaling pathway"	"Annotation Cluster 4"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 8.421052631578947"	2	2	1
+false	none	Node63	"IPR000725:Olfactory receptor"	"Annotation Cluster 4"	INTERPRO	"Category: INTERPRO- Percentage: 6.315789473684211"	2	2	1
+false	none	Node64	"G-protein coupled receptor"	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 8.421052631578947"	2	2	1
+false	none	Node65	"GO:0004984~olfactory receptor activity"	"Annotation Cluster 4"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 6.315789473684211"	2	2	1
+false	none	Node66	"IPR000276:G protein-coupled receptor- rhodopsin-like"	"Annotation Cluster 4"	INTERPRO	"Category: INTERPRO- Percentage: 7.368421052631578"	2	2	1
+false	none	Node67	"IPR017452:GPCR- rhodopsin-like- 7TM"	"Annotation Cluster 4"	INTERPRO	"Category: INTERPRO- Percentage: 8.421052631578947"	2	2	1
+false	none	Node68	Transducer	"Annotation Cluster 4"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 8.421052631578947"	2	2	1
+false	none	Node69	"GO:0004930~G-protein coupled receptor activity"	"Annotation Cluster 4"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 8.421052631578947"	2	2	1
+false	none	Node70	"GO:0005887~integral component of plasma membrane"	"Annotation Cluster 4"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 5.263157894736842"	2	2	1
+false	none	Node71	"Cell membrane"	"Annotation Cluster 5"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 21.052631578947366"	3	3	1
+false	none	Node72	Lipoprotein	"Annotation Cluster 5"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 6.315789473684211"	2	2	1
+false	none	Node73	Palmitate	"Annotation Cluster 5"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node74	"Alternative splicing"	"Annotation Cluster 6"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 27.368421052631582"	4	4	1
+false	none	Node75	"splice variant"	"Annotation Cluster 6"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 23.157894736842106"	3	3	1
+false	none	Node76	Phosphoprotein	"Annotation Cluster 6"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 35.78947368421053"	5	5	1
+false	none	Node77	GO:0005737~cytoplasm	"Annotation Cluster 6"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 33.68421052631579"	4	4	1
+false	none	Node78	Cytoplasm	"Annotation Cluster 6"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 18.947368421052634"	3	3	1
+false	none	Node79	"splice variant"	"Annotation Cluster 7"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 23.157894736842106"	3	3	1
+false	none	Node80	"GO:0031410~cytoplasmic vesicle"	"Annotation Cluster 7"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 5.263157894736842"	2	2	1
+false	none	Node81	"Cytoplasmic vesicle"	"Annotation Cluster 7"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node82	GO:0006810~transport	"Annotation Cluster 7"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 8.421052631578947"	2	2	1
+false	none	Node83	"IPR011993:Pleckstrin homology-like domain"	"Annotation Cluster 8"	INTERPRO	"Category: INTERPRO- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node84	SM00233:PH	"Annotation Cluster 8"	SMART	"Category: SMART- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node85	"IPR001849:Pleckstrin homology domain"	"Annotation Cluster 8"	INTERPRO	"Category: INTERPRO- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node86	Cytoplasm	"Annotation Cluster 8"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 18.947368421052634"	3	3	1
+false	none	Node87	Hydrolase	"Annotation Cluster 9"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 11.578947368421053"	2	2	1
+false	none	Node88	"splice variant"	"Annotation Cluster 9"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 23.157894736842106"	3	3	1
+false	none	Node89	"GO:0016787~hydrolase activity"	"Annotation Cluster 9"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 9.473684210526317"	2	2	1
+false	none	Node90	Protease	"Annotation Cluster 9"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node91	"GO:0008233~peptidase activity"	"Annotation Cluster 9"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node92	GO:0006508~proteolysis	"Annotation Cluster 9"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node93	"Lipid metabolism"	"Annotation Cluster 10"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node94	"GO:0006629~lipid metabolic process"	"Annotation Cluster 10"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node95	"mmu01100:Metabolic pathways"	"Annotation Cluster 10"	KEGG_PATHWAY	"Category: KEGG_PATHWAY- Percentage: 5.263157894736842"	2	2	1
+false	none	Node96	SM00355:ZnF_C2H2	"Annotation Cluster 11"	SMART	"Category: SMART- Percentage: 7.368421052631578"	2	2	1
+false	none	Node97	"IPR015880:Zinc finger- C2H2-like"	"Annotation Cluster 11"	INTERPRO	"Category: INTERPRO- Percentage: 7.368421052631578"	2	2	1
+false	none	Node98	"IPR007087:Zinc finger- C2H2"	"Annotation Cluster 11"	INTERPRO	"Category: INTERPRO- Percentage: 7.368421052631578"	2	2	1
+false	none	Node99	"IPR013087:Zinc finger C2H2-type-integrase DNA-binding domain"	"Annotation Cluster 11"	INTERPRO	"Category: INTERPRO- Percentage: 6.315789473684211"	2	2	1
+false	none	Node100	GO:0005622~intracellular	"Annotation Cluster 11"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 11.578947368421053"	2	2	1
+false	none	Node101	SM00349:KRAB	"Annotation Cluster 11"	SMART	"Category: SMART- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node102	"IPR001909:Krueppel-associated box"	"Annotation Cluster 11"	INTERPRO	"Category: INTERPRO- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node103	"zinc finger region:C2H2-type 3"	"Annotation Cluster 11"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node104	"zinc finger region:C2H2-type 2"	"Annotation Cluster 11"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node105	"GO:0003676~nucleic acid binding"	"Annotation Cluster 11"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 8.421052631578947"	2	2	1
+false	none	Node106	Metal-binding	"Annotation Cluster 11"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 15.789473684210526"	3	3	1
+false	none	Node107	Zinc-finger	"Annotation Cluster 11"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 7.368421052631578"	2	2	1
+false	none	Node108	"GO:0046872~metal ion binding"	"Annotation Cluster 11"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 15.789473684210526"	3	3	1
+false	none	Node109	Zinc	"Annotation Cluster 11"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 9.473684210526317"	2	2	1
+false	none	Node110	Nucleus	"Annotation Cluster 11"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 18.947368421052634"	3	3	1
+false	none	Node111	DNA-binding	"Annotation Cluster 11"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 6.315789473684211"	2	2	1
+false	none	Node112	"GO:0006355~regulation of transcription- DNA-templated"	"Annotation Cluster 11"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 8.421052631578947"	2	2	1
+false	none	Node113	GO:0005634~nucleus	"Annotation Cluster 11"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 25.263157894736842"	4	4	1
+false	none	Node114	"GO:0003677~DNA binding"	"Annotation Cluster 11"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 7.368421052631578"	2	2	1
+false	none	Node115	"GO:0003700~transcription factor activity- sequence-specific DNA binding"	"Annotation Cluster 11"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node116	GO:0005654~nucleoplasm	"Annotation Cluster 11"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 5.263157894736842"	2	2	1
+false	none	Node117	GO:0005739~mitochondrion	"Annotation Cluster 11"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node118	GO:0005829~cytosol	"Annotation Cluster 12"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 11.578947368421053"	2	2	1
+false	none	Node119	"Coiled coil"	"Annotation Cluster 12"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 16.842105263157894"	3	3	1
+false	none	Node120	Cytoskeleton	"Annotation Cluster 12"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 7.368421052631578"	2	2	1
+false	none	Node121	"Cell projection"	"Annotation Cluster 12"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 5.263157894736842"	2	2	1
+false	none	Node122	GO:0005856~cytoskeleton	"Annotation Cluster 12"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 7.368421052631578"	2	2	1
+false	none	Node123	"GO:0042995~cell projection"	"Annotation Cluster 12"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 5.263157894736842"	2	2	1
+false	none	Node124	"Cell junction"	"Annotation Cluster 12"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node125	"GO:0030054~cell junction"	"Annotation Cluster 12"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node126	Cytoplasm	"Annotation Cluster 12"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 18.947368421052634"	3	3	1
+false	none	Node127	"GO:0000287~magnesium ion binding"	"Annotation Cluster 13"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node128	Magnesium	"Annotation Cluster 13"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 6.315789473684211"	2	2	1
+false	none	Node129	ATP-binding	"Annotation Cluster 13"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 10.526315789473683"	2	2	1
+false	none	Node130	"GO:0005524~ATP binding"	"Annotation Cluster 13"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 11.578947368421053"	2	2	1
+false	none	Node131	Hydrolase	"Annotation Cluster 13"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 11.578947368421053"	2	2	1
+false	none	Node132	"nucleotide phosphate-binding region:ATP"	"Annotation Cluster 13"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 6.315789473684211"	2	2	1
+false	none	Node133	Nucleotide-binding	"Annotation Cluster 13"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 10.526315789473683"	2	2	1
+false	none	Node134	"GO:0043066~negative regulation of apoptotic process"	"Annotation Cluster 13"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node135	"active site:Proton acceptor"	"Annotation Cluster 13"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node136	"IPR017441:Protein kinase- ATP binding site"	"Annotation Cluster 13"	INTERPRO	"Category: INTERPRO- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node137	"GO:0000166~nucleotide binding"	"Annotation Cluster 13"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 9.473684210526317"	2	2	1
+false	none	Node138	"binding site:ATP"	"Annotation Cluster 13"	UP_SEQ_FEATURE	"Category: UP_SEQ_FEATURE- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node139	"GO:0016740~transferase activity"	"Annotation Cluster 13"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 7.368421052631578"	2	2	1
+false	none	Node140	"IPR000719:Protein kinase- catalytic domain"	"Annotation Cluster 13"	INTERPRO	"Category: INTERPRO- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node141	"GO:0006468~protein phosphorylation"	"Annotation Cluster 13"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node142	Transferase	"Annotation Cluster 13"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 7.368421052631578"	2	2	1
+false	none	Node143	"GO:0004672~protein kinase activity"	"Annotation Cluster 13"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node144	"IPR011009:Protein kinase-like domain"	"Annotation Cluster 13"	INTERPRO	"Category: INTERPRO- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node145	GO:0016310~phosphorylation	"Annotation Cluster 13"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node146	Kinase	"Annotation Cluster 13"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node147	"GO:0016301~kinase activity"	"Annotation Cluster 13"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node148	Acetylation	"Annotation Cluster 13"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 9.473684210526317"	2	2	1
+false	none	Node149	Apoptosis	"Annotation Cluster 14"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node150	"GO:0006915~apoptotic process"	"Annotation Cluster 14"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node151	"GO:0005515~protein binding"	"Annotation Cluster 14"	GOTERM_MF_DIRECT	"Category: GOTERM_MF_DIRECT- Percentage: 17.894736842105264"	3	3	1
+false	none	Node152	GO:0006810~transport	"Annotation Cluster 15"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 8.421052631578947"	2	2	1
+false	none	Node153	"GO:0015031~protein transport"	"Annotation Cluster 15"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node154	"Protein transport"	"Annotation Cluster 15"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node155	Transport	"Annotation Cluster 15"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 7.368421052631578"	2	2	1
+false	none	Node156	Signal	"Annotation Cluster 16"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 21.052631578947366"	3	3	1
+false	none	Node157	"IPR013106:Immunoglobulin V-set"	"Annotation Cluster 16"	INTERPRO	"Category: INTERPRO- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node158	"IPR013783:Immunoglobulin-like fold"	"Annotation Cluster 16"	INTERPRO	"Category: INTERPRO- Percentage: 4.2105263157894735"	1	1	1
+false	none	Node159	"IPR007110:Immunoglobulin-like domain"	"Annotation Cluster 16"	INTERPRO	"Category: INTERPRO- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node160	Repressor	"Annotation Cluster 17"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 3.1578947368421053"	1	1	1
+false	none	Node161	Nucleus	"Annotation Cluster 17"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 18.947368421052634"	3	3	1
+false	none	Node162	"GO:0006355~regulation of transcription- DNA-templated"	"Annotation Cluster 17"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 8.421052631578947"	2	2	1
+false	none	Node163	GO:0005634~nucleus	"Annotation Cluster 17"	GOTERM_CC_DIRECT	"Category: GOTERM_CC_DIRECT- Percentage: 25.263157894736842"	4	4	1
+false	none	Node164	"GO:0006351~transcription- DNA-templated"	"Annotation Cluster 17"	GOTERM_BP_DIRECT	"Category: GOTERM_BP_DIRECT- Percentage: 6.315789473684211"	2	2	1
+false	none	Node165	Transcription	"Annotation Cluster 17"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 6.315789473684211"	2	2	1
+false	none	Node166	"Transcription regulation"	"Annotation Cluster 17"	UP_KEYWORDS	"Category: UP_KEYWORDS- Percentage: 5.263157894736842"	2	2	1
+true	transparent.gif	"Annotation Cluster 1"	"Annotation Cluster 1"	1	1
+true	transparent.gif	"Annotation Cluster 2"	"Annotation Cluster 2"	2	2
+true	transparent.gif	"Annotation Cluster 3"	"Annotation Cluster 3"	3	3
+true	transparent.gif	"Annotation Cluster 4"	"Annotation Cluster 4"	4	4
+true	transparent.gif	"Annotation Cluster 5"	"Annotation Cluster 5"	5	5
+true	transparent.gif	"Annotation Cluster 6"	"Annotation Cluster 6"	6	6
+true	transparent.gif	"Annotation Cluster 7"	"Annotation Cluster 7"	7	7
+true	transparent.gif	"Annotation Cluster 8"	"Annotation Cluster 8"	8	8
+true	transparent.gif	"Annotation Cluster 9"	"Annotation Cluster 9"	9	9
+true	transparent.gif	"Annotation Cluster 10"	"Annotation Cluster 10"	10	10
+true	transparent.gif	"Annotation Cluster 11"	"Annotation Cluster 11"	11	11
+true	transparent.gif	"Annotation Cluster 12"	"Annotation Cluster 12"	12	12
+true	transparent.gif	"Annotation Cluster 13"	"Annotation Cluster 13"	13	13
+true	transparent.gif	"Annotation Cluster 14"	"Annotation Cluster 14"	14	14
+true	transparent.gif	"Annotation Cluster 15"	"Annotation Cluster 15"	15	15
+true	transparent.gif	"Annotation Cluster 16"	"Annotation Cluster 16"	16	16
+true	transparent.gif	"Annotation Cluster 17"	"Annotation Cluster 17"	17	17

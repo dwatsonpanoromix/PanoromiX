@@ -1,0 +1,34 @@
+root	icon	id	name	group	type	description	size	color	color2	timepoints
+false	none	Node1	"Cell membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"Cell membrane"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	1	2	2
+false	none	Node2	"compositionally biased region:Poly-Ser"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"compositionally biased region:Poly-Ser"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	1	2	2
+false	none	Node3	"G-protein coupled receptor"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"G-protein coupled receptor"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	1	2	2
+false	none	Node4	Glycoprotein	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	Glycoprotein	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	1	2	2
+false	none	Node5	"glycosylation site:N-linked (GlcNAc...)"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"glycosylation site:N-linked (GlcNAc...)"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	2	2	2
+false	none	Node6	"GO:0001076~transcription factor activity- RNA polymerase II transcription factor binding"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"GO:0001076~transcription factor activity- RNA polymerase II transcription factor binding"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	2	2	2
+false	none	Node7	"GO:0001609~G-protein coupled adenosine receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"GO:0001609~G-protein coupled adenosine receptor activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	2	3	2
+false	none	Node8	"GO:0003810~protein-glutamine gamma-glutamyltransferase activity"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"GO:0003810~protein-glutamine gamma-glutamyltransferase activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	2	3	2
+false	none	Node9	"GO:0004871~signal transducer activity"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"GO:0004871~signal transducer activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	3	3	2
+false	none	Node10	"GO:0004930~G-protein coupled receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	"GO:0004930~G-protein coupled receptor activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	3	3	3	2
+false	none	Node11	"Cell membrane"	mouse_ptsd_blood_analy_10d1d_genes	"Cell membrane"	"PTSD - Mouse - T10R1 - mRNA Microarray"	4	3	3	2
+false	none	Node12	"compositionally biased region:Poly-Ser"	mouse_ptsd_blood_analy_10d1d_genes	"compositionally biased region:Poly-Ser"	"PTSD - Mouse - T10R1 - mRNA Microarray"	4	2	3	2
+false	none	Node13	"G-protein coupled receptor"	mouse_ptsd_blood_analy_10d1d_genes	"G-protein coupled receptor"	"PTSD - Mouse - T10R1 - mRNA Microarray"	4	2	3	2
+false	none	Node14	Glycoprotein	mouse_ptsd_blood_analy_10d1d_genes	Glycoprotein	"PTSD - Mouse - T10R1 - mRNA Microarray"	4	2	4	2
+false	none	Node15	"glycosylation site:N-linked (GlcNAc...)"	mouse_ptsd_blood_analy_10d1d_genes	"glycosylation site:N-linked (GlcNAc...)"	"PTSD - Mouse - T10R1 - mRNA Microarray"	4	1	4	2
+false	none	Node16	"GO:0001076~transcription factor activity- RNA polymerase II transcription factor binding"	mouse_ptsd_blood_analy_10d1d_genes	"GO:0001076~transcription factor activity- RNA polymerase II transcription factor binding"	"PTSD - Mouse - T10R1 - mRNA Microarray"	4	1	4	2
+false	none	Node17	"GO:0001609~G-protein coupled adenosine receptor activity"	mouse_ptsd_blood_analy_10d1d_genes	"GO:0001609~G-protein coupled adenosine receptor activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	2	2	4	2
+false	none	Node18	"GO:0003810~protein-glutamine gamma-glutamyltransferase activity"	mouse_ptsd_blood_analy_10d1d_genes	"GO:0003810~protein-glutamine gamma-glutamyltransferase activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	2	3	4	2
+false	none	Node19	"GO:0004871~signal transducer activity"	mouse_ptsd_blood_analy_10d1d_genes	"GO:0004871~signal transducer activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	2	3	4	2
+false	none	Node20	"GO:0004930~G-protein coupled receptor activity"	mouse_ptsd_blood_analy_10d1d_genes	"GO:0004930~G-protein coupled receptor activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	2	3	0	2
+false	none	Node21	"Cell membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"Cell membrane"	"PTSD - Mouse - T10R1 - mRNA Microarray"	2	2	0	2
+false	none	Node22	"compositionally biased region:Poly-Ser"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"compositionally biased region:Poly-Ser"	"PTSD - Mouse - T10R1 - mRNA Microarray"	1	3	0	2
+false	none	Node23	"G-protein coupled receptor"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"G-protein coupled receptor"	"PTSD - Mouse - T10R1 - mRNA Microarray"	1	3	0	2
+false	none	Node24	Glycoprotein	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	Glycoprotein	"PTSD - Mouse - T10R1 - mRNA Microarray"	1	1	0	2
+false	none	Node25	"glycosylation site:N-linked (GlcNAc...)"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"glycosylation site:N-linked (GlcNAc...)"	"PTSD - Mouse - T10R1 - mRNA Microarray"	5	3	0	2
+false	none	Node26	"GO:0001076~transcription factor activity- RNA polymerase II transcription factor binding"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"GO:0001076~transcription factor activity- RNA polymerase II transcription factor binding"	"PTSD - Mouse - T10R1 - mRNA Microarray"	5	3	1	2
+false	none	Node27	"GO:0001609~G-protein coupled adenosine receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"GO:0001609~G-protein coupled adenosine receptor activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	5	1	2	2
+false	none	Node28	"GO:0003810~protein-glutamine gamma-glutamyltransferase activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"GO:0003810~protein-glutamine gamma-glutamyltransferase activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	5	3	2	2
+false	none	Node29	"GO:0004871~signal transducer activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"GO:0004871~signal transducer activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	5	1	4	2
+false	none	Node30	"GO:0004930~G-protein coupled receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	"GO:0004930~G-protein coupled receptor activity"	"PTSD - Mouse - T10R1 - mRNA Microarray"	5	3	0	2
+true	transparent.gif	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	1	1
+true	transparent.gif	mouse_ptsd_blood_analy_10d1d_genes	mouse_ptsd_blood_analy_10d1d_genes	2	2
+true	transparent.gif	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	3	3

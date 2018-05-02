@@ -1,0 +1,91 @@
+root	icon	id	name	group	type	description	size	timepoints
+false	none	Node1	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"Alternative splicing"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	4	1
+false	none	Node2	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"Cell membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node3	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"Cell membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node4	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"disulfide bond"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node5	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"disulfide bond"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node6	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"Disulfide bond"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node7	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"G-protein coupled receptor"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node8	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"G-protein coupled receptor"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node9	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Glycoprotein	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node10	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"glycosylation site:N-linked (GlcNAc...)"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node11	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"glycosylation site:N-linked (GlcNAc...)"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node12	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0004930~G-protein coupled receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node13	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0004930~G-protein coupled receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node14	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	GO:0005622~intracellular	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	2	1
+false	none	Node15	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	GO:0005856~cytoskeleton	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node16	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"GO:0005886~plasma membrane"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	4	1
+false	none	Node17	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0005886~plasma membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node18	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"GO:0005886~plasma membrane"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	4	1
+false	none	Node19	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0005886~plasma membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node20	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0007165~signal transduction"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node21	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0007165~signal transduction"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node22	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0007186~G-protein coupled receptor signaling pathway"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node23	C57B6_analy_5d24h_moderated_ttest_p_0.01_1261_probes.txt	"GO:0007186~G-protein coupled receptor signaling pathway"	C57B6_analy_5d24h_moderated_ttest_p_0.01_1261_probes.txt	"ptsd -> mouse -> T5R1 -> mRNA_Microarray"	3	1
+false	none	Node24	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0007186~G-protein coupled receptor signaling pathway"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node25	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	GO:0016020~membrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node26	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	GO:0016020~membrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	6	1
+false	none	Node27	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0016021~integral component of membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node28	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0016021~integral component of membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node29	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0042803~protein homodimerization activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node30	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"IPR000276:G protein-coupled receptor- rhodopsin-like"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node31	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"IPR000276:G protein-coupled receptor- rhodopsin-like"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node32	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"IPR017452:GPCR- rhodopsin-like- 7TM"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node33	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"IPR017452:GPCR- rhodopsin-like- 7TM"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node34	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Lipoprotein	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node35	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	Membrane	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	6	1
+false	none	Node36	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Membrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	6	1
+false	none	Node37	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	Membrane	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	6	1
+false	none	Node38	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Membrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	6	1
+false	none	Node39	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Receptor	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node40	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Receptor	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node41	C57B6_analy_5d24h_moderated_ttest_p_0.05_4089_probes.txt	"splice variant"	C57B6_analy_5d24h_moderated_ttest_p_0.05_4089_probes.txt	"ptsd -> mouse -> T5R1 -> mRNA_Microarray"	5	1
+false	none	Node42	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"splice variant"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node43	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"topological domain:Cytoplasmic"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node44	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"topological domain:Cytoplasmic"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node45	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"topological domain:Cytoplasmic"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node46	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"topological domain:Cytoplasmic"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node47	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"topological domain:Extracellular"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node48	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"topological domain:Extracellular"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	2	1
+false	none	Node49	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"topological domain:Extracellular"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node50	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Transducer	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node51	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Transducer	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node52	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	Transmembrane	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	5	1
+false	none	Node53	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Transmembrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node54	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	Transmembrane	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	5	1
+false	none	Node55	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Transmembrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node56	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"Transmembrane helix"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	5	1
+false	none	Node57	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"Transmembrane helix"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node58	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"Transmembrane helix"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	5	1
+false	none	Node59	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"Transmembrane helix"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node60	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"transmembrane region"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node61	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"transmembrane region"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node62	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"transmembrane region"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+true	transparent.gif	"Alternative splicing"	"Alternative splicing"	1	1
+true	transparent.gif	"Cell membrane"	"Cell membrane"	2	2
+true	transparent.gif	"disulfide bond"	"disulfide bond"	3	3
+true	transparent.gif	"Disulfide bond"	"Disulfide bond"	4	4
+true	transparent.gif	"G-protein coupled receptor"	"G-protein coupled receptor"	5	5
+true	transparent.gif	Glycoprotein	Glycoprotein	6	6
+true	transparent.gif	"glycosylation site:N-linked (GlcNAc...)"	"glycosylation site:N-linked (GlcNAc...)"	7	7
+true	transparent.gif	"GO:0004930~G-protein coupled receptor activity"	"GO:0004930~G-protein coupled receptor activity"	8	8
+true	transparent.gif	GO:0005622~intracellular	GO:0005622~intracellular	9	9
+true	transparent.gif	GO:0005856~cytoskeleton	GO:0005856~cytoskeleton	10	10
+true	transparent.gif	"GO:0005886~plasma membrane"	"GO:0005886~plasma membrane"	11	11
+true	transparent.gif	"GO:0007165~signal transduction"	"GO:0007165~signal transduction"	12	12
+true	transparent.gif	"GO:0007186~G-protein coupled receptor signaling pathway"	"GO:0007186~G-protein coupled receptor signaling pathway"	13	13
+true	transparent.gif	GO:0016020~membrane	GO:0016020~membrane	14	14
+true	transparent.gif	"GO:0016021~integral component of membrane"	"GO:0016021~integral component of membrane"	15	15
+true	transparent.gif	"GO:0042803~protein homodimerization activity"	"GO:0042803~protein homodimerization activity"	16	16
+true	transparent.gif	"IPR000276:G protein-coupled receptor- rhodopsin-like"	"IPR000276:G protein-coupled receptor- rhodopsin-like"	17	17
+true	transparent.gif	"IPR017452:GPCR- rhodopsin-like- 7TM"	"IPR017452:GPCR- rhodopsin-like- 7TM"	18	18
+true	transparent.gif	Lipoprotein	Lipoprotein	19	19
+true	transparent.gif	Membrane	Membrane	20	20
+true	transparent.gif	Receptor	Receptor	21	21
+true	transparent.gif	"splice variant"	"splice variant"	22	22
+true	transparent.gif	"topological domain:Cytoplasmic"	"topological domain:Cytoplasmic"	23	23
+true	transparent.gif	"topological domain:Extracellular"	"topological domain:Extracellular"	24	24
+true	transparent.gif	Transducer	Transducer	25	25
+true	transparent.gif	Transmembrane	Transmembrane	26	26
+true	transparent.gif	"Transmembrane helix"	"Transmembrane helix"	27	27
+true	transparent.gif	"transmembrane region"	"transmembrane region"	28	28

@@ -1,0 +1,1 @@
+rootId	rootX	rootY	timepoint	charge	gravity	borderW	linkWidth	linkColor	maxScore	minScore	radius	fontColorNode	fontColorCenter	saved	key	colorLabel	sizeLabel	typeLabel	tpLabels	typeColors	fillColors	discreteFillColors	bgFlg	background

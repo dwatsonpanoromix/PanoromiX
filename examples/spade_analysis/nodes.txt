@@ -1,0 +1,314 @@
+root	icon	id	name	group	type	color	color2	color3	color4	color5	color6	size					timepoints
+false	none	A1	" "	HSC	"Stem Cell"	0	2	2	2	2	3	1					6
+false	none	A2	" "	MPP	Progenitor	1	2	2	2	2	4	2					6
+false	none	A3	" "	Pro-B	"B cell"	2	2	2	2	2	4	3					6
+false	none	A4	" "	"Pre-B I"	"B cell"	2	2	2	7	2	4	4					6
+false	none	A5	" "	"Pre-B II"	"B cell"	1	2	2	3	2	3	5					6
+false	none	A6	" "	"Pre-B II"	"B cell"	2	2	2	4	2	4	6					6
+false	none	A7	" "	"Pre-B II"	"B cell"	7	2	2	0	1	0	7					6
+false	none	A8	" "	"Pre-B II"	"B cell"	7	2	2	6	2	6	8					6
+false	none	A9	" "	"Pre-B II"	"B cell"	2	2	2	5	2	5	1					6
+false	none	A10	" "	NK	"NK cell"	1	2	2	1	2	3	2				1	6
+false	none	A11	" "	NK	"NK cell"	2	1	2	2	2	4	3					6
+false	none	A12	" "	NK	"NK cell"	1	2	2	2	2	4	4					6
+false	none	A13	" "	NK	"NK cell"	2	2	2	2	2	3	5					6
+false	none	A14	" "	NK	"NK cell"	2	2	2	2	2	3	6					6
+false	none	A15	" "	NK	"NK cell"	1	1	2	2	2	7	7					6
+false	none	A16	" "	NK	"NK cell"	1	2	2	2	1	8	8					6
+false	none	A17	" "	NK	"NK cell"	2	1	2	1	2	3	1					6
+false	none	A18	" "	NK	"NK cell"	2	0	2	2	2	4	2					6
+false	none	A19	" "	NK	"NK cell"	1	3	2	2	1	4	3					6
+false	none	A20	" "	NK	"NK cell"	2	4	2	2	2	3	4					6
+false	none	A21	" "	NK	"NK cell"	2	7	2	2	2	3	5					6
+false	none	A22	" "	NK	"NK cell"	1	7	2	2	2	0	6					6
+false	none	A23	" "	NK	"NK cell"	2	2	2	2	2	4	7					6
+false	none	A24	" "	NKT	"NK cell"	4	2	2	2	2	1	8					6
+false	none	A25	" "	NKT	"NK cell"	6	2	2	2	2	2	1					6
+false	none	A26	" "	NKT	"NK cell"	6	2	2	2	2	1	2					6
+false	none	A27	" "	NKT	"NK cell"	6	2	2	2	2	1	3					6
+false	none	A28	" "	NKT	"NK cell"	6	2	2	2	2	2	4					6
+false	none	A29	" "	"Memory CD8- T"	"T cell"	4	5	2	2	2	1	5					6
+false	none	A30	" "	"Memory CD8- T"	"T cell"	5	5	2	2	2	2	6					6
+false	none	A31	" "	"Memory CD8- T"	"T cell"	6	6	2	2	2	1	7					6
+false	none	A32	" "	"Memory CD8- T"	"T cell"	6	6	2	2	1	2	8					6
+false	none	A33	" "	"Memory CD8- T"	"T cell"	5	5	2	2	2	2	1					6
+false	none	A34	" "	"Memory CD8- T"	"T cell"	4	6	2	2	2	2	2					6
+false	none	A35	" "	"Memory CD8- T"	"T cell"	6	5	2	2	2	2	3					6
+false	none	A36	" "	"Memory CD8- T"	"T cell"	6	6	2	2	2	1	4					6
+false	none	A37	" "	"Memory CD8- T"	"T cell"	5	5	2	2	2	1	5					6
+false	none	A38	" "	"Memory CD8- T"	"T cell"	6	6	2	2	2	2	6					6
+false	none	A39	" "	"Naive CD8- T"	"T cell"	3	4	2	2	2	2	7					6
+false	none	A40	" "	"Naive CD8- T"	"T cell"	4	5	2	2	2	2	8					6
+false	none	A41	" "	"Naive CD8- T"	"T cell"	5	6	2	2	2	2	1					6
+false	none	A42	" "	"Naive CD8- T"	"T cell"	6	4	2	2	2	1	2					6
+false	none	A43	" "	"Naive CD8- T"	"T cell"	3	4	1	2	1	1	3					6
+false	none	A44	" "	"Naive CD8- T"	"T cell"	4	5	2	2	1	1	4					6
+false	none	A45	" "	"Naive CD8- T"	"T cell"	5	5	2	2	2	1	5					6
+false	none	A46	" "	"Naive CD8- T"	"T cell"	6	6	2	2	2	2	6					6
+false	none	A47	" "	"Naive CD8- T"	"T cell"	3	6	2	7	2	1	7					6
+false	none	A48	" "	"Naive CD8- T"	"T cell"	3	5	2	2	2	1	8					6
+false	none	A49	" "	"Naive CD8- T"	"T cell"	4	5	1	2	1	7	1					6
+false	none	A50	" "	"Naive CD8- T"	"T cell"	4	6	2	2	2	7	2					6
+false	none	A51	" "	"Naive CD8- T"	"T cell"	5	6	2	2	2	7	3					6
+false	none	A52	" "	"Naive CD8- T"	"T cell"	5	4	2	1	2	8	4					6
+false	none	A53	" "	"Naive CD8- T"	"T cell"	6	5	2	2	2	7	5					6
+false	none	A54	" "	"Naive CD8- T"	"T cell"	6	6	2	2	2	1	6					6
+false	none	A55	" "	"Naive CD8- T"	"T cell"	3	4	1	2	2	1	7					6
+false	none	A56	" "	"Naive CD8- T"	"T cell"	4	5	2	2	2	1	8					6
+false	none	A57	" "	"Naive CD8- T"	"T cell"	5	6	2	2	1	3	1					6
+false	none	A58	" "	"Naive CD8- T"	"T cell"	6	4	2	2	2	7	2					6
+false	none	A59	" "	"Naive CD8- T"	"T cell"	3	4	2	2	2	7	3					6
+false	none	A60	" "	"Naive CD8- T"	"T cell"	4	5	2	2	2	8	4					6
+false	none	A61	" "	"Naive CD8- T"	"T cell"	5	5	2	2	2	2	5					6
+false	none	A62	" "	"Naive CD8- T"	"T cell"	6	6	2	2	2	1	6					6
+false	none	A63	" "	"Naive CD4- T"	"T cell"	6	2	4	2	2	7	7					6
+false	none	A64	" "	"Naive CD4- T"	"T cell"	6	2	4	2	2	7	8					6
+false	none	A65	" "	"Naive CD4- T"	"T cell"	6	2	3	2	2	7	1					6
+false	none	A66	" "	"Naive CD4- T"	"T cell"	6	1	3	2	1	8	2					6
+false	none	A67	" "	"Naive CD4- T"	"T cell"	6	2	5	2	2	7	3					6
+false	none	A68	" "	"Naive CD4- T"	"T cell"	5	2	6	2	2	7	4					6
+false	none	A69	" "	"Naive CD4- T"	"T cell"	5	1	4	2	2	8	5					6
+false	none	A70	" "	"Naive CD4- T"	"T cell"	6	2	5	2	2	8	6					6
+false	none	A71	" "	"Naive CD4- T"	"T cell"	5	1	6	2	1	0	7					6
+false	none	A72	" "	"Naive CD4- T"	"T cell"	6	2	4	2	2	1	8					6
+false	none	A73	" "	"Naive CD4- T"	"T cell"	6	2	4	2	2	1	1					6
+false	none	A74	" "	"Naive CD4- T"	"T cell"	6	2	7	2	1	7	2					6
+false	none	A75	" "	"Naive CD4- T"	"T cell"	6	2	4	2	2	7	3					6
+false	none	A76	" "	"Naive CD4- T"	"T cell"	6	2	5	2	2	8	4					6
+false	none	A77	" "	"Naive CD4- T"	"T cell"	6	2	6	2	2	8	5					6
+false	none	A78	" "	"Memory CD4- T"	"T cell"	5	1	4	2	2	1	6					6
+false	none	A79	" "	"Memory CD4- T"	"T cell"	6	2	5	2	2	1	7					6
+false	none	A80	" "	"Memory CD4- T"	"T cell"	5	2	6	2	2	2	8					6
+false	none	A81	" "	"Memory CD4- T"	"T cell"	6	2	4	2	2	1	1					6
+false	none	A82	" "	"Memory CD4- T"	"T cell"	5	1	4	2	2	2	2					6
+false	none	A83	" "	"Memory CD4- T"	"T cell"	6	1	5	2	2	1	3					6
+false	none	A84	" "	"Memory CD4- T"	"T cell"	6	2	5	2	2	7	4					6
+false	none	A85	" "	"Memory CD4- T"	"T cell"	6	2	6	2	2	2	5					6
+false	none	A86	" "	"Memory CD4- T"	"T cell"	5	2	6	2	2	1	6					6
+false	none	A87	" "	"Memory CD4- T"	"T cell"	6	2	5	2	1	1	7					6
+false	none	A88	" "	"Memory CD4- T"	"T cell"	6	1	6	2	2	0	8					6
+false	none	A89	" "	"Memory CD4- T"	"T cell"	5	2	5	2	1	1	1					6
+false	none	A90	" "	"Memory CD4- T"	"T cell"	5	1	6	2	2	1	2					6
+false	none	A91	" "	"Memory CD4- T"	"T cell"	6	2	5	2	1	2	3					6
+false	none	A92	" "	"Memory CD4- T"	"T cell"	5	1	5	2	1	2	4					6
+false	none	A93	" "	"Memory CD4- T"	"T cell"	6	2	6	2	2	1	5					6
+false	none	A94	" "	"Memory CD4- T"	"T cell"	5	2	6	2	2	7	6					6
+false	none	A95	" "	"Memory CD4- T"	"T cell"	6	1	4	2	2	1	7					6
+false	none	A96	" "	"Memory CD4- T"	"T cell"	6	1	5	2	2	1	8					6
+false	none	A97	" "	"Memory CD4- T"	"T cell"	6	2	6	2	2	2	1					6
+false	none	A98	" "	"Immature B"	"B cell"	1	2	2	0	0	4	2					6
+false	none	A99	" "	"Immature B"	"B cell"	2	2	2	7	3	5	3					6
+false	none	A100	" "	"Immature B"	"B cell"	7	2	2	0	5	6	4					6
+false	none	A101	" "	"Immature B"	"B cell"	1	2	2	7	6	4	5					6
+false	none	A102	" "	"Mature B"	"B cell"	1	2	2	4	0	7	6					6
+false	none	A103	" "	"Mature B"	"B cell"	2	2	2	5	0	7	7					6
+false	none	A104	" "	"Mature B"	"B cell"	1	2	2	6	7	1	8					6
+false	none	A105	" "	"Mature B"	"B cell"	2	1	2	3	0	2	1					6
+false	none	A106	" "	"Mature B"	"B cell"	2	2	2	4	0	1	2					6
+false	none	A107	" "	"Mature B"	"B cell"	2	2	2	5	5	2	3					6
+false	none	A108	" "	"Mature B"	"B cell"	2	2	2	6	6	7	4					6
+false	none	A109	" "	"Mature B"	"B cell"	1	2	2	3	3	7	5					6
+false	none	A110	" "	"Mature B"	"B cell"	2	2	2	4	4	2	6					6
+false	none	A111	" "	"Mature B"	"B cell"	7	2	2	4	2	1	7					6
+false	none	A112	" "	"Mature B"	"B cell"	1	2	2	5	1	7	8					6
+false	none	A113	" "	"Mature B"	"B cell"	1	2	2	5	2	7	1					6
+false	none	A114	" "	"Mature B"	"B cell"	2	1	2	6	5	2	2					6
+false	none	A115	" "	"Mature B"	"B cell"	2	2	2	6	0	1	3					6
+false	none	A116	" "	"Mature B"	"B cell"	2	2	2	3	0	7	4					6
+false	none	A117	" "	"Mature B"	"B cell"	1	2	2	4	7	2	5					6
+false	none	A118	" "	"Mature B"	"B cell"	7	2	2	5	0	7	6					6
+false	none	A119	" "	"Mature B"	"B cell"	7	2	2	6	0	7	7					6
+false	none	A120	" "	"Mature B"	"B cell"	1	2	2	4	5	7	8					6
+false	none	A121	" "	"Mature B"	"B cell"	2	2	2	5	6	7	1					6
+false	none	A122	" "	"Mature B"	"B cell"	1	2	2	6	3	7	2					6
+false	none	A123	" "	"Mature B"	"B cell"	2	2	2	3	4	1	3					6
+false	none	A124	" "	"Mature B"	"B cell"	2	2	2	3	2	7	4					6
+false	none	A125	" "	"Mature B"	"B cell"	1	2	2	6	1	2	5					6
+false	none	A126	" "	"Mature B"	"B cell"	2	2	2	5	2	7	6					6
+false	none	A127	" "	"Mature B"	"B cell"	2	2	2	3	5	7	7					6
+false	none	A128	" "	"IL-3R_- mature B"	"B cell"	1	2	2	4	0	7	8					6
+false	none	A129	" "	"IL-3R_- mature B"	"B cell"	2	2	2	5	0	7	1					6
+false	none	A130	" "	"IL-3R_- mature B"	"B cell"	1	2	2	6	1	1	2					6
+false	none	A131	" "	"IL-3R_- mature B"	"B cell"	2	2	2	4	2	7	3					6
+false	none	A132	" "	"IL-3R_- mature B"	"B cell"	1	2	2	5	0	2	4					6
+false	none	A133	" "	"IL-3R_- mature B"	"B cell"	2	2	2	6	0	7	5					6
+false	none	A134	" "	"IL-3R_- mature B"	"B cell"	2	2	2	4	5	1	6					6
+false	none	A135	" "	"IL-3R_- mature B"	"B cell"	2	2	2	4	6	2	7					6
+false	none	A136	" "	"IL-3R_- mature B"	"B cell"	1	2	2	5	0	1	8					6
+false	none	A137	" "	"IL-3R_- mature B"	"B cell"	2	2	2	5	5	2	1					6
+false	none	A138	" "	"IL-3R_- mature B"	"B cell"	7	2	2	6	6	7	2					6
+false	none	A139	" "	"IL-3R_- mature B"	"B cell"	7	2	2	6	1	7	3					6
+false	none	A140	" "	"IL-3R_- mature B"	"B cell"	2	2	2	0	7	7	4					6
+false	none	A141	" "	"IL-3R_- mature B"	"B cell"	1	2	2	0	7	8	5					6
+false	none	A142	" "	"IL-3R_- mature B"	"B cell"	2	2	2	4	7	1	6					6
+false	none	A143	" "	"IL-3R_- mature B"	"B cell"	1	2	2	0	3	2	7					6
+false	none	A144	" "	"IL-3R_- mature B"	"B cell"	2	2	2	5	4	7	8					6
+false	none	A145	" "	"IL-3R_- mature B"	"B cell"	1	2	2	6	5	7	1					6
+false	none	A146	" "	"IL-3R_- mature B"	"B cell"	2	2	2	4	3	1	2					6
+false	none	A147	" "	"Plasma cell"	"B cell"	1	2	2	3	2	6	3					6
+false	none	A148	" "	CMP	Progenitor	0	2	2	1	2	3	4					6
+false	none	A149	" "	Monoblast	Monocyte	7	2	2	1	2	0	5					6
+false	none	A150	" "	Monoblast	Monocyte	1	2	7	2	2	3	6					6
+false	none	A151	" "	Monoblast	Monocyte	7	2	2	2	2	4	7					6
+false	none	A152	" "	Monocyte	Monocyte	0	2	1	2	2	0	8					6
+false	none	A153	" "	Monocyte	Monocyte	0	2	2	2	2	0	1					6
+false	none	A154	" "	Monocyte	Monocyte	7	2	1	1	1	0	2					6
+false	none	A155	" "	Monocyte	Monocyte	7	2	2	2	2	0	3					6
+false	none	A156	" "	Monocyte	Monocyte	0	1	7	2	2	7	4					6
+false	none	A157	" "	Monocyte	Monocyte	7	2	7	2	2	7	5					6
+false	none	A158	" "	Monocyte	Monocyte	7	2	3	2	2	8	6					6
+false	none	A159	" "	Monocyte	Monocyte	1	1	4	2	2	7	7					6
+false	none	A160	" "	Monocyte	Monocyte	2	2	7	2	2	8	8					6
+false	none	A161	" "	Monocyte	Monocyte	1	2	0	2	2	0	1					6
+false	none	A162	" "	Monocyte	Monocyte	1	2	1	2	2	0	2					6
+false	none	A163	" "	Monocyte	Monocyte	2	2	2	1	1	0	3					6
+false	none	A164	" "	Monocyte	Monocyte	2	2	7	2	2	7	4					6
+false	none	A165	" "	Monocyte	Monocyte	1	2	7	2	2	8	5					6
+false	none	A166	" "	Monocyte	Monocyte	1	2	1	2	2	0	6					6
+false	none	A167	" "	Monocyte	Monocyte	2	2	1	2	2	7	7					6
+false	none	A168	" "	Monocyte	Monocyte	2	2	2	2	2	8	8					6
+false	none	A169	" "	Monocyte	Monocyte	2	1	1	1	2	0	1					6
+false	none	A170	" "	Monocyte	Monocyte	1	2	2	2	2	0	2					6
+false	none	A171	" "	Monocyte	Monocyte	2	2	7	2	2	0	3					6
+false	none	A172	" "	Monocyte	Monocyte	7	1	8	2	1	0	4					6
+false	none	A173	" "	Monocyte	Monocyte	7	2	3	2	2	7	5					6
+false	none	A174	" "	Monocyte	Monocyte	0	2	4	2	2	7	6					6
+false	none	A175	" "	Monocyte	Monocyte	0	2	7	2	2	8	7					6
+false	none	A176	" "	Monocyte	Monocyte	0	2	0	2	2	7	8					6
+false	none	A177	" "	Monocyte	Monocyte	0	2	1	2	2	8	1					6
+false	none	A178	" "	Monocyte	Monocyte	0	2	2	1	2	0	2					6
+false	none	A179	" "	Monocyte	Monocyte	1	2	8	2	2	0	3					6
+false	none	A180	" "	Monocyte	Monocyte	1	2	7	2	2	0	4					6
+false	none	A181	" "	Monocyte	Monocyte	2	2	1	2	1	7	5					6
+false	none	A182	" "	Monocyte	Monocyte	2	1	1	2	2	8	6					6
+false	none	A183	" "	Monocyte	Monocyte	1	2	2	2	2	0	7					6
+false	none	A184	" "	Monocyte	Monocyte	2	2	1	1	2	7	8					6
+false	none	A185	" "	Monocyte	Monocyte	0	1	2	2	2	8	1					6
+false	none	A186	" "	Monocyte	Monocyte	0	2	7	2	2	0	2					6
+false	none	A187	" "	Monocyte	Monocyte	7	2	7	2	2	0	3					6
+false	none	A188	" "	Monocyte	Monocyte	7	2	3	2	2	0	4					6
+false	none	A189	" "	Monocyte	Monocyte	0	2	4	2	2	0	5					6
+false	none	A190	" "	Monocyte	Monocyte	7	2	7	2	1	7	6					6
+false	none	A191	" "	Monocyte	Monocyte	7	2	0	2	2	7	7					6
+false	none	A192	" "	Monocyte	Monocyte	1	2	1	2	2	8	8					6
+false	none	A193	" "	Monocyte	Monocyte	2	2	2	1	2	7	1					6
+false	none	A194	" "	Pro-monocyte	Monocyte	1	2	7	2	2	0	2					6
+false	none	A195	" "	Pro-monocyte	Monocyte	2	2	1	2	2	7	3					6
+false	none	A196	" "	Pre-DC	"Dendritic cell"	1	2	1	2	2	1	4					6
+false	none	A197	" "	Pre-DC	"Dendritic cell"	2	2	7	2	2	7	5					6
+false	none	A198	" "	GMP	Progenitor	1	2	2	2	2	4	6					6
+false	none	A199	" "	"Plasmacytoid DC"	"Dendritic cell"	1	2	1	2	2	1	7					6
+false	none	A200	" "	"Plasmacytoid DC"	"Dendritic cell"	1	2	7	2	2	0	8					6
+false	none	A201	" "	"Plasmacytoid DC"	"Dendritic cell"	2	2	2	2	2	3	1					6
+false	none	A202	" "	"Plasmacytoid DC"	"Dendritic cell"	2	2	2	2	2	4	2					6
+false	none	A203	" "	"Plasmacytoid DC"	"Dendritic cell"	7	2	2	2	2	7	3					6
+false	none	A204	" "	"Plasmacytoid DC"	"Dendritic cell"	1	2	2	2	2	0	4					6
+false	none	A205	" "	Myelocyte	Myelocyte	2	2	2	2	2	1	5					6
+false	none	A206	" "	Myelocyte	Myelocyte	2	2	2	2	2	1	6					6
+false	none	A207	" "	Myelocyte	Myelocyte	1	2	2	2	2	1	7					6
+false	none	A208	" "	Myelocyte	Myelocyte	1	2	2	2	2	1	8					6
+false	none	A209	" "	Myelocyte	Myelocyte	2	2	2	2	2	1	1					6
+false	none	A210	" "	Myelocyte	Myelocyte	1	2	2	2	2	2	2					6
+false	none	A211	" "	Myelocyte	Myelocyte	2	2	2	2	2	1	3					6
+false	none	A212	" "	Myelocyte	Myelocyte	1	2	2	2	2	1	4					6
+false	none	A213	" "	Myelocyte	Myelocyte	2	2	2	2	2	1	5					6
+false	none	A214	" "	Myelocyte	Myelocyte	2	2	2	2	2	1	6					6
+false	none	A215	" "	Myelocyte	Myelocyte	1	2	2	2	2	1	7					6
+false	none	A216	" "	Myelocyte	Myelocyte	2	2	2	2	2	1	8					6
+false	none	A217	" "	Promyelocyte	Myelocyte	1	2	2	2	2	0	1					6
+false	none	A218	" "	Promyelocyte	Myelocyte	1	2	2	2	2	7	2					6
+false	none	A219	" "	Promyelocyte	Myelocyte	2	2	2	2	2	1	3					6
+false	none	A220	" "	Promyelocyte	Myelocyte	7	2	2	2	2	2	4					6
+false	none	A221	" "	Promyelocyte	Myelocyte	7	2	2	2	2	0	5					6
+false	none	A222	" "	Promyelocyte	Myelocyte	3	2	2	2	2	7	6					6
+false	none	A223	" "	Promyelocyte	Myelocyte	4	2	2	2	2	1	7					6
+false	none	A224	" "	Promyelocyte	Myelocyte	7	2	2	2	2	0	8					6
+false	none	A225	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	1	1					6
+false	none	A226	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	1	2					6
+false	none	A227	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	1	3					6
+false	none	A228	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	1	4					6
+false	none	A229	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	1	5					6
+false	none	A230	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	1	6					6
+false	none	A231	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	1	7					6
+false	none	A232	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	1	8					6
+false	none	A233	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	2	1					6
+false	none	A234	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	2	2					6
+false	none	A235	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	1	3					6
+false	none	A236	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	2	4					6
+false	none	A237	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	1	5					6
+false	none	A238	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	2	6					6
+false	none	A239	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	2	7					6
+false	none	A240	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	1	8					6
+false	none	A241	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	2	1					6
+false	none	A242	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	2	2					6
+false	none	A243	" "	"CD38mid CD3- platelet"	Platelet	1	2	2	2	2	1	3					6
+false	none	A244	" "	"CD38mid CD3- platelet"	Platelet	2	2	2	2	2	2	4					6
+false	none	A245	" "	"CD38- CD3- platelet"	Platelet	2	2	2	2	2	2	5					6
+false	none	A246	" "	"CD38- CD3- platelet"	Platelet	2	2	2	2	2	2	6					6
+false	none	A247	" "	"CD38- CD3- platelet"	Platelet	2	2	2	2	2	2	7					6
+false	none	A248	" "	"CD38- CD3- platelet"	Platelet	1	2	2	2	2	2	8					6
+false	none	A249	" "	"CD38- CD3- platelet"	Platelet	2	2	2	2	2	1	1					6
+false	none	A250	" "	"CD38- CD3- platelet"	Platelet	1	2	2	2	2	2	2					6
+false	none	A251	" "	"CD38- CD3- platelet"	Platelet	2	2	2	2	2	1	3					6
+false	none	A252	" "	"CD38- CD3- platelet"	Platelet	1	2	2	2	2	2	4					6
+false	none	A253	" "	"CD38- CD3- platelet"	Platelet	2	2	2	2	2	2	5					6
+false	none	A254	" "	"CD38mid CD3mid platelet"	Platelet	1	2	2	2	2	1	6					6
+false	none	A255	" "	"CD38mid CD3mid platelet"	Platelet	2	2	2	2	2	1	7					6
+false	none	A256	" "	"CD38mid CD3mid platelet"	Platelet	7	2	2	2	2	2	8					6
+false	none	A257	" "	"CD38mid CD3mid platelet"	Platelet	7	2	2	2	2	1	1					6
+false	none	A258	" "	"CD38mid CD3mid platelet"	Platelet	7	2	2	2	2	1	2					6
+false	none	A259	" "	"CD38mid CD3mid platelet"	Platelet	2	2	2	2	2	2	3					6
+false	none	A260	" "	"CD38mid CD3mid platelet"	Platelet	7	2	2	2	2	7	4					6
+false	none	A261	" "	"CD38mid CD3mid platelet"	Platelet	1	2	2	2	2	1	5					6
+false	none	A262	" "	"CD38mid CD3mid platelet"	Platelet	7	2	2	2	2	2	6					6
+false	none	A263	" "	"CD38mid CD3mid platelet"	Platelet	1	2	2	2	2	1	7					6
+false	none	A264	" "	Erythrocyte	Erythrocyte	0	2	2	2	2	2	8					6
+false	none	A265	" "	Erythrocyte	Erythrocyte	0	2	2	2	2	2	1					6
+false	none	A266	" "	Erythrocyte	Erythrocyte	0	2	2	2	2	2	2					6
+false	none	A267	" "	Erythrocyte	Erythrocyte	7	2	2	2	2	2	3					6
+false	none	A268	" "	Erythrocyte	Erythrocyte	7	2	2	2	2	2	4					6
+false	none	A269	" "	Erythrocyte	Erythrocyte	1	2	2	2	2	2	5					6
+false	none	A270	" "	Erythrocyte	Erythrocyte	7	2	2	2	2	2	6					6
+false	none	A271	" "	Erythrocyte	Erythrocyte	0	2	2	2	2	2	7					6
+false	none	A272	" "	Erythrocyte	Erythrocyte	0	2	2	2	2	2	8					6
+false	none	A273	" "	Erythrocyte	Erythrocyte	7	2	2	2	2	2	1					6
+false	none	A274	" "	Erythroblast	Erythrocyte	0	2	2	2	2	1	2					6
+false	none	A275	" "	Erythroblast	Erythrocyte	0	2	2	2	2	1	3					6
+false	none	A276	" "	Erythroblast	Erythrocyte	7	2	2	2	2	2	4					6
+false	none	A277	" "	Erythroblast	Erythrocyte	7	2	2	2	2	1	5					6
+false	none	A278	" "	Erythroblast	Erythrocyte	8	2	2	2	2	1	6					6
+false	none	A279	" "	Erythroblast	Erythrocyte	3	2	2	2	2	2	7					6
+false	none	A280	" "	Erythroblast	Erythrocyte	4	2	2	2	2	1	8					6
+false	none	A281	" "	Erythroblast	Erythrocyte	0	2	2	2	2	1	1					6
+false	none	A282	" "	Erythroblast	Erythrocyte	0	2	2	2	2	1	2					6
+false	none	A283	" "	Erythroblast	Erythrocyte	7	2	2	2	2	1	3					6
+false	none	A284	" "	Erythroblast	Erythrocyte	0	2	2	2	2	1	4					6
+true	transparent.gif	HSC	HSC	1	1
+true	transparent.gif	MPP	MPP	2	2
+true	transparent.gif	Pro-B	Pro-B	3	3
+true	transparent.gif	"Pre-B I"	"Pre-B I"	4	4
+true	transparent.gif	"Pre-B II"	"Pre-B II"	5	5
+true	transparent.gif	NK	NK	6	6
+true	transparent.gif	NKT	NKT	7	7
+true	transparent.gif	"Memory CD8- T"	"Memory CD8- T"	8	8
+true	transparent.gif	"Naive CD8- T"	"Naive CD8- T"	9	9
+true	transparent.gif	"Naive CD4- T"	"Naive CD4- T"	10	10
+true	transparent.gif	"Memory CD4- T"	"Memory CD4- T"	11	11
+true	transparent.gif	"Immature B"	"Immature B"	12	12
+true	transparent.gif	"Mature B"	"Mature B"	13	13
+true	transparent.gif	"IL-3R_- mature B"	"IL-3R_- mature B"	14	14
+true	transparent.gif	"Plasma cell"	"Plasma cell"	15	15
+true	transparent.gif	CMP	CMP	16	16
+true	transparent.gif	Monoblast	Monoblast	17	17
+true	transparent.gif	Monocyte	Monocyte	18	18
+true	transparent.gif	Pro-monocyte	Pro-monocyte	19	19
+true	transparent.gif	Pre-DC	Pre-DC	20	20
+true	transparent.gif	GMP	GMP	21	21
+true	transparent.gif	"Plasmacytoid DC"	"Plasmacytoid DC"	22	22
+true	transparent.gif	Myelocyte	Myelocyte	23	23
+true	transparent.gif	Promyelocyte	Promyelocyte	24	24
+true	transparent.gif	"CD38mid CD3- platelet"	"CD38mid CD3- platelet"	25	25
+true	transparent.gif	"CD38- CD3- platelet"	"CD38- CD3- platelet"	26	26
+true	transparent.gif	"CD38mid CD3mid platelet"	"CD38mid CD3mid platelet"	27	27
+true	transparent.gif	Erythrocyte	Erythrocyte	28	28
+true	transparent.gif	Erythroblast	Erythroblast	29	29

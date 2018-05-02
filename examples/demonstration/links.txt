@@ -1,0 +1,64 @@
+sourceId	targetId	link_scale	marker_start	marker_end	linkName	linkColor
+"Patient 1"	"Patient 13"	3	0	2		Yellow
+"Patient 2"	"Patient 14"	3	0	2		Yellow
+"Patient 3"	"Patient 15"	3	0	2		Yellow
+"Patient 4"	"Patient 16"	3	0	2		#8ea2ff
+"Patient 5"	"Patient 17"	3	0	2		#8ea2ff
+"Patient 6"	"Patient 18"	3	0	2		#8ea2ff
+"Patient 7"	"Patient 19"	3	0	2		#8ea2ff
+"Patient 8"	"Patient 14"	3	0	2		#8ea2ff
+"Patient 9"	"Patient 1"	3	0	2		#8ea2ff
+"Patient 10"	"Patient 2"	3	0	2		#8ea2ff
+"Patient 11"	"Patient 3"	1	0	2		#8ea2ff
+"Patient 12"	"Patient 4"	1	0	2		#8ea2ff
+"Patient 13"	"Patient 5"	1	0	2		#8ea2ff
+"Patient 14"	"Patient 6"	1	0	2		#8ea2ff
+"Patient 15"	"Patient 7"	1	0	2		#8ea2ff
+"Patient 16"	"Patient 8"	4	0	2		#8ea2ff
+"Patient 17"	"Patient 9"	4	0	2		#8ea2ff
+"Patient 18"	"Patient 10"	1	0	2		#8ea2ff
+"Patient 19"	"Patient 11"	1	0	2		#8ea2ff
+"Patient 20"	"Patient 12"	1	0	2		#8ea2ff
+"Patient 21"	"Patient 13"	1	0	2		#8ea2ff
+"Patient 22"	"Patient 14"	2	0	2		#8ea2ff
+"Patient 23"	"Patient 15"	2	0	2		Green
+"Patient 24"	"Patient 16"	2	0	2		Green
+"Patient 25"	"Patient 17"	2	0	2		Green
+"Patient 26"	"Patient 18"	2	0	2		Green
+"Patient 27"	"Patient 19"	2	0	2		Yellow
+"Patient 11"	"Patient 20"	1	0	2		Yellow
+"Patient 12"	"Patient 21"	1	0	2		Yellow
+"Patient 13"	"Patient 22"	1	0	2		#8ea2ff
+"Patient 14"	"Patient 23"	1	0	2		#8ea2ff
+"Patient 15"	"Patient 24"	1	0	2		#8ea2ff
+"Patient 16"	"Patient 25"	1	0	2		#8ea2ff
+"Patient 23"	"Patient 26"	1	0	2		#8ea2ff
+"Patient 23"	"Patient 27"	1	0	2		#8ea2ff
+"Patient 30"	"Patient 26"	1	0	2		#8ea2ff
+"Patient 1"	Cluster1
+"Patient 2"	Cluster1
+"Patient 3"	Cluster1
+"Patient 4"	Cluster1
+"Patient 5"	Cluster1
+"Patient 6"	Cluster1
+"Patient 7"	Cluster1
+"Patient 8"	Cluster1
+"Patient 9"	Cluster2
+"Patient 10"	Cluster2
+"Patient 11"	Cluster2
+"Patient 12"	Cluster2
+"Patient 13"	Cluster2
+"Patient 14"	Cluster2
+"Patient 15"	Cluster2
+"Patient 16"	Cluster2
+"Patient 17"	Cluster2
+"Patient 18"	Cluster3
+"Patient 19"	Cluster3
+"Patient 20"	Cluster3
+"Patient 21"	Cluster3
+"Patient 22"	Cluster3
+"Patient 23"	Cluster3
+"Patient 24"	Cluster3
+"Patient 25"	Cluster3
+"Patient 26"	Cluster3
+"Patient 27"	Cluster3

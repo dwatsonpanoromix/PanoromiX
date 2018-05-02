@@ -1,0 +1,7 @@
+label	image	description
+2 Weeks	img1.jpg	This is a description of the observed behavior and critical characteristics at time point 1.
+4 Weeks	img2.jpg	This is a description of the observed behavior and critical characteristics at time point 2.
+6 Weeks	img3.jpg	This is a description of the observed behavior and critical characteristics at time point 3.
+8 Weeks	img4.jpg	This is a description of the observed behavior and critical characteristics at time point 4.
+10 Weeks	img5.jpg	This is a description of the observed behavior and critical characteristics at time point 5.
+12 Weeks	img6.jpg	This is a description of the observed behavior and critical characteristics at time point 6.

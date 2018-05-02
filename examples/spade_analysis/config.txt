@@ -1,0 +1,30 @@
+rootId	rootX	rootY	timepoint	charge	gravity	borderW	linkWidth	linkColor	maxScore	minScore	radius	fontColorNode	fontColorCenter	saved	key	colorLabel	sizeLabel	typeLabel	tpLabels	typeColors	fillColors	discreteFillColors	bgFlg	background
+HSC	778.7401597	84.4804594	1	0	0	3	1.5	#7487c5	3	-3	5	#ffffff	#ffffff	yes	428694	Color:	Size:	Type:	"CD3,CD8,CD4,CD19,CD20,CD38"	"#000000,#000000,#000000,#000000,#000000,#000000,#000000,#000000,#000000,#000000"	"#1a9641,#a6d96a,#ffffbf,#fdae61,#d7191c"	"#fffe31,#5cd8ff,#0061ed,#ffb400,#b95700,#ff6969,#c30000,#5cff79,#26a400"	0	0
+MPP	801.1562503	102.5596587																						
+Pro-B	819.8828005	126.6186963																						
+Pre-B I	843.9301431	148.3618574																						
+Pre-B II	864.4363407	193.613273																						
+NK	947.9503359	200.7271873																						
+NKT	1061.277074	212.5577839																						
+Memory CD8- T	1165.556929	221.4422383																						
+Naive CD8- T	1262.864968	265.3828971																						
+Naive CD4- T	1099.427135	364.2443814																						
+Memory CD4- T	1061.350429	301.0768372																						
+Immature B	952.9585205	282.7610893																						
+Mature B	950.326042	376.7956425																						
+IL-3R_- mature B	962.1413071	489.8905615																						
+Plasma cell	821.8511885	215.8907257																						
+CMP	748.414867	107.0675145																						
+Monoblast	703.8807706	158.5082809																						
+Monocyte	629.9327861	264.0551443																						
+Pro-monocyte	574.3946372	356.8788145																						
+Pre-DC	544.4499045	394.2404504																						
+GMP	521.9931627	423.9955889																						
+Plasmacytoid DC	486.4120532	463.8496831																						
+Myelocyte	673.0788481	366.4172339																						
+Promyelocyte	639.0401916	450.8424904																						
+CD38mid CD3- platelet	736.1088223	434.0871454																						
+CD38- CD3- platelet	724.9795485	486.7667013																						
+CD38mid CD3mid platelet	778.3470622	504.6386091																						
+Erythrocyte	746.6861466	567.3562527																						
+Erythroblast	813.2227512	551.4965806																						

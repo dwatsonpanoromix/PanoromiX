@@ -1,0 +1,15 @@
+color	source	target
+Yellow	node1	node7
+Red	node2	node8
+Green	node3	node9
+Yellow	node4	node1
+Red	node5	node2
+Green	node6	node3
+Yellow	node7	node10
+Red	node8	node11
+Green	node9	node12
+Yellow	node10	node1
+Red	node11	node2
+Green	node12	node3
+Yellow	node13	node6
+Red	node14	node7

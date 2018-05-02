@@ -1,0 +1,4 @@
+rootId	rootX	rootY	timepoint	charge	gravity	borderW	linkWidth	linkColor	maxScore	minScore	radius	fontColorNode	fontColorCenter	saved	key	colorLabel	sizeLabel	typeLabel	tpLabels	typeColors	fillColors	discreteFillColors	bgFlg	background
+C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes	288.66666666667	27	1	0	0	10	1	#b3bcd9	3	-3	52.31227166493	#000000	#0000ff	yes	243781	Color:	Size:	Type:	"Time-Point 1"	#b41f65,#bcbd22,#ff7f0e,#7f7f7f,#17becf,#2ca02c,#d62728,#9467bd,#8c564b,#e377c2	#ffffff,#ffffff,#ffffff,#ffffff,#ffffff	#1f77b4,#ff7f0e,#2ca02c	0	0
+mouse_ptsd_blood_analy_10d1d_genes	451.0878499349	420.64141845703
+C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes	960	200

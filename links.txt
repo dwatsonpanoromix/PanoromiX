@@ -1,0 +1,135 @@
+sourceId	targetId
+SLCO2B1	"Androgen metabolism"
+HSD3B7	"Androgen metabolism"
+CYP7B1	"Androgen metabolism"
+NCKAP1	"Caveolic vesicle"
+EPS15	"Caveolic vesicle"
+DNM1	"Caveolic vesicle"
+CYFIP1	"Caveolic vesicle"
+CAV2	"Caveolic vesicle"
+AMPH	"Caveolic vesicle"
+ACTB	"Caveolic vesicle"
+STARD4	"Cholesterol homeostasis"
+SQLE	"Cholesterol homeostasis"
+SOAT1	"Cholesterol homeostasis"
+SC4MOL	"Cholesterol homeostasis"
+OSBPL6	"Cholesterol homeostasis"
+MVK	"Cholesterol homeostasis"
+MVD	"Cholesterol homeostasis"
+IDI1	"Cholesterol homeostasis"
+HMGCS1	"Cholesterol homeostasis"
+FDPS	"Cholesterol homeostasis"
+DBI	"Cholesterol homeostasis"
+CYP51	"Cholesterol homeostasis"
+CH25H	"Cholesterol homeostasis"
+BZRP	"Cholesterol homeostasis"
+ABCA1_C	"Cholesterol homeostasis"
+C4B	"Complement activation"
+C4A	"Complement activation"
+C3AR1	"Complement activation"
+C3	"Complement activation"
+C1QC	"Complement activation"
+C1QB	"Complement activation"
+C1QA	"Complement activation"
+TIMP1	ECM
+THBS2	ECM
+THBS1	ECM
+SERPINA3N	ECM
+PDGFB	ECM
+ELA1	ECM
+CLU	ECM
+SH3GLB1	Endocytosis
+SH3GL1	Endocytosis
+SH3D19	Endocytosis
+PRSS18	Endocytosis
+ADAM9	Endocytosis
+ADAM17	Endocytosis
+TYROBP	"Fcg receptors"
+TLR2	"Fcg receptors"
+MSR2	"Fcg receptors"
+LGALS3BP	"Fcg receptors"
+FCGR3	"Fcg receptors"
+FCGR2B	"Fcg receptors"
+FCER1G	"Fcg receptors"
+CLEC7A	"Fcg receptors"
+CD84	"Fcg receptors"
+CD68	"Fcg receptors"
+CD300D	"Fcg receptors"
+CD14	"Fcg receptors"
+SULF2	"GAG metabolism"
+RENBP	"GAG metabolism"
+NDST1	"GAG metabolism"
+NAGLU	"GAG metabolism"
+IDUA	"GAG metabolism"
+HS6ST2	"GAG metabolism"
+HEXB	"GAG metabolism"
+HEXA	"GAG metabolism"
+GUSB	"GAG metabolism"
+GPLD1	"GAG metabolism"
+GNS	"GAG metabolism"
+GM2A	"GAG metabolism"
+GALNS	"GAG metabolism"
+VAMP8	Golgi
+VAMP5	Golgi
+SNAP23	Golgi
+SCAMP2	Golgi
+ATP6V0E	Golgi
+ATP6V0A2	Golgi
+ABCA1_G	Golgi
+LRP1	"Lipid acceptors"
+LPL	"Lipid acceptors"
+LDLR	"Lipid acceptors"
+APOE	"Lipid acceptors"
+APOD	"Lipid acceptors"
+APOA1	"Lipid acceptors"
+ABCA1_L	"Lipid acceptors"
+A2M_Lipid	"Lipid acceptors"
+PPGB	"Lysosomal Proteases"
+LAMP2	"Lysosomal Proteases"
+CTSZ	"Lysosomal Proteases"
+CTSL	"Lysosomal Proteases"
+CTSH	"Lysosomal Proteases"
+CTSD	"Lysosomal Proteases"
+CTSC	"Lysosomal Proteases"
+CTSB	"Lysosomal Proteases"
+CTLA2B	"Lysosomal Proteases"
+CST7	"Lysosomal Proteases"
+CLN3	"Lysosomal Proteases"
+CAPN1	"Lysosomal Proteases"
+A2M_Lyso	"Lysosomal Proteases"
+SERPING1	Plasminogen
+S100A10	Plasminogen
+PLG	Plasminogen
+PLAU	Plasminogen
+PLAT	Plasminogen
+ANXA2	Plasminogen
+PTGS1	PM
+FN1	PM
+CCL9	PM
+VIM	"Reactive astrogliosis"
+P2RY6	"Reactive astrogliosis"
+ITGB2	"Reactive astrogliosis"
+GFAP	"Reactive astrogliosis"
+SRC	Signaling
+RGS4	Signaling
+RAB3C	Signaling
+PLCG1	Signaling
+PLCE1	Signaling
+PLCD4	Signaling
+PLCB4	Signaling
+PLCB1	Signaling
+PIK3R1	Signaling
+PIK3CB	Signaling
+MTAP2	Signaling
+MME	Signaling
+MAG	Signaling
+GRB2	Signaling
+FYN	Signaling
+UGT8A	"Sphingolipid metabolism"
+SGPP2	"Sphingolipid metabolism"
+SGPL1	"Sphingolipid metabolism"
+PPAP2B	"Sphingolipid metabolism"
+GBA	"Sphingolipid metabolism"
+COL4A3BP	"Sphingolipid metabolism"
+B4GALT1	"Sphingolipid metabolism"
+ASAHL	"Sphingolipid metabolism"

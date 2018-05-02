@@ -1,0 +1,29 @@
+sourceId	targetId	linkColor
+node1	node7	Yellow
+node2	node8	Red
+node3	node9	Green
+node4	node1	Yellow
+node5	node2	Red
+node6	node3	Green
+node7	node10	Yellow
+node8	node11	Red
+node9	node12	Green
+node10	node1	Yellow
+node11	node2	Red
+node12	node3	Green
+node13	node6	Yellow
+node14	node7	Red
+node1	group1
+node2	group1
+node3	group1
+node4	group1
+node5	group1
+node6	group1
+node7	group1
+node8	group2
+node9	group2
+node10	group2
+node11	group3
+node12	group3
+node13	group3
+node14	group3

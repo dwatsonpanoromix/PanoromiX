@@ -1,0 +1,152 @@
+root	icon	id	name	group	size	type	color	color2	color3	color4	color5	color6	timepoints
+false	none	SLCO2B1	SLCO2B1*	"Androgen metabolism"	4	"in RML-BL6 mice"	0	0	0	3	3	3	6
+false	none	HSD3B7	HSD3B7*	"Androgen metabolism"	4	"also in RML-Tg4053 mice"	0	0	0	3	3	1	6
+false	none	CYP7B1	CYP7B1*	"Androgen metabolism"	4	"in RML-BL6 mice"	0	0	0	0	1	1	6
+false	none	NCKAP1	NCKAP1	"Caveolic vesicle"	2	"in RML-BL6 mice"	0	0	0	-1	0	0	6
+false	none	EPS15	EPS15	"Caveolic vesicle"	2	"in RML-BL6 mice"	0	0	0	-1	0	0	6
+false	none	DNM1	DNM1	"Caveolic vesicle"	2	"in RML-BL6 mice"	0	0	0	0	-1	-1	6
+false	none	CYFIP1	CYFIP1	"Caveolic vesicle"	2	"in RML-BL6 mice"	0	0	0	0	1	1	6
+false	none	CAV2	CAV2	"Caveolic vesicle"	2	"in RML-BL6 mice"	0	0	0	0	1	1	6
+false	none	AMPH	AMPH	"Caveolic vesicle"	2	"in RML-BL6 mice"	0	0	0	-3	0	0	6
+false	none	ACTB	ACTB	"Caveolic vesicle"	2	"in RML-BL6 mice"	0	0	0	-1	-1	0	6
+false	none	STARD4	STARD4	"Cholesterol homeostasis"	2	"in RML-BL6 mice"	0	0	0	-3	-3	-3	6
+false	none	SQLE	SQLE*	"Cholesterol homeostasis"	2	"only in RML-infected mice"	0	0	0	0	-3	-3	6
+false	none	SOAT1	SOAT1*	"Cholesterol homeostasis"	4	"also in RML-infected 0-- mice"	0	1	0	3	3	3	6
+false	none	SC4MOL	SC4MOL	"Cholesterol homeostasis"	2	"only in RML-infected mice"	0	0	0	-1	-1	-1	6
+false	none	OSBPL6	OSBPL6	"Cholesterol homeostasis"	2	"in RML-BL6 mice"	0	0	0	0	-1	-1	6
+false	none	MVK	MVK	"Cholesterol homeostasis"	2	"in RML-BL6 mice"	0	0	0	0	0	-3	6
+false	none	MVD	MVD	"Cholesterol homeostasis"	2	"also in RML-Tg4053 mice"	0	0	-3	1	-3	-3	6
+false	none	IDI1	IDI1	"Cholesterol homeostasis"	2	"only in RML-infected mice"	0	0	0	-1	-1	-3	6
+false	none	HMGCS1	HMGCS1	"Cholesterol homeostasis"	2	"only in RML-infected mice"	0	0	0	-1	-1	-1	6
+false	none	FDPS	FDPS	"Cholesterol homeostasis"	2	"in RML-BL6 mice"	0	0	0	0	-1	-1	6
+false	none	DBI	DBI	"Cholesterol homeostasis"	2	"in RML-BL6 mice"	0	0	0	0	1	1	6
+false	none	CYP51	CYP51*	"Cholesterol homeostasis"	2	"only in RML-infected mice"	0	0	0	0	-1	-1	6
+false	none	CH25H	CH25H	"Cholesterol homeostasis"	2	"also in RML-infected 0-- mice"	0	0	0	0	3	3	6
+false	none	BZRP	BZRP	"Cholesterol homeostasis"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	ABCA1_C	ABCA1	"Cholesterol homeostasis"	2	"also in RML-Tg4053 mice"	0	0	0	0	3	3	6
+false	none	C4B	C4B	"Complement activation"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	3	3	3	3	3	6
+false	none	C4A	C4A	"Complement activation"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	3	3	3	3	3	6
+false	none	C3AR1	C3AR1	"Complement activation"	4	"also in RML-infected 0-- mice"	0	0	1	3	3	3	6
+false	none	C3	C3	"Complement activation"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	C1QC	C1QC	"Complement activation"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	1	3	3	3	3	6
+false	none	C1QB	C1QB	"Complement activation"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	1	3	3	3	3	6
+false	none	C1QA	C1QA	"Complement activation"	4	"also in RML-infected 0-- mice"	0	3	3	3	3	3	6
+false	none	TIMP1	TIMP1	ECM	2	"also in RML-infected 0-- mice"	0	0	0	1	3	3	6
+false	none	THBS2	THBS2*	ECM	4	"also in RML-infected 0-- mice"	0	0	0	1	3	3	6
+false	none	THBS1	THBS1	ECM	2	"in RML-BL6 mice"	0	0	0	0	1	3	6
+false	none	SERPINA3N	SERPINA3N	ECM	4	"also in RML-infected 0-- mice"	0	3	3	3	3	3	6
+false	none	PDGFB	PDGFB	ECM	2	"in RML-BL6 mice"	0	0	0	1	0	1	6
+false	none	ELA1	ELA1*	ECM	4	"also in RML-infected 0-- mice"	0	0	1	3	3	3	6
+false	none	CLU	CLU	ECM	4	"also in RML-infected 0-- mice"	0	0	0	1	1	1	6
+false	none	SH3GLB1	SH3GLB1	Endocytosis	2	"in RML-BL6 mice"	0	0	0	0	1	1	6
+false	none	SH3GL1	SH3GL1	Endocytosis	2	"in RML-BL6 mice"	0	0	0	1	0	0	6
+false	none	SH3D19	SH3D19	Endocytosis	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	PRSS18	PRSS18*	Endocytosis	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	ADAM9	ADAM9	Endocytosis	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	ADAM17	ADAM17	Endocytosis	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	TYROBP	TYROBP	"Fcg receptors"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	1	3	3	3	3	6
+false	none	TLR2	TLR2	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	MSR2	MSR2	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	LGALS3BP	LGALS3BP	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	3	3	3	3	3	6
+false	none	FCGR3	FCGR3	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	FCGR2B	FCGR2B	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	3	3	3	3	3	6
+false	none	FCER1G	FCER1G	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	CLEC7A	CLEC7A	"Fcg receptors"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	1	1	3	3	3	6
+false	none	CD84	CD84	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	CD68	CD68	"Fcg receptors"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	0	3	3	3	3	6
+false	none	CD300D	CD300D*	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	0	1	3	3	3	6
+false	none	CD14	CD14	"Fcg receptors"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	SULF2	SULF2	"GAG metabolism"	2	"only with short incubation times"	0	0	0	1	1	1	6
+false	none	RENBP	RENBP*	"GAG metabolism"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	NDST1	NDST1	"GAG metabolism"	2	"only with short incubation times"	0	0	0	1	1	1	6
+false	none	NAGLU	NAGLU*	"GAG metabolism"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	IDUA	IDUA	"GAG metabolism"	2	"in RML-BL6 mice"	0	0	0	3	0	1	6
+false	none	HS6ST2	HS6ST2	"GAG metabolism"	2	"in RML-BL6 mice"	0	0	0	-1	-1	-1	6
+false	none	HEXB	HEXB	"GAG metabolism"	4	"also in RML-infected 0-- mice"	0	0	1	3	3	3	6
+false	none	HEXA	HEXA	"GAG metabolism"	2	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	GUSB	GUSB	"GAG metabolism"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	0	1	3	3	3	6
+false	none	GPLD1	GPLD1	"GAG metabolism"	2	"in RML-BL6 mice"	0	0	0	1	0	0	6
+false	none	GNS	GNS	"GAG metabolism"	2	"in RML-BL6 mice"	0	0	0	3	1	1	6
+false	none	GM2A	GM2A	"GAG metabolism"	2	"in RML-BL6 mice"	0	0	0	1	0	1	6
+false	none	GALNS	GALNS	"GAG metabolism"	2	"in RML-BL6 mice"	0	0	0	1	1	0	6
+false	none	VAMP8	VAMP8	Golgi	2	"also in RML-infected 0-- mice"	0	0	0	1	1	0	6
+false	none	VAMP5	VAMP5	Golgi	2	"in RML-BL6 mice"	0	0	0	3	1	1	6
+false	none	SNAP23	SNAP23	Golgi	2	"in RML-BL6 mice"	0	0	0	0	1	1	6
+false	none	SCAMP2	SCAMP2	Golgi	2	"in RML-BL6 mice"	0	0	0	3	0	0	6
+false	none	ATP6V0E	ATP6V0E	Golgi	2	"in RML-BL6 mice"	0	0	0	1	1	1	6
+false	none	ATP6V0A2	ATP6V0A2	Golgi	2	"in RML-BL6 mice"	0	0	0	3	0	0	6
+false	none	ABCA1_G	ABCA1	Golgi	4	"also in RML-Tg4053 mice"	0	0	1	0	3	3	6
+false	none	LRP1	LRP1	"Lipid acceptors"	2	"in RML-BL6 mice"	0	0	0	3	1	0	6
+false	none	LPL	LPL	"Lipid acceptors"	2	"only in RML-infected mice"	0	0	0	0	3	3	6
+false	none	LDLR	LDLR	"Lipid acceptors"	2	"in RML-BL6 mice"	0	0	-1	-1	-1	-1	6
+false	none	APOE	APOE	"Lipid acceptors"	2	"in RML-BL6 mice"	0	0	0	1	1	1	6
+false	none	APOD	APOD	"Lipid acceptors"	4	"in RML-BL6 mice"	0	0	0	1	3	3	6
+false	none	APOA1	APOA1	"Lipid acceptors"	4	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	ABCA1_L	ABCA1	"Lipid acceptors"	4	"also in RML-Tg4053 mice"	0	0	1	1	3	3	6
+false	none	A2M_Lipid	A2M	"Lipid acceptors"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	PPGB	PPGB	"Lysosomal Proteases"	2	"in RML-BL6 mice"	0	0	0	3	1	1	6
+false	none	LAMP2	LAMP2	"Lysosomal Proteases"	4	"in RML-BL6 mice"	0	0	0	0	3	3	6
+false	none	CTSZ	CTSZ	"Lysosomal Proteases"	4	"also in RML-infected 0-- mice"	0	0	1	3	3	3	6
+false	none	CTSL	CTSL*	"Lysosomal Proteases"	4	"in RML-BL6 mice"	0	0	0	0	3	3	6
+false	none	CTSH	CTSH	"Lysosomal Proteases"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	CTSD	CTSD	"Lysosomal Proteases"	4	"also in RML-infected 0-- mice"	0	0	1	3	3	3	6
+false	none	CTSC	CTSC	"Lysosomal Proteases"	4	"also in RML-infected 0-- mice"	0	1	3	3	3	3	6
+false	none	CTSB	CTSB	"Lysosomal Proteases"	4	"in RML-BL6 mice"	0	0	0	1	0	0	6
+false	none	CTLA2B	CTLA2B	"Lysosomal Proteases"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	CST7	CST7	"Lysosomal Proteases"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	CLN3	CLN3	"Lysosomal Proteases"	2	"also in RML-infected 0-- and RML-Tg4053 mice"	0	0	0	3	3	3	6
+false	none	CAPN1	CAPN1	"Lysosomal Proteases"	2	"in RML-BL6 mice"	0	0	0	0	-1	-1	6
+false	none	A2M_Lyso	A2M	"Lysosomal Proteases"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	NPC2	NPC2	"Lysosomal Proteases"	4	"also in RML-infected 0-- mice"	0	0	0	0	0	3	6
+false	none	SERPING1	SERPING1*	Plasminogen	4	"also in RML-infected 0-- mice"	0	0	0	1	3	3	6
+false	none	S100A10	S100A10	Plasminogen	2	"in RML-BL6 mice"	0	0	0	0	1	1	6
+false	none	PLG	PLG	Plasminogen	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	PLAU	PLAU	Plasminogen	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	PLAT	PLAT*	Plasminogen	4	"in RML-BL6 mice"	0	0	0	0	1	1	6
+false	none	ANXA2	ANXA2	Plasminogen	2	"in RML-BL6 mice"	0	0	0	1	3	3	6
+false	none	PTGS1	PTGS1*	PM	4	"also in RML-infected 0-- mice"	0	0	1	3	3	3	6
+false	none	FN1	FN1	PM	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	CCL9	CCL9	PM	4	"also in RML-infected 0-- mice"	0	3	3	3	3	3	6
+false	none	VIM	VIM	"Reactive astrogliosis"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	3	6
+false	none	P2RY6	P2RY6*	"Reactive astrogliosis"	4	"also in RML-infected 0-- mice"	0	0	1	3	3	3	6
+false	none	ITGB2	ITGB2	"Reactive astrogliosis"	4	"also in RML-infected 0-- mice"	0	0	3	3	3	3	6
+false	none	GFAP	GFAP	"Reactive astrogliosis"	4	"also in RML-infected 0-- and RML-Tg4053 mice"	0	3	3	3	3	3	6
+false	none	SRC	SRC	Signaling	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	RGS4	RGS4	Signaling	2	"in RML-BL6 mice"	0	0	0	-1	-1	0	6
+false	none	RAB3C	RAB3C	Signaling	2	"in RML-BL6 mice"	0	0	0	-1	-3	0	6
+false	none	PLCG1	PLCG1	Signaling	2	"in RML-BL6 mice"	0	0	0	0	-1	0	6
+false	none	PLCE1	PLCE1*	Signaling	4	"also in RML-infected 0-- mice"	0	0	0	0	3	3	6
+false	none	PLCD4	PLCD4	Signaling	2	"in RML-BL6 mice"	0	0	0	1	3	1	6
+false	none	PLCB4	PLCB4	Signaling	2	"in RML-BL6 mice"	0	0	0	-1	-1	-1	6
+false	none	PLCB1	PLCB1	Signaling	2	"in RML-BL6 mice"	0	0	0	-3	-1	0	6
+false	none	PIK3R1	PIK3R1	Signaling	2	"in RML-BL6 mice"	0	0	0	-1	0	0	6
+false	none	PIK3CB	PIK3CB	Signaling	2	"in RML-BL6 mice"	0	0	0	-1	0	0	6
+false	none	MTAP2	MTAP2	Signaling	2	"in RML-BL6 mice"	0	0	0	-3	-1	0	6
+false	none	MME	MME	Signaling	2	"in RML-BL6 mice"	0	0	0	-3	0	0	6
+false	none	MAG	MAG	Signaling	2	"in RML-BL6 mice"	0	0	0	1	0	0	6
+false	none	GRB2	GRB2	Signaling	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	FYN	FYN	Signaling	2	"in RML-BL6 mice"	0	0	0	0	0	0	6
+false	none	UGT8A	UGT8A	"Sphingolipid metabolism"	2	"also in RML-Tg4053 mice"	0	0	0	-3	-1	0	6
+false	none	SGPP2	SGPP2	"Sphingolipid metabolism"	2	"in RML-BL6 mice"	0	0	0	0	0	-1	6
+false	none	SGPL1	SGPL1*	"Sphingolipid metabolism"	4	"also in RML-infected 0-- mice"	0	0	0	1	0	3	6
+false	none	PPAP2B	PPAP2B	"Sphingolipid metabolism"	2	"in RML-BL6 mice"	0	0	0	1	0	0	6
+false	none	GBA	GBA	"Sphingolipid metabolism"	2	"in RML-BL6 mice"	0	0	0	1	1	0	6
+false	none	COL4A3BP	COL4A3BP	"Sphingolipid metabolism"	2	"in RML-BL6 mice"	0	-1	0	-1	0	0	6
+false	none	B4GALT1	B4GALT1*	"Sphingolipid metabolism"	4	"also in RML-infected 0-- mice"	0	0	0	3	3	1	6
+false	none	ASAHL	ASAHL	"Sphingolipid metabolism"	2	"in RML-BL6 mice"	0	0	0	0	0	1	6
+true	transparent.gif	"Androgen metabolism"	"Androgen metabolism"	1	1
+true	transparent.gif	"Caveolic vesicle"	"Caveolic vesicle"	2	2
+true	transparent.gif	"Cholesterol homeostasis"	"Cholesterol homeostasis"	3	3
+true	transparent.gif	"Complement activation"	"Complement activation"	4	4
+true	transparent.gif	ECM	ECM	5	5
+true	transparent.gif	Endocytosis	Endocytosis	6	6
+true	transparent.gif	"Fcg receptors"	"Fcg receptors"	7	7
+true	transparent.gif	"GAG metabolism"	"GAG metabolism"	8	8
+true	transparent.gif	Golgi	Golgi	9	9
+true	transparent.gif	"Lipid acceptors"	"Lipid acceptors"	10	10
+true	transparent.gif	"Lysosomal Proteases"	"Lysosomal Proteases"	11	11
+true	transparent.gif	Plasminogen	Plasminogen	12	12
+true	transparent.gif	PM	PM	13	13
+true	transparent.gif	"Reactive astrogliosis"	"Reactive astrogliosis"	14	14
+true	transparent.gif	Signaling	Signaling	15	15
+true	transparent.gif	"Sphingolipid metabolism"	"Sphingolipid metabolism"	16	16

@@ -1,0 +1,133 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img{
+    width: 80%; /* use this, or not */
+    margin: auto;
+}
+.promo {
+    padding-top: 80px;
+}
+.promo .meta {
+    margin-top: 60px;
+}
+.carousel-control.left {
+    background-image: none;
+}
+.carousel-control.right {
+    background-image: none;
+}
+.carousel-indicators li {
+    border: 1px solid #EEBF3F;
+}
+.carousel-indicators .active {
+    background-color: #EEBF3F;
+}
+.modal-dialog {
+    margin-top: 120px;
+}
+.license .cta-container .speech-bubble {
+    background: #074F66;
+}
+.license .cta-container .speech-bubble:after {
+    border-top: 10px solid #074F66;
+}
+div.chart {
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    background-repeat: no-repeat;
+    background-position: 250px 30px;
+    background-attachment: scroll;
+}
+#mysvg {
+    width: 2000px;
+    height: 2000px;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 74px;
+}
+.moe-nav {
+    padding-left: 5px;
+}
+.dg.main .close-button {
+    margin-bottom: 10px;
+}
+.btn-group-vertical {
+    width: 245px;
+}
+a:disabled {
+    cursor: not-allowed !important;
+    pointer-events: all !important;
+}
+.btn-group-justified {
+    font-size: 10px;
+}
+.form-group.search {
+    width: 245px;
+}
+.label.toolbar {
+    display: block;
+    background: #074f66;
+    border-radius: 0px;
+}
+.btn.toolbar {
+    border-radius: 0px;
+    border: 1px solid #07465A;
+    background: #319DBF;
+}
+#search {
+    width: 180px;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 0;
+}
+.col-md-12 {
+    padding-right: 0;
+    padding-left: 0;
+}
+.dg.ac {
+    position: absolute;
+    top: 113px;
+}
+.section {
+    border-right: 15px solid #17BAEF;
+}
+.modal-dialog.share {
+    width: 80%;
+}
+#graph-labels {
+    position: absolute;
+    left: 0px;
+    top: 114px;
+    width: 255px;
+    height: 600px;
+    padding: 5px 0px 5px 10px;
+    overflow: scroll;
+    z-index: 1000;
+    resize: both;
+    border: 1px solid #e5e5e5;
+    background-color: #e5e5e5;
+}
+svg.legendSvg {
+    width: 500px;
+    height: 600px;
+    overflow: scroll;
+}
+#header {
+    min-width: 1000px;
+}
+.moe-main {
+    min-width: 1000px;
+}
+.axis text {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}

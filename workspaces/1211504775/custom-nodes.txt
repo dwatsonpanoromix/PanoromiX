@@ -1,0 +1,15 @@
+node-group	node-type	node-id	node-color	node-name	node-size
+group1	1	node1	0	nodeOne	3
+group1	1	node2	4	nodeTwo	3
+group1	1	node3	4	nodeOne	2
+group1	2	node4	4	nodeTwo	2
+group1	2	node5	4	nodeOne	2
+group1	2	node6	2	nodeTwo	3
+group1	1	node7	2	nodeOne	3
+group2	1	node8	2	nodeTwo	3
+group2	1	node9	2	nodeOne	3
+group2	3	node10	3	nodeTwo	3
+group3	3	node11	2	nodeOne	3
+group3	3	node12	1	nodeTwo	4
+group3	3	node13	1	nodeOne	4
+group3	3	node14	1	nodeTwo	4

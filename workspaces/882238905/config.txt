@@ -1,0 +1,11 @@
+rootId	rootX	rootY	timepoint	charge	gravity	borderW	linkWidth	linkColor	maxScore	minScore	radius	fontColorNode	fontColorCenter	saved	key	colorLabel	sizeLabel	typeLabel	tpLabels	typeColors	fillColors	discreteFillColors	bgFlg	background
+"Cell membrane"	381.43722025553	62.068420410156	1	0	0	10	1	#b3bcd9	3.5443985764809	-2.8004403915231	34.462813166998	#000000	#0000ff	yes	447266	Color:	Size:	Type:	"Time-Point 1"	#ff7f0e,#2ca02c,#1f77b4	#ffffff,#ffffff,#ffffff,#ffffff,#ffffff	#1f77b4,#ff7f0e,#2ca02c	0	0
+"compositionally biased region:Poly-Ser"	619.32576497396	361.4195098877
+"G-protein coupled receptor"	903.216796875	25.148300170898
+Glycoprotein	911.80741373698	204.2205657959
+"glycosylation site:N-linked (GlcNAc...)"	249.25475056966	219.14321899414
+"GO:0001076~transcription factor activity- RNA polymerase II transcription factor binding"	756.70721435547	519.36126708984
+"GO:0001609~G-protein coupled adenosine receptor activity"	261.99235534668	413.57415771484
+"GO:0003810~protein-glutamine gamma-glutamyltransferase activity"	416.9531656901	556.84912109375
+"GO:0004871~signal transducer activity"	621.61720784505	141.06207275391
+"GO:0004930~G-protein coupled receptor activity"	923.57421875	400.21801757812

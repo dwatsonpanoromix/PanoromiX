@@ -1,0 +1,36 @@
+root	icon	id	name	group	type	description	size	color	timepoints
+false	none	Node1	signal peptide	Annotation Cluster 1	UP_SEQ_FEATURE	Category: UP_SEQ_FEATURE, Percentage: 21.73913043478261	3	3	1
+false	none	Node2	Secreted	Annotation Cluster 1	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 13.043478260869565	2	2	1
+false	none	Node3	GO:0005576~extracellular region	Annotation Cluster 1	GOTERM_CC_DIRECT	Category: GOTERM_CC_DIRECT, Percentage: 13.043478260869565	2	2	1
+false	none	Node4	GO:0007186~G-protein coupled receptor signaling pathway	Annotation Cluster 2	GOTERM_BP_DIRECT	Category: GOTERM_BP_DIRECT, Percentage: 21.73913043478261	3	3	1
+false	none	Node5	Transmembrane helix	Annotation Cluster 2	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 43.47826086956522	5	5	1
+false	none	Node6	Transmembrane	Annotation Cluster 2	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 43.47826086956522	5	5	1
+false	none	Node7	IPR000276:G protein-coupled receptor, rhodopsin-like	Annotation Cluster 2	INTERPRO	Category: INTERPRO, Percentage: 17.391304347826086	3	3	1
+false	none	Node8	G-protein coupled receptor	Annotation Cluster 2	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 17.391304347826086	3	3	1
+false	none	Node9	Receptor	Annotation Cluster 2	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 21.73913043478261	3	3	1
+false	none	Node10	IPR017452:GPCR, rhodopsin-like, 7TM	Annotation Cluster 2	INTERPRO	Category: INTERPRO, Percentage: 17.391304347826086	3	3	1
+false	none	Node11	Transducer	Annotation Cluster 2	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 17.391304347826086	3	3	1
+false	none	Node12	GO:0004930~G-protein coupled receptor activity	Annotation Cluster 2	GOTERM_MF_DIRECT	Category: GOTERM_MF_DIRECT, Percentage: 17.391304347826086	3	3	1
+false	none	Node13	Membrane	Annotation Cluster 2	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 47.82608695652174	6	6	1
+false	none	Node14	Cell membrane	Annotation Cluster 2	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 26.08695652173913	4	4	1
+false	none	Node15	topological domain:Extracellular	Annotation Cluster 2	UP_SEQ_FEATURE	Category: UP_SEQ_FEATURE, Percentage: 17.391304347826086	3	3	1
+false	none	Node16	GO:0007165~signal transduction	Annotation Cluster 2	GOTERM_BP_DIRECT	Category: GOTERM_BP_DIRECT, Percentage: 13.043478260869565	2	2	1
+false	none	Node17	GO:0016021~integral component of membrane	Annotation Cluster 2	GOTERM_CC_DIRECT	Category: GOTERM_CC_DIRECT, Percentage: 39.130434782608695	5	5	1
+false	none	Node18	topological domain:Cytoplasmic	Annotation Cluster 2	UP_SEQ_FEATURE	Category: UP_SEQ_FEATURE, Percentage: 17.391304347826086	3	3	1
+false	none	Node19	GO:0016020~membrane	Annotation Cluster 2	GOTERM_CC_DIRECT	Category: GOTERM_CC_DIRECT, Percentage: 34.78260869565217	4	4	1
+false	none	Node20	transmembrane region	Annotation Cluster 2	UP_SEQ_FEATURE	Category: UP_SEQ_FEATURE, Percentage: 21.73913043478261	3	3	1
+false	none	Node21	GO:0005886~plasma membrane	Annotation Cluster 2	GOTERM_CC_DIRECT	Category: GOTERM_CC_DIRECT, Percentage: 21.73913043478261	3	3	1
+false	none	Node22	glycosylation site:N-linked (GlcNAc...)	Annotation Cluster 2	UP_SEQ_FEATURE	Category: UP_SEQ_FEATURE, Percentage: 13.043478260869565	2	2	1
+false	none	Node23	Glycoprotein	Annotation Cluster 2	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 13.043478260869565	2	2	1
+false	none	Node24	Signal	Annotation Cluster 3	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 34.78260869565217	4	4	1
+false	none	Node25	GO:0016020~membrane	Annotation Cluster 3	GOTERM_CC_DIRECT	Category: GOTERM_CC_DIRECT, Percentage: 34.78260869565217	4	4	1
+false	none	Node26	GO:0005515~protein binding	Annotation Cluster 3	GOTERM_MF_DIRECT	Category: GOTERM_MF_DIRECT, Percentage: 21.73913043478261	3	3	1
+false	none	Node27	splice variant	Annotation Cluster 4	UP_SEQ_FEATURE	Category: UP_SEQ_FEATURE, Percentage: 30.434782608695656	4	4	1
+false	none	Node28	Alternative splicing	Annotation Cluster 4	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 30.434782608695656	4	4	1
+false	none	Node29	Nucleus	Annotation Cluster 4	UP_KEYWORDS	Category: UP_KEYWORDS, Percentage: 21.73913043478261	3	3	1
+false	none	Node30	GO:0005634~nucleus	Annotation Cluster 4	GOTERM_CC_DIRECT	Category: GOTERM_CC_DIRECT, Percentage: 21.73913043478261	3	3	1
+false	none	Node31	GO:0005737~cytoplasm	Annotation Cluster 4	GOTERM_CC_DIRECT	Category: GOTERM_CC_DIRECT, Percentage: 17.391304347826086	3	3	1
+true	transparent.gif	Annotation Cluster 1	Annotation Cluster 1	1	1				
+true	transparent.gif	Annotation Cluster 2	Annotation Cluster 2	4	4				
+true	transparent.gif	Annotation Cluster 3	Annotation Cluster 3	24	24				
+true	transparent.gif	Annotation Cluster 4	Annotation Cluster 4	27	27				

@@ -1,0 +1,18 @@
+root	icon	id	name	group	type	color	size	timepoints
+false	none	node1	nodeOne	group1	1	0	3	1
+false	none	node2	nodeTwo	group1	1	4	3	1
+false	none	node3	nodeOne	group1	1	4	2	1
+false	none	node4	nodeTwo	group1	2	4	2	1
+false	none	node5	nodeOne	group1	2	4	2	1
+false	none	node6	nodeTwo	group1	2	2	3	1
+false	none	node7	nodeOne	group1	1	2	3	1
+false	none	node8	nodeTwo	group2	1	2	3	1
+false	none	node9	nodeOne	group2	1	2	3	1
+false	none	node10	nodeTwo	group2	3	3	3	1
+false	none	node11	nodeOne	group3	3	2	3	1
+false	none	node12	nodeTwo	group3	3	1	4	1
+false	none	node13	nodeOne	group3	3	1	4	1
+false	none	node14	nodeTwo	group3	3	1	4	1
+true	transparent.gif	group1	group1	1	1
+true	transparent.gif	group2	group2	2	2
+true	transparent.gif	group3	group3	3	3

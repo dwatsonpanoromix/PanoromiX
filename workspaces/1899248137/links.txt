@@ -1,0 +1,65 @@
+sourceId	targetId
+P045	P015
+P003	P036
+Severe	Medium
+Medium	"Low Risk"
+P001	Severe
+P002	Severe
+P003	Severe
+P004	Severe
+P005	Severe
+P006	Severe
+P007	Severe
+P008	Severe
+P009	Severe
+P010	Severe
+P011	Severe
+P012	Severe
+P013	Severe
+P014	Severe
+P015	Severe
+P016	Severe
+P017	Severe
+P018	Severe
+P019	Severe
+P020	Severe
+P021	Medium
+P022	Medium
+P023	Medium
+P024	Medium
+P025	Medium
+P026	Medium
+P027	Medium
+P028	Medium
+P029	Medium
+P030	Medium
+P031	Medium
+P032	Medium
+P033	Medium
+P034	Medium
+P035	Medium
+P036	Medium
+P037	Medium
+P038	Medium
+P039	Medium
+P040	Medium
+P041	"Low Risk"
+P042	"Low Risk"
+P043	"Low Risk"
+P044	"Low Risk"
+P045	"Low Risk"
+P046	"Low Risk"
+P047	"Low Risk"
+P048	"Low Risk"
+P049	"Low Risk"
+P050	"Low Risk"
+P051	"Low Risk"
+P052	"Low Risk"
+P053	"Low Risk"
+P054	"Low Risk"
+P055	"Low Risk"
+P056	"Low Risk"
+P057	"Low Risk"
+P058	"Low Risk"
+P059	"Low Risk"
+P060	"Low Risk"

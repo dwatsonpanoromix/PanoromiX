@@ -1,0 +1,4 @@
+rootId	rootX	rootY	timepoint	charge	gravity	borderW	linkWidth	linkColor	maxScore	minScore	radius	fontColorNode	fontColorCenter	saved	key	colorLabel	sizeLabel	typeLabel	tpLabels	typeColors	fillColors	discreteFillColors	bgFlg	background
+Cluster1	417	141	1	0	0	3	1	#b3bcd9	3	-3	30.2544272783	#000000	#0000ff	no		Color:	Size:	Type:	3hrs,6hrs,12hrs	#1f77b4,#ff7f0e	#1a9641,#a6d96a,#ffffbf,#fdae61,#d7191c	#1f77b4,#ff7f0e,#2ca02c,#d62728,#9467bd	0	0
+Cluster2	649	370	no	
+Cluster3	941	201	no	

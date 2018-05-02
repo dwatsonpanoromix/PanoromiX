@@ -1,0 +1,17 @@
+rootId	rootX	rootY	timepoint	charge	gravity	borderW	linkWidth	linkColor	maxScore	minScore	radius	fontColorNode	fontColorCenter	saved	key	colorLabel	sizeLabel	typeLabel	tpLabels	typeColors	fillColors	discreteFillColors	bgFlg	background
+Androgen metabolism	709.8362962	483.9353771	1	0	0	3	1	#9885c5	3	-3	16.57494584	#000000	#000000	yes	364723	Color:	Size:	Type:	"6 Weeks,10 Weeks,14 Weeks,18 Weeks,20 Weeks,22 Weeks"	"#ff7878,#af69ff,#6476ff,#72f6ff,#69ff95,#ffb461"	"#1a9641,#a6d96a,#ffffbf,#f55b5b,#ff0004"	"#fff675,#ff7800,#ff0000,#00c02d,#71b932"	0	0
+Caveolic vesicle	502.8601742	147.9395336																						
+Cholesterol homeostasis	896.1219349	407.8251315																						
+Complement activation	1136.957676	189.9208256																						
+ECM	910.9257965	101.5765636																						
+Endocytosis	395.6527719	247.1223997																						
+Fcg receptors	1419.25848	276.0227234																						
+GAG metabolism	554.6244281	518.9024482																						
+Golgi	775.9795626	387.8755454																						
+Lipid acceptors	1144.540389	429.6460279																						
+Lysosomal Proteases	417.5845295	541.5702139																						
+Plasminogen	1271.044511	123.2616512																						
+PM	1323.598697	401.4239199																						
+Reactive astrogliosis	745.7567595	607.5578909																						
+Signaling	644.5683732	190.5082337																						
+Sphingolipid metabolism	823.5971343	533.5918979																						

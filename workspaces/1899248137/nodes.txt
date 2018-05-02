@@ -1,0 +1,64 @@
+root	icon	id	name	group	type	type2	type3	type4	type5	type6	group2	group3	group4	group5	group6	size	size2	size3	size4	size5	size6	color	color2	color3	color4	color5	color6	timepoints
+false	none	P001	P001*	Severe	High	High	High	High	High	High	Severe	Medium	Severe	Medium	Severe	1	1	1	1	1	1	1	1	1	1	1	1	6
+false	none	P002	P002	Severe	High	High	High	High	High	High	Severe	Severe	Medium	Medium	Medium	2	2	2	2	2	2	2	2	2	2	2	2	6
+false	none	P003	P003	Severe	High	High	High	High	High	High	Medium	Severe	Medium	Medium	"Low Risk"	3	3	3	3	3	3	3	3	3	3	3	3	6
+false	none	P004	P004	Severe	High	High	High	High	High	High	Severe	Severe	Severe	Medium	"Low Risk"	1	1	2	2	2	1	4	4	4	4	4	4	6
+false	none	P005	P005	Severe	High	High	High	High	High	High	Severe	Severe	Severe	Medium	Medium	2	2	2	2	2	2	5	5	5	5	5	5	6
+false	none	P006	P006*	Severe	High	High	High	High	High	High	Severe	Medium	Medium	"Low Risk"	Medium	3	3	3	3	3	3	6	6	6	6	6	6	6
+false	none	P007	P007	Severe	High	High	High	High	High	High	Severe	Medium	Medium	"Low Risk"	Medium	1	1	1	1	1	1	7	7	7	7	7	7	6
+false	none	P008	P008	Severe	High	High	High	High	High	High	Medium	Medium	Medium	Medium	Severe	2	2	2	2	2	2	8	8	8	8	8	8	6
+false	none	P009	P009	Severe	High	High	High	High	High	High	Severe	Medium	Medium	Medium	Medium	3	3	3	3	3	3	9	9	9	9	9	9	6
+false	none	P010	P010	Severe	High	High	High	High	High	High	Severe	Medium	Medium	Medium	Medium	1	1	3	3	3	1	10	10	10	10	10	10	6
+false	none	P011	P011*	Severe	High	High	High	High	High	High	Severe	Medium	Medium	Medium	Medium	2	2	1	1	1	2	11	11	11	11	11	11	6
+false	none	P012	P012	Severe	High	High	High	High	High	High	Medium	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	3	3	2	2	3	3	12	12	12	12	12	12	6
+false	none	P013	P013	Severe	High	High	High	High	High	High	Severe	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	1	1	3	3	3	1	13	13	13	13	13	13	6
+false	none	P014	P014*	Severe	High	High	High	High	High	High	Severe	Severe	Medium	Medium	Medium	2	2	1	1	3	2	14	14	14	14	14	14	6
+false	none	P015	P015	Severe	High	High	High	High	High	High	Severe	Severe	Medium	Medium	Severe	3	3	2	2	3	3	15	15	15	15	15	15	6
+false	none	P016	P016*	Severe	High	High	High	High	High	High	Medium	Medium	Medium	Medium	Medium	1	1	3	3	3	1	16	16	16	16	16	16	6
+false	none	P017	P017	Severe	High	High	High	High	High	High	Severe	Medium	Medium	Medium	Medium	2	2	3	3	2	2	17	17	17	17	17	17	6
+false	none	P018	P018	Severe	High	High	High	High	High	High	Severe	Severe	Medium	Medium	Medium	3	3	3	3	3	3	18	18	18	18	18	18	6
+false	none	P019	P019	Severe	High	High	High	High	High	High	Severe	Medium	Medium	"Low Risk"	"Low Risk"	1	1	1	1	1	1	19	19	19	19	19	19	6
+false	none	P020	P020*	Severe	High	High	High	High	High	High	Severe	Severe	Severe	"Low Risk"	"Low Risk"	2	2	2	2	3	2	20	20	20	20	20	20	6
+false	none	P021	P021*	Medium	High	High	High	High	High	High	"Low Risk"	Medium	Medium	Medium	Medium	3	3	3	3	3	3	21	21	21	21	21	21	6
+false	none	P022	P022	Medium	High	High	High	High	High	High	"Low Risk"	"Low Risk"	"Low Risk"	Medium	Medium	1	1	1	1	3	1	22	22	22	22	22	22	6
+false	none	P023	P023*	Medium	High	High	High	High	High	High	"Low Risk"	"Low Risk"	"Low Risk"	Medium	Medium	2	2	2	2	3	2	23	23	23	23	23	23	6
+false	none	P024	P024	Medium	High	High	High	High	High	High	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	Medium	3	3	3	3	3	3	24	24	24	24	24	24	6
+false	none	P025	P025	Medium	High	High	High	High	High	High	"Low Risk"	"Low Risk"	"Low Risk"	Medium	Medium	1	1	1	1	1	1	25	25	25	25	25	25	6
+false	none	P026	P026	Medium	High	High	High	High	High	High	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	Medium	2	2	2	3	3	2	26	26	26	26	26	26	6
+false	none	P027	P027	Medium	High	High	High	High	High	High	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	Medium	3	3	3	3	3	3	27	27	27	27	27	27	6
+false	none	P028	P028	Medium	High	High	High	High	High	High	Medium	"Low Risk"	"Low Risk"	"Low Risk"	Medium	1	1	1	3	3	1	28	28	28	28	28	28	6
+false	none	P029	P029*	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	2	2	2	3	3	2	29	29	29	29	29	29	6
+false	none	P030	P030	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	3	3	3	3	3	3	30	30	30	30	30	30	6
+false	none	P031	P031	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	1	1	1	1	1	1	1	1	1	1	1	1	6
+false	none	P032	P032*	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	2	3	3	3	2	2	2	2	2	2	2	2	6
+false	none	P033	P033	Medium	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	Medium	Medium	Medium	Medium	3	1	1	1	3	3	3	3	3	3	3	3	6
+false	none	P034	P034*	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	1	2	2	3	1	1	4	4	4	4	4	4	6
+false	none	P035	P035	Medium	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	Medium	Medium	Medium	Medium	2	3	3	3	2	2	5	5	5	5	5	5	6
+false	none	P036	P036	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Severe	Severe	Severe	3	1	1	3	3	3	6	6	6	6	6	6	6
+false	none	P037	P037	Medium	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	Medium	Medium	Severe	Severe	1	2	2	3	1	1	7	7	7	7	7	7	6
+false	none	P038	P038	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Severe	Severe	Medium	2	3	3	3	3	2	8	8	8	8	8	8	6
+false	none	P039	P039*	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	3	3	1	1	1	3	9	9	9	9	9	9	6
+false	none	P040	P040*	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	1	1	2	2	3	1	10	10	10	10	10	10	6
+false	none	P041	P041*	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	"Low Risk"	Medium	"Low Risk"	2	2	3	3	3	2	11	11	11	11	11	11	6
+false	none	P042	P042	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	Medium	"Low Risk"	"Low Risk"	"Low Risk"	3	3	1	1	3	3	12	12	12	12	12	12	6
+false	none	P043	P043	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	1	1	2	3	3	3	13	13	13	13	13	13	6
+false	none	P044	P044	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	2	2	3	1	1	1	14	14	14	14	14	14	6
+false	none	P045	P045	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	Medium	Medium	Medium	Severe	3	3	3	2	2	3	15	15	15	15	15	15	6
+false	none	P046	P046*	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	1	1	1	3	3	3	16	16	16	16	16	16	6
+false	none	P047	P047	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	2	2	2	1	1	3	17	17	17	17	17	17	6
+false	none	P048	P048	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	3	3	3	2	2	3	18	18	18	18	18	18	6
+false	none	P049	P049	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	1	3	3	3	3	3	19	19	19	19	19	19	6
+false	none	P050	P050	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	Medium	Medium	Medium	2	1	1	1	2	2	20	20	20	20	20	20	6
+false	none	P051	P051	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	Medium	Medium	"Low Risk"	3	2	2	3	3	3	21	21	21	21	21	21	6
+false	none	P052	P052	"Low Risk"	Medium	Medium	Medium	Medium	Medium	Medium	"Low Risk"	"Low Risk"	"Low Risk"	Medium	Medium	1	3	3	3	1	1	22	22	22	22	22	22	6
+false	none	P053	P053*	"Low Risk"	Small	Small	Small	Small	Small	Small	"Low Risk"	Medium	"Low Risk"	Medium	Medium	2	1	3	3	3	2	23	23	23	23	23	23	6
+false	none	P054	P054	"Low Risk"	Small	Small	Small	Small	Small	Small	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	3	2	1	1	1	3	24	24	24	24	24	24	6
+false	none	P055	P055	"Low Risk"	Small	Small	Small	Small	Small	Small	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	1	3	2	2	3	1	25	25	25	25	25	25	6
+false	none	P056	P056*	"Low Risk"	Small	Small	Small	Small	Small	Small	Medium	Medium	Medium	Medium	Medium	2	2	3	3	3	2	26	26	26	26	26	26	6
+false	none	P057	P057*	"Low Risk"	Small	Small	Small	Small	Small	Small	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	Medium	3	3	3	3	3	3	27	27	27	27	27	27	6
+false	none	P058	P058	"Low Risk"	Small	Small	Small	Small	Small	Small	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	1	1	1	1	1	1	28	28	28	28	28	28	6
+false	none	P059	P059	"Low Risk"	Small	Small	Small	Small	Small	Small	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	2	2	2	2	3	2	29	29	29	29	29	29	6
+false	none	P060	P060*	"Low Risk"	Small	Small	Small	Small	Small	Small	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	"Low Risk"	3	3	3	3	3	3	30	30	30	30	30	30	6
+true	Severe.jpg	Severe	Severe	1	1
+true	Medium.jpg	Medium	Medium	2	2
+true	transparent.gif	"Low Risk"	"Low Risk"	3	3

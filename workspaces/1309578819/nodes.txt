@@ -1,0 +1,190 @@
+root	icon	id	name	group	type	description	size	timepoints
+false	none	Node1	"Adaptive immunity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"Adaptive immunity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node2	"Alternative splicing"	C57B6_analy_5d24h_moderated_ttest_p_0.05_4089_probes.txt	"Alternative splicing"	"ptsd -> mouse -> T5R1 -> mRNA_Microarray"	5	1
+false	none	Node3	"Alternative splicing"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"Alternative splicing"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	4	1
+false	none	Node4	Antimicrobial	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	Antimicrobial	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node5	Antimicrobial	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	Antimicrobial	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node6	Antioxidant	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	Antioxidant	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node7	Antioxidant	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	Antioxidant	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node8	Apoptosis	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	Apoptosis	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node9	Apoptosis	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	Apoptosis	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node10	Autophagy	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	Autophagy	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node11	Autophagy	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	Autophagy	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node12	"calcium-binding region:1; low affinity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"calcium-binding region:1; low affinity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node13	"calcium-binding region:1; low affinity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"calcium-binding region:1; low affinity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node14	"calcium-binding region:2; high affinity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"calcium-binding region:2; high affinity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node15	"calcium-binding region:2; high affinity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"calcium-binding region:2; high affinity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node16	"Cell membrane"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"Cell membrane"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node17	"Cell membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"Cell membrane"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node18	"Cell membrane"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"Cell membrane"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node19	"Cell membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"Cell membrane"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node20	Chemotaxis	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	Chemotaxis	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node21	Chemotaxis	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	Chemotaxis	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node22	Cytoplasm	mouse_ptsd_blood_analy_5d7d_genes.txt	Cytoplasm	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node23	"Disulfide bond"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"Disulfide bond"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node24	"disulfide bond"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"disulfide bond"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node25	"disulfide bond"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"disulfide bond"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node26	"domain:EF-hand 1"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"domain:EF-hand 1"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node27	"domain:EF-hand 2"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"domain:EF-hand 2"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node28	"G-protein coupled receptor"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"G-protein coupled receptor"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node29	"G-protein coupled receptor"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"G-protein coupled receptor"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node30	Glycoprotein	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Glycoprotein	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node31	"glycosylation site:N-linked (GlcNAc...)"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"glycosylation site:N-linked (GlcNAc...)"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node32	"glycosylation site:N-linked (GlcNAc...)"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"glycosylation site:N-linked (GlcNAc...)"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node33	"GO:0002250~adaptive immune response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0002250~adaptive immune response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node34	"GO:0002376~immune system process"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0002376~immune system process"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node35	"GO:0002376~immune system process"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0002376~immune system process"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node36	"GO:0002523~leukocyte migration involved in inflammatory response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0002523~leukocyte migration involved in inflammatory response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node37	"GO:0002523~leukocyte migration involved in inflammatory response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0002523~leukocyte migration involved in inflammatory response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node38	"GO:0002793~positive regulation of peptide secretion"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0002793~positive regulation of peptide secretion"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node39	"GO:0002793~positive regulation of peptide secretion"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0002793~positive regulation of peptide secretion"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node40	"GO:0003735~structural constituent of ribosome"	mouse_ptsd_blood_analy_5d7d_genes.txt	"GO:0003735~structural constituent of ribosome"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node41	"GO:0004930~G-protein coupled receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0004930~G-protein coupled receptor activity"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node42	"GO:0004930~G-protein coupled receptor activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0004930~G-protein coupled receptor activity"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node43	"GO:0005515~protein binding"	mouse_ptsd_blood_analy_5d7d_genes.txt	"GO:0005515~protein binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node44	GO:0005622~intracellular	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	GO:0005622~intracellular	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	2	1
+false	none	Node45	GO:0005622~intracellular	mouse_ptsd_blood_analy_5d7d_genes.txt	GO:0005622~intracellular	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node46	GO:0005634~nucleus	mouse_ptsd_blood_analy_5d7d_genes.txt	GO:0005634~nucleus	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node47	GO:0005737~cytoplasm	mouse_ptsd_blood_analy_5d7d_genes.txt	GO:0005737~cytoplasm	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	6	1
+false	none	Node48	GO:0005829~cytosol	mouse_ptsd_blood_analy_5d7d_genes.txt	GO:0005829~cytosol	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node49	GO:0005840~ribosome	mouse_ptsd_blood_analy_5d7d_genes.txt	GO:0005840~ribosome	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node50	GO:0005856~cytoskeleton	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	GO:0005856~cytoskeleton	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node51	"GO:0005886~plasma membrane"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0005886~plasma membrane"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	7	1
+false	none	Node52	"GO:0005886~plasma membrane"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"GO:0005886~plasma membrane"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	4	1
+false	none	Node53	"GO:0005886~plasma membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0005886~plasma membrane"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node54	"GO:0005886~plasma membrane"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0005886~plasma membrane"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	6	1
+false	none	Node55	"GO:0005886~plasma membrane"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"GO:0005886~plasma membrane"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	4	1
+false	none	Node56	"GO:0005886~plasma membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0005886~plasma membrane"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node57	"GO:0005925~focal adhesion"	mouse_ptsd_blood_analy_5d7d_genes.txt	"GO:0005925~focal adhesion"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node58	GO:0006412~translation	mouse_ptsd_blood_analy_5d7d_genes.txt	GO:0006412~translation	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node59	GO:0006914~autophagy	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	GO:0006914~autophagy	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node60	GO:0006914~autophagy	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	GO:0006914~autophagy	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node61	"GO:0006915~apoptotic process"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0006915~apoptotic process"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node62	"GO:0006915~apoptotic process"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0006915~apoptotic process"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node63	"GO:0006919~activation of cysteine-type endopeptidase activity involved in apoptotic process"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0006919~activation of cysteine-type endopeptidase activity involved in apoptotic process"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node64	"GO:0006919~activation of cysteine-type endopeptidase activity involved in apoptotic process"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0006919~activation of cysteine-type endopeptidase activity involved in apoptotic process"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node65	GO:0006935~chemotaxis	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	GO:0006935~chemotaxis	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node66	GO:0006935~chemotaxis	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	GO:0006935~chemotaxis	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node67	"GO:0007165~signal transduction"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0007165~signal transduction"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node68	"GO:0007165~signal transduction"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0007165~signal transduction"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node69	"GO:0007165~signal transduction"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0007165~signal transduction"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node70	"GO:0007186~G-protein coupled receptor signaling pathway"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0007186~G-protein coupled receptor signaling pathway"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node71	"GO:0007186~G-protein coupled receptor signaling pathway"	C57B6_analy_5d24h_moderated_ttest_p_0.01_1261_probes.txt	"GO:0007186~G-protein coupled receptor signaling pathway"	"ptsd -> mouse -> T5R1 -> mRNA_Microarray"	3	1
+false	none	Node72	"GO:0007186~G-protein coupled receptor signaling pathway"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0007186~G-protein coupled receptor signaling pathway"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node73	"GO:0008017~microtubule binding"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0008017~microtubule binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node74	"GO:0009897~external side of plasma membrane"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0009897~external side of plasma membrane"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node75	"GO:0014002~astrocyte development"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0014002~astrocyte development"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node76	"GO:0014002~astrocyte development"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0014002~astrocyte development"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node77	GO:0016020~membrane	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	GO:0016020~membrane	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	9	1
+false	none	Node78	GO:0016020~membrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	GO:0016020~membrane	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node79	GO:0016020~membrane	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	GO:0016020~membrane	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	9	1
+false	none	Node80	GO:0016020~membrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	GO:0016020~membrane	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	6	1
+false	none	Node81	"GO:0016021~integral component of membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"GO:0016021~integral component of membrane"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node82	"GO:0016021~integral component of membrane"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0016021~integral component of membrane"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node83	"GO:0016209~antioxidant activity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0016209~antioxidant activity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node84	"GO:0016209~antioxidant activity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0016209~antioxidant activity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node85	"GO:0018119~peptidyl-cysteine S-nitrosylation"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0018119~peptidyl-cysteine S-nitrosylation"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node86	"GO:0018119~peptidyl-cysteine S-nitrosylation"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0018119~peptidyl-cysteine S-nitrosylation"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node87	"GO:0022625~cytosolic large ribosomal subunit"	mouse_ptsd_blood_analy_5d7d_genes.txt	"GO:0022625~cytosolic large ribosomal subunit"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node88	"GO:0022627~cytosolic small ribosomal subunit"	mouse_ptsd_blood_analy_5d7d_genes.txt	"GO:0022627~cytosolic small ribosomal subunit"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node89	"GO:0030183~B cell differentiation"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0030183~B cell differentiation"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node90	"GO:0030529~intracellular ribonucleoprotein complex"	mouse_ptsd_blood_analy_5d7d_genes.txt	"GO:0030529~intracellular ribonucleoprotein complex"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node91	"GO:0030593~neutrophil chemotaxis"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0030593~neutrophil chemotaxis"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node92	"GO:0030593~neutrophil chemotaxis"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0030593~neutrophil chemotaxis"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node93	"GO:0035662~Toll-like receptor 4 binding"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0035662~Toll-like receptor 4 binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node94	"GO:0035662~Toll-like receptor 4 binding"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0035662~Toll-like receptor 4 binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node95	"GO:0042803~protein homodimerization activity"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"GO:0042803~protein homodimerization activity"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node96	"GO:0044822~poly(A) RNA binding"	mouse_ptsd_blood_analy_5d7d_genes.txt	"GO:0044822~poly(A) RNA binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node97	"GO:0045087~innate immune response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0045087~innate immune response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node98	"GO:0050544~arachidonic acid binding"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0050544~arachidonic acid binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node99	"GO:0050544~arachidonic acid binding"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0050544~arachidonic acid binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node100	"GO:0050727~regulation of inflammatory response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0050727~regulation of inflammatory response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node101	"GO:0050727~regulation of inflammatory response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0050727~regulation of inflammatory response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node102	"GO:0050729~positive regulation of inflammatory response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0050729~positive regulation of inflammatory response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node103	"GO:0050729~positive regulation of inflammatory response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0050729~positive regulation of inflammatory response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node104	"GO:0050786~RAGE receptor binding"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0050786~RAGE receptor binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node105	"GO:0050786~RAGE receptor binding"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0050786~RAGE receptor binding"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node106	"GO:0070062~extracellular exosome"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0070062~extracellular exosome"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	7	1
+false	none	Node107	"GO:0070062~extracellular exosome"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0070062~extracellular exosome"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node108	"GO:0070062~extracellular exosome"	mouse_ptsd_blood_analy_5d7d_genes.txt	"GO:0070062~extracellular exosome"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node109	"GO:0070488~neutrophil aggregation"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0070488~neutrophil aggregation"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node110	"GO:0070488~neutrophil aggregation"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0070488~neutrophil aggregation"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node111	"GO:0071320~cellular response to cAMP"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0071320~cellular response to cAMP"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node112	"GO:0071320~cellular response to cAMP"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0071320~cellular response to cAMP"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node113	"GO:0071407~cellular response to organic cyclic compound"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:0071407~cellular response to organic cyclic compound"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node114	"GO:0071407~cellular response to organic cyclic compound"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:0071407~cellular response to organic cyclic compound"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node115	"GO:2001244~positive regulation of intrinsic apoptotic signaling pathway"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"GO:2001244~positive regulation of intrinsic apoptotic signaling pathway"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node116	"GO:2001244~positive regulation of intrinsic apoptotic signaling pathway"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"GO:2001244~positive regulation of intrinsic apoptotic signaling pathway"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node117	Immunity	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	Immunity	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node118	Immunity	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	Immunity	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node119	"Inflammatory response"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"Inflammatory response"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node120	"Innate immunity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"Innate immunity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node121	"Innate immunity"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"Innate immunity"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node122	"IPR000276:G protein-coupled receptor- rhodopsin-like"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"IPR000276:G protein-coupled receptor- rhodopsin-like"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node123	"IPR000276:G protein-coupled receptor- rhodopsin-like"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"IPR000276:G protein-coupled receptor- rhodopsin-like"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node124	"IPR001751:S100-Calbindin-D9k- conserved site"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"IPR001751:S100-Calbindin-D9k- conserved site"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node125	"IPR001751:S100-Calbindin-D9k- conserved site"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"IPR001751:S100-Calbindin-D9k- conserved site"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node126	"IPR002048:EF-hand domain"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"IPR002048:EF-hand domain"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node127	"IPR011992:EF-hand-like domain"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"IPR011992:EF-hand-like domain"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node128	"IPR013787:S100-CaBP-9k-type- calcium binding- subdomain"	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	"IPR013787:S100-CaBP-9k-type- calcium binding- subdomain"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node129	"IPR013787:S100-CaBP-9k-type- calcium binding- subdomain"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"IPR013787:S100-CaBP-9k-type- calcium binding- subdomain"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node130	"IPR017452:GPCR- rhodopsin-like- 7TM"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"IPR017452:GPCR- rhodopsin-like- 7TM"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node131	"IPR017452:GPCR- rhodopsin-like- 7TM"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"IPR017452:GPCR- rhodopsin-like- 7TM"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node132	"Isopeptide bond"	mouse_ptsd_blood_analy_5d7d_genes.txt	"Isopeptide bond"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node133	Lipoprotein	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	Lipoprotein	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node134	Lipoprotein	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Lipoprotein	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	2	1
+false	none	Node135	Membrane	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	Membrane	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	9	1
+false	none	Node136	Membrane	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	Membrane	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	6	1
+false	none	Node137	Membrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Membrane	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	6	1
+false	none	Node138	Membrane	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	Membrane	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	9	1
+false	none	Node139	Membrane	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	Membrane	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	6	1
+false	none	Node140	Membrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Membrane	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	6	1
+false	none	Node141	Metal-binding	mouse_ptsd_blood_analy_5d7d_genes.txt	Metal-binding	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node142	Methylation	mouse_ptsd_blood_analy_5d7d_genes.txt	Methylation	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node143	mmu03010:Ribosome	mouse_ptsd_blood_analy_5d7d_genes.txt	mmu03010:Ribosome	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node144	Nucleus	mouse_ptsd_blood_analy_5d7d_genes.txt	Nucleus	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node145	Phosphoprotein	mouse_ptsd_blood_analy_5d7d_genes.txt	Phosphoprotein	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	6	1
+false	none	Node146	Receptor	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Receptor	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node147	Receptor	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Receptor	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node148	Ribonucleoprotein	mouse_ptsd_blood_analy_5d7d_genes.txt	Ribonucleoprotein	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node149	"Ribosomal protein"	mouse_ptsd_blood_analy_5d7d_genes.txt	"Ribosomal protein"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node150	Secreted	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	Secreted	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	4	1
+false	none	Node151	SM00054:EFh	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	SM00054:EFh	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node152	SM01394:SM01394	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	SM01394:SM01394	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node153	SM01394:SM01394	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	SM01394:SM01394	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	2	1
+false	none	Node154	"splice variant"	C57B6_analy_5d24h_moderated_ttest_p_0.05_4089_probes.txt	"splice variant"	"ptsd -> mouse -> T5R1 -> mRNA_Microarray"	5	1
+false	none	Node155	"splice variant"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"splice variant"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node156	"topological domain:Cytoplasmic"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"topological domain:Cytoplasmic"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node157	"topological domain:Cytoplasmic"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"topological domain:Cytoplasmic"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node158	"topological domain:Cytoplasmic"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"topological domain:Cytoplasmic"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node159	"topological domain:Cytoplasmic"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"topological domain:Cytoplasmic"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node160	"topological domain:Cytoplasmic"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"topological domain:Cytoplasmic"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node161	"topological domain:Extracellular"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"topological domain:Extracellular"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node162	"topological domain:Extracellular"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"topological domain:Extracellular"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	5	1
+false	none	Node163	"topological domain:Extracellular"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"topological domain:Extracellular"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	2	1
+false	none	Node164	"topological domain:Extracellular"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"topological domain:Extracellular"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node165	Transducer	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Transducer	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node166	Transducer	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Transducer	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	3	1
+false	none	Node167	Transmembrane	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	Transmembrane	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	5	1
+false	none	Node168	Transmembrane	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	Transmembrane	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node169	Transmembrane	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	Transmembrane	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	5	1
+false	none	Node170	Transmembrane	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	Transmembrane	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node171	"Transmembrane helix"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"Transmembrane helix"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	5	1
+false	none	Node172	"Transmembrane helix"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"Transmembrane helix"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node173	"Transmembrane helix"	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	"Transmembrane helix"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	5	1
+false	none	Node174	"Transmembrane helix"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"Transmembrane helix"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	5	1
+false	none	Node175	"transmembrane region"	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	"transmembrane region"	"ptsd -> mouse -> T10R42 -> mRNA_Microarray"	3	1
+false	none	Node176	"transmembrane region"	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	"transmembrane region"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node177	"transmembrane region"	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	"transmembrane region"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	6	1
+false	none	Node178	"transmembrane region"	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	"transmembrane region"	"ptsd -> mouse -> T10R1 -> mRNA_Microarray"	4	1
+false	none	Node179	"Ubl conjugation"	mouse_ptsd_blood_analy_5d7d_genes.txt	"Ubl conjugation"	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+false	none	Node180	Zinc	mouse_ptsd_blood_analy_5d7d_genes.txt	Zinc	"ptsd -> mouse -> T5R10 -> mRNA_Microarray"	3	1
+true	transparent.gif	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	C57B6_analy_5d1.5w_moderated_ttest_p_0.05_4324_probes.txt	1	1
+true	transparent.gif	C57B6_analy_5d24h_moderated_ttest_p_0.05_4089_probes.txt	C57B6_analy_5d24h_moderated_ttest_p_0.05_4089_probes.txt	2	2
+true	transparent.gif	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	C57B6_analy_10d6w_moderated_ttest_p_0.05_4834_probes.txt	3	3
+true	transparent.gif	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	C57B6_analy_5d1.5w_moderated_ttest_p_0.01_1041_probes.txt	4	4
+true	transparent.gif	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	C57B6_analy_10d24h_moderated_ttest_p_0.05_2783_probes.txt	5	5
+true	transparent.gif	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	C57B6_analy_10d24h_moderated_ttest_p_0.01_452_probes.txt	6	6
+true	transparent.gif	mouse_ptsd_blood_analy_5d7d_genes.txt	mouse_ptsd_blood_analy_5d7d_genes.txt	7	7
+true	transparent.gif	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	C57B6_analy_10d6w_moderated_ttest_p_0.01_1283_probes.txt	8	8
+true	transparent.gif	C57B6_analy_5d24h_moderated_ttest_p_0.01_1261_probes.txt	C57B6_analy_5d24h_moderated_ttest_p_0.01_1261_probes.txt	9	9

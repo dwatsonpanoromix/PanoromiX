@@ -1,0 +1,15 @@
+sourceId	targetId
+node1	group1
+node2	group1
+node3	group1
+node4	group1
+node5	group1
+node6	group1
+node7	group1
+node8	group2
+node9	group2
+node10	group2
+node11	group3
+node12	group3
+node13	group3
+node14	group3

@@ -1,0 +1,60 @@
+root	icon	id	name	group	type	description	size	color	timepoints
+false	none	Node1	"transmembrane protein 202(Tmem202)"	"Gene Group 1"	"Gene Group 1"	"ID: 73893"	5	5	1
+false	none	Node2	"carcinoembryonic antigen-related cell adhesion molecule 19(Ceacam19)"	"Gene Group 1"	"Gene Group 1"	"ID: 319930"	5	5	1
+false	none	Node3	"vomeronasal 1 receptor 72(Vmn1r72)"	"Gene Group 1"	"Gene Group 1"	"ID: 252905"	5	5	1
+false	none	Node4	"N-acetyltransferase 8 (GCN5-related) family member 4(Nat8f4)"	"Gene Group 1"	"Gene Group 1"	"ID: 75541"	5	5	1
+false	none	Node5	"mucin 3- intestinal(Muc3)"	"Gene Group 1"	"Gene Group 1"	"ID: 666339"	5	5	1
+false	none	Node6	"interferon- alpha-inducible protein 27 like 2B(Ifi27l2b)"	"Gene Group 1"	"Gene Group 1"	"ID: 217845"	5	5	1
+false	none	Node7	"claudin 34D(Cldn34d)"	"Gene Group 1"	"Gene Group 1"	"ID: 74987"	5	5	1
+false	none	Node8	"C-type lectin domain family 10- member A(Clec10a)"	"Gene Group 2"	"Gene Group 2"	"ID: 17312"	5	5	1
+false	none	Node9	"olfactory receptor 180(Olfr180)"	"Gene Group 2"	"Gene Group 2"	"ID: 258178"	5	5	1
+false	none	Node10	"C-type lectin domain family 7- member a(Clec7a)"	"Gene Group 2"	"Gene Group 2"	"ID: 56644"	5	5	1
+false	none	Node11	"CD83 antigen(Cd83)"	"Gene Group 2"	"Gene Group 2"	"ID: 12522"	5	5	1
+false	none	Node12	"a disintegrin and metallopeptidase domain 28(Adam28)"	"Gene Group 2"	"Gene Group 2"	"ID: 13522"	5	5	1
+false	none	Node13	"acid phosphatase 2- lysosomal(Acp2)"	"Gene Group 2"	"Gene Group 2"	"ID: 11432"	5	5	1
+false	none	Node14	"adhesion G protein-coupled receptor L3(Adgrl3)"	"Gene Group 2"	"Gene Group 2"	"ID: 319387"	5	5	1
+false	none	Node15	"ATPase- class VI- type 11B(Atp11b)"	"Gene Group 3"	"Gene Group 3"	"ID: 76295"	5	5	1
+false	none	Node16	"ATPase- class V- type 10B(Atp10b)"	"Gene Group 3"	"Gene Group 3"	"ID: 319767"	5	5	1
+false	none	Node17	"xylosyltransferase 1(Xylt1)"	"Gene Group 4"	"Gene Group 4"	"ID: 233781"	5	5	1
+false	none	Node18	"C-type lectin domain family 10- member A(Clec10a)"	"Gene Group 4"	"Gene Group 4"	"ID: 17312"	5	5	1
+false	none	Node19	"ST8 alpha-N-acetyl-neuraminide alpha-2-8-sialyltransferase 1(St8sia1)"	"Gene Group 4"	"Gene Group 4"	"ID: 20449"	5	5	1
+false	none	Node20	"olfactory receptor 180(Olfr180)"	"Gene Group 5"	"Gene Group 5"	"ID: 258178"	5	5	1
+false	none	Node21	"olfactory receptor 96(Olfr96)"	"Gene Group 5"	"Gene Group 5"	"ID: 258507"	5	5	1
+false	none	Node22	"olfactory receptor 687(Olfr687)"	"Gene Group 5"	"Gene Group 5"	"ID: 668035"	5	5	1
+false	none	Node23	"olfactory receptor 894(Olfr894)"	"Gene Group 5"	"Gene Group 5"	"ID: 258868"	5	5	1
+false	none	Node24	"vomeronasal 1 receptor 72(Vmn1r72)"	"Gene Group 5"	"Gene Group 5"	"ID: 252905"	5	5	1
+false	none	Node25	"olfactory receptor 972(Olfr972)"	"Gene Group 5"	"Gene Group 5"	"ID: 258603"	5	5	1
+false	none	Node26	"olfactory receptor 1413(Olfr1413)"	"Gene Group 5"	"Gene Group 5"	"ID: 259039"	5	5	1
+false	none	Node27	"zinc finger and BTB domain containing 7B(Zbtb7b)"	"Gene Group 6"	"Gene Group 6"	"ID: 22724"	5	5	1
+false	none	Node28	"RIKEN cDNA 1700048O20 gene(1700048O20Rik)"	"Gene Group 6"	"Gene Group 6"	"ID: 69430"	5	5	1
+false	none	Node29	"zinc finger protein 82(Zfp82)"	"Gene Group 6"	"Gene Group 6"	"ID: 330502"	5	5	1
+false	none	Node30	"pleiomorphic adenoma gene-like 1(Plagl1)"	"Gene Group 6"	"Gene Group 6"	"ID: 22634"	5	5	1
+false	none	Node31	"zinc finger protein 455(Zfp455)"	"Gene Group 6"	"Gene Group 6"	"ID: 218311"	5	5	1
+false	none	Node32	"replication initiator 1(Repin1)"	"Gene Group 6"	"Gene Group 6"	"ID: 58887"	5	5	1
+false	none	Node33	"zinc finger protein 773(Zfp773)"	"Gene Group 6"	"Gene Group 6"	"ID: 76373"	5	5	1
+false	none	Node34	"zinc finger protein 385B(Zfp385b)"	"Gene Group 6"	"Gene Group 6"	"ID: 241494"	5	5	1
+false	none	Node35	"interaction protein for cytohesin exchange factors 1(Ipcef1)"	"Gene Group 7"	"Gene Group 7"	"ID: 320495"	5	5	1
+false	none	Node36	"amyloid beta (A4) precursor protein-binding- family B- member 1 interacting protein(Apbb1ip)"	"Gene Group 7"	"Gene Group 7"	"ID: 54519"	5	5	1
+false	none	Node37	"centrosome and spindle pole associated protein 1(Cspp1)"	"Gene Group 8"	"Gene Group 8"	"ID: 211660"	5	5	1
+false	none	Node38	"FRY microtubule binding protein(Fry)"	"Gene Group 8"	"Gene Group 8"	"ID: 320365"	5	5	1
+false	none	Node39	"phosphatase domain containing- paladin 1(Pald1)"	"Gene Group 9"	"Gene Group 9"	"ID: 27355"	5	5	1
+false	none	Node40	"kazrin- periplakin interacting protein(Kazn)"	"Gene Group 9"	"Gene Group 9"	"ID: 71529"	5	5	1
+false	none	Node41	"coiled-coil domain containing 89(Ccdc89)"	"Gene Group 9"	"Gene Group 9"	"ID: 70054"	5	5	1
+false	none	Node42	"hemopoietic cell kinase(Hck)"	"Gene Group 10"	"Gene Group 10"	"ID: 15162"	5	5	1
+false	none	Node43	"anaplastic lymphoma kinase(Alk)"	"Gene Group 10"	"Gene Group 10"	"ID: 11682"	5	5	1
+false	none	Node44	"hemochromatosis type 2 (juvenile)(Hfe2)"	"Gene Group 11"	"Gene Group 11"	"ID: 69585"	5	5	1
+false	none	Node45	"CD177 antigen(Cd177)"	"Gene Group 11"	"Gene Group 11"	"ID: 68891"	5	5	1
+false	none	Node46	"methyl-CpG binding domain protein 3-like 1(Mbd3l1)"	"Gene Group 12"	"Gene Group 12"	"ID: 73503"	5	5	1
+false	none	Node47	"histone deacetylase 11(Hdac11)"	"Gene Group 12"	"Gene Group 12"	"ID: 232232"	5	5	1
+true	transparent.gif	"Gene Group 1"	"Gene Group 1"	1	1
+true	transparent.gif	"Gene Group 2"	"Gene Group 2"	2	2
+true	transparent.gif	"Gene Group 3"	"Gene Group 3"	3	3
+true	transparent.gif	"Gene Group 4"	"Gene Group 4"	4	4
+true	transparent.gif	"Gene Group 5"	"Gene Group 5"	5	5
+true	transparent.gif	"Gene Group 6"	"Gene Group 6"	6	6
+true	transparent.gif	"Gene Group 7"	"Gene Group 7"	7	7
+true	transparent.gif	"Gene Group 8"	"Gene Group 8"	8	8
+true	transparent.gif	"Gene Group 9"	"Gene Group 9"	9	9
+true	transparent.gif	"Gene Group 10"	"Gene Group 10"	10	10
+true	transparent.gif	"Gene Group 11"	"Gene Group 11"	11	11
+true	transparent.gif	"Gene Group 12"	"Gene Group 12"	12	12

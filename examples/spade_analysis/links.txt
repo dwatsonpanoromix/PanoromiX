@@ -1,0 +1,285 @@
+sourceId	targetId
+A1	HSC
+A2	MPP
+A3	Pro-B
+A4	"Pre-B I"
+A5	"Pre-B II"
+A6	"Pre-B II"
+A7	"Pre-B II"
+A8	"Pre-B II"
+A9	"Pre-B II"
+A10	NK
+A11	NK
+A12	NK
+A13	NK
+A14	NK
+A15	NK
+A16	NK
+A17	NK
+A18	NK
+A19	NK
+A20	NK
+A21	NK
+A22	NK
+A23	NK
+A24	NKT
+A25	NKT
+A26	NKT
+A27	NKT
+A28	NKT
+A29	"Memory CD8- T"
+A30	"Memory CD8- T"
+A31	"Memory CD8- T"
+A32	"Memory CD8- T"
+A33	"Memory CD8- T"
+A34	"Memory CD8- T"
+A35	"Memory CD8- T"
+A36	"Memory CD8- T"
+A37	"Memory CD8- T"
+A38	"Memory CD8- T"
+A39	"Naive CD8- T"
+A40	"Naive CD8- T"
+A41	"Naive CD8- T"
+A42	"Naive CD8- T"
+A43	"Naive CD8- T"
+A44	"Naive CD8- T"
+A45	"Naive CD8- T"
+A46	"Naive CD8- T"
+A47	"Naive CD8- T"
+A48	"Naive CD8- T"
+A49	"Naive CD8- T"
+A50	"Naive CD8- T"
+A51	"Naive CD8- T"
+A52	"Naive CD8- T"
+A53	"Naive CD8- T"
+A54	"Naive CD8- T"
+A55	"Naive CD8- T"
+A56	"Naive CD8- T"
+A57	"Naive CD8- T"
+A58	"Naive CD8- T"
+A59	"Naive CD8- T"
+A60	"Naive CD8- T"
+A61	"Naive CD8- T"
+A62	"Naive CD8- T"
+A63	"Naive CD4- T"
+A64	"Naive CD4- T"
+A65	"Naive CD4- T"
+A66	"Naive CD4- T"
+A67	"Naive CD4- T"
+A68	"Naive CD4- T"
+A69	"Naive CD4- T"
+A70	"Naive CD4- T"
+A71	"Naive CD4- T"
+A72	"Naive CD4- T"
+A73	"Naive CD4- T"
+A74	"Naive CD4- T"
+A75	"Naive CD4- T"
+A76	"Naive CD4- T"
+A77	"Naive CD4- T"
+A78	"Memory CD4- T"
+A79	"Memory CD4- T"
+A80	"Memory CD4- T"
+A81	"Memory CD4- T"
+A82	"Memory CD4- T"
+A83	"Memory CD4- T"
+A84	"Memory CD4- T"
+A85	"Memory CD4- T"
+A86	"Memory CD4- T"
+A87	"Memory CD4- T"
+A88	"Memory CD4- T"
+A89	"Memory CD4- T"
+A90	"Memory CD4- T"
+A91	"Memory CD4- T"
+A92	"Memory CD4- T"
+A93	"Memory CD4- T"
+A94	"Memory CD4- T"
+A95	"Memory CD4- T"
+A96	"Memory CD4- T"
+A97	"Memory CD4- T"
+A98	"Immature B"
+A99	"Immature B"
+A100	"Immature B"
+A101	"Immature B"
+A102	"Mature B"
+A103	"Mature B"
+A104	"Mature B"
+A105	"Mature B"
+A106	"Mature B"
+A107	"Mature B"
+A108	"Mature B"
+A109	"Mature B"
+A110	"Mature B"
+A111	"Mature B"
+A112	"Mature B"
+A113	"Mature B"
+A114	"Mature B"
+A115	"Mature B"
+A116	"Mature B"
+A117	"Mature B"
+A118	"Mature B"
+A119	"Mature B"
+A120	"Mature B"
+A121	"Mature B"
+A122	"Mature B"
+A123	"Mature B"
+A124	"Mature B"
+A125	"Mature B"
+A126	"Mature B"
+A127	"Mature B"
+A128	"IL-3R_- mature B"
+A129	"IL-3R_- mature B"
+A130	"IL-3R_- mature B"
+A131	"IL-3R_- mature B"
+A132	"IL-3R_- mature B"
+A133	"IL-3R_- mature B"
+A134	"IL-3R_- mature B"
+A135	"IL-3R_- mature B"
+A136	"IL-3R_- mature B"
+A137	"IL-3R_- mature B"
+A138	"IL-3R_- mature B"
+A139	"IL-3R_- mature B"
+A140	"IL-3R_- mature B"
+A141	"IL-3R_- mature B"
+A142	"IL-3R_- mature B"
+A143	"IL-3R_- mature B"
+A144	"IL-3R_- mature B"
+A145	"IL-3R_- mature B"
+A146	"IL-3R_- mature B"
+A147	"Plasma cell"
+A148	CMP
+A149	Monoblast
+A150	Monoblast
+A151	Monoblast
+A152	Monocyte
+A153	Monocyte
+A154	Monocyte
+A155	Monocyte
+A156	Monocyte
+A157	Monocyte
+A158	Monocyte
+A159	Monocyte
+A160	Monocyte
+A161	Monocyte
+A162	Monocyte
+A163	Monocyte
+A164	Monocyte
+A165	Monocyte
+A166	Monocyte
+A167	Monocyte
+A168	Monocyte
+A169	Monocyte
+A170	Monocyte
+A171	Monocyte
+A172	Monocyte
+A173	Monocyte
+A174	Monocyte
+A175	Monocyte
+A176	Monocyte
+A177	Monocyte
+A178	Monocyte
+A179	Monocyte
+A180	Monocyte
+A181	Monocyte
+A182	Monocyte
+A183	Monocyte
+A184	Monocyte
+A185	Monocyte
+A186	Monocyte
+A187	Monocyte
+A188	Monocyte
+A189	Monocyte
+A190	Monocyte
+A191	Monocyte
+A192	Monocyte
+A193	Monocyte
+A194	Pro-monocyte
+A195	Pro-monocyte
+A196	Pre-DC
+A197	Pre-DC
+A198	GMP
+A199	"Plasmacytoid DC"
+A200	"Plasmacytoid DC"
+A201	"Plasmacytoid DC"
+A202	"Plasmacytoid DC"
+A203	"Plasmacytoid DC"
+A204	"Plasmacytoid DC"
+A205	Myelocyte
+A206	Myelocyte
+A207	Myelocyte
+A208	Myelocyte
+A209	Myelocyte
+A210	Myelocyte
+A211	Myelocyte
+A212	Myelocyte
+A213	Myelocyte
+A214	Myelocyte
+A215	Myelocyte
+A216	Myelocyte
+A217	Promyelocyte
+A218	Promyelocyte
+A219	Promyelocyte
+A220	Promyelocyte
+A221	Promyelocyte
+A222	Promyelocyte
+A223	Promyelocyte
+A224	Promyelocyte
+A225	"CD38mid CD3- platelet"
+A226	"CD38mid CD3- platelet"
+A227	"CD38mid CD3- platelet"
+A228	"CD38mid CD3- platelet"
+A229	"CD38mid CD3- platelet"
+A230	"CD38mid CD3- platelet"
+A231	"CD38mid CD3- platelet"
+A232	"CD38mid CD3- platelet"
+A233	"CD38mid CD3- platelet"
+A234	"CD38mid CD3- platelet"
+A235	"CD38mid CD3- platelet"
+A236	"CD38mid CD3- platelet"
+A237	"CD38mid CD3- platelet"
+A238	"CD38mid CD3- platelet"
+A239	"CD38mid CD3- platelet"
+A240	"CD38mid CD3- platelet"
+A241	"CD38mid CD3- platelet"
+A242	"CD38mid CD3- platelet"
+A243	"CD38mid CD3- platelet"
+A244	"CD38mid CD3- platelet"
+A245	"CD38- CD3- platelet"
+A246	"CD38- CD3- platelet"
+A247	"CD38- CD3- platelet"
+A248	"CD38- CD3- platelet"
+A249	"CD38- CD3- platelet"
+A250	"CD38- CD3- platelet"
+A251	"CD38- CD3- platelet"
+A252	"CD38- CD3- platelet"
+A253	"CD38- CD3- platelet"
+A254	"CD38mid CD3mid platelet"
+A255	"CD38mid CD3mid platelet"
+A256	"CD38mid CD3mid platelet"
+A257	"CD38mid CD3mid platelet"
+A258	"CD38mid CD3mid platelet"
+A259	"CD38mid CD3mid platelet"
+A260	"CD38mid CD3mid platelet"
+A261	"CD38mid CD3mid platelet"
+A262	"CD38mid CD3mid platelet"
+A263	"CD38mid CD3mid platelet"
+A264	Erythrocyte
+A265	Erythrocyte
+A266	Erythrocyte
+A267	Erythrocyte
+A268	Erythrocyte
+A269	Erythrocyte
+A270	Erythrocyte
+A271	Erythrocyte
+A272	Erythrocyte
+A273	Erythrocyte
+A274	Erythroblast
+A275	Erythroblast
+A276	Erythroblast
+A277	Erythroblast
+A278	Erythroblast
+A279	Erythroblast
+A280	Erythroblast
+A281	Erythroblast
+A282	Erythroblast
+A283	Erythroblast
+A284	Erythroblast
