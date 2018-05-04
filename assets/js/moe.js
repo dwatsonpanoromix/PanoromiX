@@ -4,6 +4,7 @@ function main () {
     d3.select(self.frameElement).style("width", "1800px");
 
     var workFolder = document.getElementById("workFolder").value;
+    var externalApp = document.getElementById("externalApp").value;
     var timePointLabels = document.getElementById("timePointLabels").value;
     var authKey = document.getElementById("authKey").value;
     var currKey;
@@ -88,6 +89,9 @@ function main () {
                     "bgFlg": d.bgFlg,
                     "background": d.background
                 };
+
+                if (externalApp === 'SysBioCube') { config["BorderWidth"] = 10 };
+
                 console.log("File read test = " + +d.linkColor);
                 console.log("config['BorderWidth'] = " + config["BorderWidth"]);
                 console.log("d.borderW = " + d.borderW);

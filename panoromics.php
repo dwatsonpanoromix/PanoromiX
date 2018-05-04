@@ -204,6 +204,7 @@ if (isset($_GET["auth"])) {
             <input type="hidden" id="workFolder" value="<?php echo $workFolder; ?>">
             <input type="hidden" id="timePointLabels" name="timePointLabels" value="<?php echo $timePointLabels; ?>">
             <input type="hidden" id="authKey" name="authKey" value="<?php echo $authKey; ?>">
+            <input type="hidden" id="externalApp" name="externalApp" value="<?= $_GET['app'] ?? '' ?>">
         </form>
 
             <div class="messagepop pop"></div>
