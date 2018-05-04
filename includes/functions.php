@@ -3,6 +3,18 @@ error_reporting(E_ALL);
 ini_set('display_errors', 'on');
 $configUploadFlag = 0;
 
+/**
+ * Die & Dump Data.
+ *
+ * @param $data
+ */
+function dd($data)
+{
+    echo '<pre>';
+    die(var_dump($data));
+    echo '</pre>';
+}
+
 // Function to check correct file type, rename and place file in correct location, output report to the user
 function upload($fileArray) {
 

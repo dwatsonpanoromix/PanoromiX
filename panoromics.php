@@ -4,7 +4,13 @@ ini_set('display_errors', 'on');
 require 'includes/functions.php';
 
 if (isset($_GET["workFolder"])) {
-    $workFolder = $_GET["workFolder"];
+
+    if (isset($_GET["export"])) {
+        $workFolder = "imports/{$_GET['app']}/{$_GET['workFolder']}";
+    } else {
+        $workFolder = $_GET["workFolder"];
+    }
+
     $timePoints = $_GET["timePoints"];
     if ($_GET["timePointLabels"] == "" || $_GET["timePointLabels"] == null) {
         for ($i = 0; $i < $timePoints; $i++) {
@@ -198,6 +204,7 @@ if (isset($_GET["auth"])) {
             <input type="hidden" id="workFolder" value="<?php echo $workFolder; ?>">
             <input type="hidden" id="timePointLabels" name="timePointLabels" value="<?php echo $timePointLabels; ?>">
             <input type="hidden" id="authKey" name="authKey" value="<?php echo $authKey; ?>">
+            <input type="hidden" id="externalApp" name="externalApp" value="<?= $_GET['app'] ?? '' ?>">
         </form>
 
             <div class="messagepop pop"></div>
