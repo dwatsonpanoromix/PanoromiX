@@ -4,7 +4,13 @@ ini_set('display_errors', 'on');
 require 'includes/functions.php';
 
 if (isset($_GET["workFolder"])) {
-    $workFolder = $_GET["workFolder"];
+
+    if (isset($_GET["export"])) {
+        $workFolder = "imports/{$_GET['app']}/{$_GET['workFolder']}";
+    } else {
+        $workFolder = $_GET["workFolder"];
+    }
+
     $timePoints = $_GET["timePoints"];
     if ($_GET["timePointLabels"] == "" || $_GET["timePointLabels"] == null) {
         for ($i = 0; $i < $timePoints; $i++) {
