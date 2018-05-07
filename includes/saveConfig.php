@@ -1,9 +1,29 @@
 <?php
+/**
+ * Die & Dump Data.
+ *
+ * @param $data
+ */
+function dd($data)
+{
+    echo '<pre>';
+    die(var_dump($data));
+    echo '</pre>';
+}
 
 // Un-escape the string values in the JSON array
 $configData = stripcslashes($_POST['pconfigData']);
 $workFolder = $_POST['workFolder'];
-$relative_path = '../' . $workFolder . "config.txt";
+$externalApp = $_POST['externalApp'];
+
+if ($externalApp !== "") {
+    $relative_path = "{$_SERVER['DOCUMENT_ROOT']}/panoromics/{$workFolder}nodes.txt";
+} else {
+    $relative_path = '../' . $workFolder . "config.txt";
+}
+
+//dd($relative_path);
+//dd($_SERVER['DOCUMENT_ROOT']);
 
 // Decode the JSON array
 $configData = json_decode($configData,TRUE);
