@@ -884,7 +884,8 @@ function main() {
                     .attr("class", "focalNodeCanvas");
 
                 var data = [
-                    {id         : 0,
+                    {
+                        id      : 0,
                         name    : 'circle',
                         path    : 'M 0, 0  m -5, 0  a 5,5 0 1,0 10,0  a 5,5 0 1,0 -10,0',
                         viewbox : '-6 -6 12 12'
@@ -2569,7 +2570,6 @@ function main() {
 
                 function resetConfig() {
                     var workFolder = document.getElementById("workFolder").value;
-                    var reset = 1;
 
                     var stateObj = {auth : "no"};
                     urlString = window.location.href;
@@ -2580,7 +2580,9 @@ function main() {
                     $.ajax({
                         type    : "POST",
                         url     : "includes/reset.php",
-                        data    : "workFolder=" + workFolder + "&reset=" + reset,
+                        data    : {
+                            "workFolder" : workFolder
+                        },
                         success : function (msg) {
                             location.reload();
                         }
