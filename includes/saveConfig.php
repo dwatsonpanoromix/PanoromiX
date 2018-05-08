@@ -31,5 +31,6 @@ foreach ($configData as $row)
 }
 
 fclose($fp);
+chmod($relative_path, 0777);
 
 return true;

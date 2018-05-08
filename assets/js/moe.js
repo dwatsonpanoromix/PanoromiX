@@ -2582,11 +2582,9 @@ function main() {
                         url     : "includes/reset.php",
                         data    : "workFolder=" + workFolder + "&reset=" + reset,
                         success : function (msg) {
-                            // return value stored in msg variable
+                            location.reload();
                         }
                     });
-
-                    location.reload();
                 }
 
                 var urlString = window.location.href;
