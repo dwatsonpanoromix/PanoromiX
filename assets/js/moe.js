@@ -1,33 +1,32 @@
 function main() {
     // Set frame dimensions
-    d3.select(self.frameElement).style("height", "1800px");
     d3.select(self.frameElement).style("width", "1800px");
+    d3.select(self.frameElement).style("height", "1800px");
 
+    var saved;
+    var currKey;
+    var authKey = document.getElementById("authKey").value;
     var workFolder = document.getElementById("workFolder").value;
     var externalApp = document.getElementById("externalApp").value;
     var timePointLabels = document.getElementById("timePointLabels").value;
-    var authKey = document.getElementById("authKey").value;
-    var currKey;
-    var saved;
 
+    var rm = 15;
+    var obj = [];
     var config = [];
-    var tpConfigArray = [];
-    var savedNodes = [];
+    var timePointNum;
     var rootcount = 0;
     var rootnodes = [];
-    var obj = [];
-    var rm = 15;
+    var savedNodes = [];
     var rootNodeSize = [];
-    var timePointNum;
+    var tpConfigArray = [];
     var customImgCount = 0;
 
     var width = 1;
     var height = 1;
-
-    var currentZoom = 1;
-    var currentTranslate = ([0, 0]);
     var zoomOffset = 0;
     var running = false;
+    var currentZoom = 1;
+    var currentTranslate = ([0, 0]);
 
     // default configuration file path
     var configFile = "assets/data/config.txt";
@@ -46,15 +45,17 @@ function main() {
         configFile = workFolder + "config.txt";
         console.log("Found Custom Config!");
     }
+
     if (customTP == true) {
         var TPFile = workFolder + "temptpConfig.txt";
+
         d3.tsv(TPFile, function (error, data) {
             data.forEach(function (d, i) {
                 tpConfigArray[i] = {};
                 tpConfigArray[i]['LABEL'] = d.label;
                 tpConfigArray[i]['IMAGE'] = workFolder + d.image;
                 tpConfigArray[i]['DESCRIPTION'] = d.description;
-                console.log(tpConfigArray[i]);
+//                console.log(tpConfigArray[i]);
             });
         });
     }
@@ -62,10 +63,12 @@ function main() {
     //Load configuration file
     d3.tsv(configFile, function (error, info) {
         var row = 0;
+
         info.forEach(function (d) {
             if (row == 0) {
-                console.log("Config File: " + configFile);
-                console.log("d.fontColorCenter = " + d.fontColorCenter);
+//                console.log("Config File: " + configFile);
+//                console.log("d.fontColorCenter = " + d.fontColorCenter);
+
                 config = {
                     "Timepoint"          : +d.timepoint,
                     "charge"             : +d.charge,
@@ -92,26 +95,29 @@ function main() {
                 if (externalApp === 'SysBioCube') {
                     config["BorderWidth"] = 10
                 }
-                ;
 
-                console.log("File read test = " + +d.linkColor);
-                console.log("config['BorderWidth'] = " + config["BorderWidth"]);
-                console.log("d.borderW = " + d.borderW);
+//                console.log("File read test = " + +d.linkColor);
+//                console.log("config['BorderWidth'] = " + config["BorderWidth"]);
+//                console.log("d.borderW = " + d.borderW);
+
                 if (config["bgFlg"] == "" || config["bgFlg"] == null || config["bgFlg"] == 0) {
                     config["bgFlg"] = 1;
                 } else if (config["bgFlg"] == 1) {
                     config["bgFlg"] = 0;
                 }
+
                 if (config["background"] == "" || config["background"] == null || config["background"] == 0) {
                     config["background"] = 1;
                 } else if (config["background"] == 1) {
                     config["background"] = 0;
                 }
+
                 savedNodes[row] = {
                     "rootId" : d.rootId,
                     "rootX"  : d.rootX,
                     "rootY"  : d.rootY
                 };
+
                 if (d.saved == "yes" && authKey !== d.key) {
                     d3.select("#save_config")
                         .attr("disabled", "disabled")
@@ -139,6 +145,7 @@ function main() {
                     d3.select("#lockedLinkDisable")
                         .attr("title", "Not Authorized");
                 }
+
                 if (d.saved == "yes") {
                     currKey = d.key;
                 } else {
@@ -151,6 +158,7 @@ function main() {
                     "rootY"  : d.rootY
                 }
             }
+
             row++;
         });
 
@@ -160,10 +168,12 @@ function main() {
                 if (typeof eval('d.shape') == 'undefined') {
                     d.shape = 0;
                 }
+
                 // Specify default size if not user-defined
                 if (typeof eval('d.size') == 'undefined') {
                     d.size = 2;
                 }
+
                 // Specify default type if not user-defined
                 if (typeof eval('d.type') == 'undefined') {
                     d.type = "Default Type";
@@ -176,7 +186,6 @@ function main() {
                 d.group1 = d.group;
 
                 if (d.root == "true") {
-
                     if (d.icon == (d.id + ".jpg")) {
                         customImgCount++;
                     }
@@ -198,7 +207,6 @@ function main() {
                     rootnodes[rootcount] = d.id;
                     rootNodeSize[d.id] = d.type * 3;
                     rootcount++;
-
                 } else {
                     var profileArray = [];
                     var y;
@@ -211,8 +219,10 @@ function main() {
                         }
                         profileArray.push({x : i * 10, y : y});
                     }
+
                     d.all = profileArray;
                 }
+
                 timePointNum = +nodeSet[1].timepoints;
             });
 
@@ -244,7 +254,6 @@ function main() {
 
             d3.tsv(workFolder + "links.txt", function (error, linkSet) {
                 linkSet.forEach(function (d) {
-
                     d.sourceId1 = d.sourceId;
                     d.targetId1 = d.targetId;
 
@@ -252,6 +261,7 @@ function main() {
                     if (typeof eval('d.marker_start') == 'undefined') {
                         d.marker_start = 3;
                     }
+
                     if (typeof eval('d.marker_end') == 'undefined') {
                         d.marker_end = 2;
                     }
@@ -264,13 +274,12 @@ function main() {
                     obj[d.targetId] = (obj[d.targetId] || 0) + 1;
                 });
 
-                // set color scale
-                var colorScale_type = d3.scale.category10();
-                var color_bar = ['min', 'per25', 'median', 'per75', 'max'];
                 var strtime;
                 var discrete_color = 1;
                 var min_score = config["min_score"];
                 var max_score = config["max_score"];
+                var colorScale_type = d3.scale.category10();
+                var color_bar = ['min', 'per25', 'median', 'per75', 'max'];
 
                 if (config["tpLabels"] == "" || config["tpLabels"] == null) {
                     strtime = timePointLabels.split(',');
@@ -300,8 +309,24 @@ function main() {
                 }
 
                 var colorScale = d3.scale.linear()
-                    .domain([min_score, (3 * min_score + max_score) / 4, (min_score + max_score) / 2, (min_score + 3 * max_score) / 4, max_score])
-                    .range([color_hash.min, color_hash.per25, color_hash.median, color_hash.per75, color_hash.max])
+                    .domain(
+                        [
+                            min_score,
+                            (3 * min_score + max_score) / 4,
+                            (min_score + max_score) / 2,
+                            (min_score + 3 * max_score) / 4,
+                            max_score
+                        ]
+                    )
+                    .range(
+                        [
+                            color_hash.min,
+                            color_hash.per25,
+                            color_hash.median,
+                            color_hash.per75,
+                            color_hash.max
+                        ]
+                    )
                     .clamp(true)
                     .nice();
 
@@ -310,8 +335,24 @@ function main() {
                 function color_choice() {
                     if (discrete_color == 0) {
                         colorScale = d3.scale.linear()
-                            .domain([min_score, (3 * min_score + max_score) / 4, (min_score + max_score) / 2, (min_score + 3 * max_score) / 4, max_score])
-                            .range([color_hash.min, color_hash.per25, color_hash.median, color_hash.per75, color_hash.max])
+                            .domain(
+                                [
+                                    min_score,
+                                    (3 * min_score + max_score) / 4,
+                                    (min_score + max_score) / 2,
+                                    (min_score + 3 * max_score) / 4,
+                                    max_score
+                                ]
+                            )
+                            .range(
+                                [
+                                    color_hash.min,
+                                    color_hash.per25,
+                                    color_hash.median,
+                                    color_hash.per75,
+                                    color_hash.max
+                                ]
+                            )
                             .clamp(true)
                             .nice();
                     } else {
@@ -319,8 +360,8 @@ function main() {
                     }
                 }
 
-                var color_hash_dis = [];
                 var type_hash = [];
+                var color_hash_dis = [];
 
                 var typeMouseOver = function () {
                     var thisObject = d3.select(this);
@@ -358,6 +399,7 @@ function main() {
                     var legendTextSelector = "." + "legendText-" + strippedTypeValue;
                     var selectedLegendText = d3.selectAll(legendTextSelector);
                     selectedLegendText.style("font", "normal 12px Verdana");
+
                     if (config["bgFlg"] == 1) {
                         selectedLegendText.style("fill", "White");
                     } else {
@@ -367,6 +409,7 @@ function main() {
                     var nodeTextSelector = "." + "nodeText-" + strippedTypeValue;
                     var selectedNodeText = d3.selectAll(nodeTextSelector);
                     selectedNodeText.style("font", "normal 11px Verdana");
+
                     if (config["bgFlg"] == 1) {
                         selectedNodeText.style("fill", config["FontColor_node"]);
                     } else if (config["bgFlg"] == 0) {
@@ -399,6 +442,7 @@ function main() {
                                 return 2;
                             }
                         });
+
                     d3.select(this).select("text").transition()
                         .duration(250)
                         .style("font", "bold 20px Verdana")
@@ -442,6 +486,7 @@ function main() {
                                 return config["BorderWidth"];
                             }
                         });
+
                     d3.select(this).select("text").transition()
                         .duration(250)
                         .style("font", function (d) {
@@ -470,14 +515,17 @@ function main() {
                     var legendTextSelector = "." + "legendText-" + strippedTypeValue;
                     var selectedLegendText = d3.selectAll(legendTextSelector);
                     selectedLegendText.style("font", "normal 12px Verdana");
+
                     if (config["bgFlg"] == 1) {
                         selectedLegendText.style("fill", "White");
                     } else if (config["bgFlg"] == 0) {
                         selectedLegendText.style("fill", "Black");
                     }
+
                     if (customImgCount > 0 && hideimage == 0) {
                         customImg();
                     }
+
                     if (this.classList.contains("selectedNode")) {
                         $('circle[class*=selectedNodeCircle]').attr("fill", "yellow");
                     }
@@ -502,6 +550,7 @@ function main() {
                             if (typeof eval('d.type' + i) !== 'undefined') {
                                 type_hash[eval('d.type' + i)] = eval('d.type' + i);
                             }
+
                             if (typeof eval('d.color' + i) !== 'undefined') {
                                 if (config["discreteFillColors"] == "" || config["discreteFillColors"] == null) {
                                     color_hash_dis[eval('d.color' + i)] = eval('d.color' + i);
@@ -512,19 +561,20 @@ function main() {
                 });
 
                 if (config["discreteFillColors"] == "" || config["discreteFillColors"] == null) {
-                }
-                else {
+                } else {
                     var savedDiscreteFillColors = config["discreteFillColors"].split(",");
                     color_hash_dis = savedDiscreteFillColors.slice();
                 }
 
                 function keys(obj) {
                     var keys = [];
+
                     for (var key in obj) {
                         if (obj.hasOwnProperty(key)) {
                             keys.push(key);
                         }
                     }
+
                     return keys;
                 }
 
