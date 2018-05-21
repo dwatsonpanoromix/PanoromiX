@@ -445,7 +445,8 @@ function main() {
 
                     d3.select(this).select("text").transition()
                         .duration(250)
-                        .style("font", "bold 20px Verdana")
+                        .style("font-weight", "bold")
+                        .style("font-size", "20px")
                         .attr("fill", function (d) {
                             if (d.root == "true") {
                                 return config["FontColor_center"];
@@ -489,11 +490,18 @@ function main() {
 
                     d3.select(this).select("text").transition()
                         .duration(250)
-                        .style("font", function (d) {
+                        .style("font-weight", function (d) {
                             if (d.root == "true") {
-                                return "bold 14px Verdana";
+                                return "bold";
                             } else {
-                                return "normal 11px Verdana";
+                                return "normal";
+                            }
+                        })
+                        .style("font-size", function (d) {
+                            if (d.root == "true") {
+                                return "14px";
+                            } else {
+                                return "11px";
                             }
                         })
                         .attr("fill", function (d) {
