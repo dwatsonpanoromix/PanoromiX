@@ -3,7 +3,7 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 <head>
-    <title>Panoromics</title>
+    <title>PanoromiX</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,7 +37,7 @@
         <div class="container">            
             <h1 class="logo pull-left">
                 <a class="scrollto" href="#promo">
-                    <span class="logo-title"><img src="assets/images/MOE-logo1.png" height="28" width="28" alt="..."> Panoromics</span>
+                    <span class="logo-title"><img src="assets/images/MOE-logo1.png" height="28" width="28" alt="..."> PanoromiX</span>
                 </a>
             </h1><!--//logo-->              
             <nav id="main-nav" class="main-nav navbar-right" role="navigation">
@@ -98,7 +98,7 @@
                 </a>
             </div>
             <br />
-            <p class="intro">Panoromics - A fully interactive visualization tool offering automated modular network construction</p>
+            <p class="intro">PanoromiX - A fully interactive visualization tool offering automated modular network construction</p>
             <div class="btns">
                 <a class="btn btn-cta-secondary scrollto" href="#examples">Examples</a>
                 <a class="btn btn-cta-primary scrollto" href="#getStarted">Get Started</a>
@@ -113,8 +113,8 @@
     <!-- ******ABOUT****** --> 
     <section id="about" class="about section">
         <div class="container">
-            <h2 class="title text-center">What is Panoromics?</h2>
-            <p class="intro text-center">Panoromics is a novel data-driven web application for network visualization. It enables users to define a modularized, multi-layered network, and display it as an interactive figure seamlessly across most web browsers, by uploading their data in a text file. The user can customize many attributes of the network, and share interactive results easily via email. With minimal requirements on software installation and programming knowledge, Panoromics allows users to easily design, explore and share informative, interactive networks.</p>
+            <h2 class="title text-center">What is PanoromiX?</h2>
+            <p class="intro text-center">PanoromiX is a novel data-driven web application for network visualization. It enables users to define a modularized, multi-layered network, and display it as an interactive figure seamlessly across most web browsers, by uploading their data in a text file. The user can customize many attributes of the network, and share interactive results easily via email. With minimal requirements on software installation and programming knowledge, PanoromiX allows users to easily design, explore and share informative, interactive networks.</p>
             <div class="row">
                 <div class="item col-md-4 col-sm-6 col-xs-12">
                     <div class="icon-holder">
@@ -150,7 +150,7 @@
                     </div>
                     <div class="content">
                         <h3 class="sub-title">Mobile-friendly</h3>
-                        <p>The Panoromics application is compatible and will operate smoothly with most mobile and touch-enabled devices!</p>
+                        <p>The PanoromiX application is compatible and will operate smoothly with most mobile and touch-enabled devices!</p>
                     </div><!--//content-->
                 </div><!--//item-->                
                 <div class="item col-md-4 col-sm-6 col-xs-12">
@@ -196,17 +196,17 @@
             <h2 class="title text-center">How does it work?</h2>
             <div class="block">
                 <h3 class="sub-title text-center">Prepare Your Data</h3>
-                <p>The Panoromics application accepts the following data files which it processes in order to create the network visualization:</p>
+                <p>The PanoromiX application accepts the following data files which it processes in order to create the network visualization:</p>
                 <ul>
                     <li>A required nodes file containing information about individual points (nodes) of interest that will be plotted as part of your network visualization.</li>
                     <li>An optional links file which contains information about links or relationships between each of these points (nodes).</li>
-                    <li>An optional configuration file you may have downloaded from a previous Panoromics project, or one you may have created yourself.</li>
+                    <li>An optional configuration file you may have downloaded from a previous PanoromiX project, or one you may have created yourself.</li>
                     <li>An optional time-point configuration file which you may have created to display an animated legend for your visualization</li>
                     <li>Optional set of images to be displayed as icons, background image, or dynamic legend images for your visualization.</li>
                 </ul>
                 <p><a href="assets/data/panoromics-nodes-template.txt" target="_blank" download>Download</a> an example nodes file template here.</p>
                 <p><a href="assets/data/panoromics-links-template.txt" target="_blank" download>Download</a> an example links file template here.</p>
-                <p>Below are the details of the data preparation process for Panoromics.</p>
+                <p>Below are the details of the data preparation process for PanoromiX.</p>
                 <ul class="list-unstyled">
                     <li><strong>Data File Type:</strong> Tab Delimited Text File (.txt)</li>
                     <li><strong>Custom Icon File Type:</strong> .jpg image files</li>
@@ -232,7 +232,7 @@
                 The tree plot displays many blood cells in healthy human bone marrow. The colored lines encircling
                 sets of nodes define the cells, while the blue-red color scheme of the node indicate the low-high
                 CD marker expression in the cells. Similarly, the different stimulator-responser combination can be
-                achieved. Panoromics can illustrate how the cells respond when the conditions change.<br />
+                achieved. PanoromiX can illustrate how the cells respond when the conditions change.<br />
                 Click the 'View Demo' button below to launch an interactive view.
             </p>
             <p><img src="assets/images/spade-tree.png" height="300" alt="Spade Analysis Tree"></p>
@@ -246,7 +246,7 @@
             <h2 class="title">Example 2: Comparison of different drug effects in terms of gene expression: Prion Disease</h2>
             <p>The expression mosaics for two drugs, ATRA and DMSO, stimulated time course gene expressions capture spatial patterns in terms of modules as the system responds to the drugs through the time series.  These images are a graphical representation of dynamic expression changes in clusters in the orginal paper. They show how the drug effects converge while two routes involving different pathways have been taken in the time course.
                 Red/Blue denote extreme positive/negative log expression fold change ratios.
-                Panoromics can illustrate the drug effect in a modular network using two color sets.
+                PanoromiX can illustrate the drug effect in a modular network using two color sets.
                 The different drug responses start and spread from different areas of the network, and finally
                 converge to the same area.<br />The prion disease is a simpler example on one system response.<br />
                 Click the 'View Demo' button below to launch an interactive view.
@@ -258,9 +258,9 @@
             <p>&nbsp;</p>
             <hr />
             <p>&nbsp;</p>
-            <h2 class="title">Example 3: Panoromics Feature Demonstration</h2>
-            <p>This interactive demonstration gives the user an opportunity to experience a full feature demonstration of Panoromics including the use of all our latest template files offered on the website. It illustrates the use of Panoromics custom icon images, custom link colors and more! Feel free to customize, save, export and share this interactive demo to get a full-feature experience of our software.</p>
-            <p><img src="assets/images/panoromics-viz3.jpg" height="400" alt="Panoromics Demonstration"></p>
+            <h2 class="title">Example 3: PanoromiX Feature Demonstration</h2>
+            <p>This interactive demonstration gives the user an opportunity to experience a full feature demonstration of PanoromiX including the use of all our latest template files offered on the website. It illustrates the use of PanoromiX custom icon images, custom link colors and more! Feel free to customize, save, export and share this interactive demo to get a full-feature experience of our software.</p>
+            <p><img src="assets/images/panoromics-viz3.jpg" height="400" alt="PanoromiX Demonstration"></p>
             <div class="btns">
                 <a class="btn btn-cta-secondary" href="https://bioinfo-abcc.ncifcrf.gov/panoromics/panoromics.php?workFolder=examples%2Fdemonstration%2F&timePointLabels=&timePoints=3&visualize=Submit" target="_blank">View Demo</a>
             </div>
@@ -318,7 +318,7 @@
                                         <h4 class="panel-title">
                                             <div class="checkbox">
                                                 <label data-toggle="collapse" data-target="#collapseTwo">
-                                                    <input type="checkbox" id="uploadConfig" name="uploadConfig"/> Step 2: Did you already save or create a configuration for a Panoromics project? (Optional) <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                                                    <input type="checkbox" id="uploadConfig" name="uploadConfig"/> Step 2: Did you already save or create a configuration for a PanoromiX project? (Optional) <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
                                                 </label>
                                             </div>
                                         </h4>
@@ -394,7 +394,7 @@
                         <img class="img-responsive" src="assets/images/MOE-logo1.png" alt="" />
                     </div><!--//profile-->
                     <div class="speech-bubble">
-                        <h3 class="sub-title">Like the Panoromics app?</h3>
+                        <h3 class="sub-title">Like the PanoromiX app?</h3>
                         <div class="source">
                             <p></p><span class="name"><a href="" target="_blank">Daniel Watson</a></span>
                             <br />

@@ -12,7 +12,7 @@ include_once("includes/importFunctions.php");
 <!--[if !IE]><!-->
 <html lang="en" xmlns="http://www.w3.org/1999/html"> <!--<![endif]-->
 <head>
-    <title>Panoromics</title>
+    <title>PanoromiX</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -55,7 +55,7 @@ include_once("includes/importFunctions.php");
     <div class="container">
         <h1 class="logo pull-left">
             <a href="index.php">
-                <span class="logo-title"><img src="assets/images/MOE-logo1.png" height="28" width="28" alt="..."> Panoromics</span>
+                <span class="logo-title"><img src="assets/images/MOE-logo1.png" height="28" width="28" alt="..."> PanoromiX</span>
             </a>
         </h1><!--//logo-->
         <nav id="main-nav" class="main-nav navbar-right" role="navigation">

@@ -15,7 +15,7 @@ if (!isset($_FILES["modules"]["name"])) {
 <!--[if !IE]><!-->
 <html lang="en" xmlns="http://www.w3.org/1999/html"> <!--<![endif]-->
 <head>
-    <title>Panoromics</title>
+    <title>PanoromiX</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -58,7 +58,7 @@ if (!isset($_FILES["modules"]["name"])) {
     <div class="container">
         <h1 class="logo pull-left">
             <a href="index.php">
-                <span class="logo-title"><img src="assets/images/MOE-logo1.png" height="28" width="28" alt="..."> Panoromics</span>
+                <span class="logo-title"><img src="assets/images/MOE-logo1.png" height="28" width="28" alt="..."> PanoromiX</span>
             </a>
         </h1><!--//logo-->
         <nav id="main-nav" class="main-nav navbar-right" role="navigation">
@@ -148,12 +148,12 @@ var_dump($fileArray);
                 <h4 class="modal-title" id="myModalLabel">Data Label Assignment</h4>
             </div>
             <div class="modal-body">
-                <p>Before we can visualize your files in Panoromics, we will need to assign your data columns to the ones required by our application.</p>
+                <p>Before we can visualize your files in PanoromiX, we will need to assign your data columns to the ones required by our application.</p>
                 <p>Nodes File</p>
                 <form id ="modalForm" enctype="multipart/form-data" method="post">
                     <?php
                         echo "<table width=100% class='table table-hover table-sm table-bordered'>\n\n";
-                        echo "<thead><tr class=\"bg-info\"><td>Original Field Name</td><td>Panoromics Field Assignment</td><td>Data Sample</td></tr></thead>";
+                        echo "<thead><tr class=\"bg-info\"><td>Original Field Name</td><td>PanoromiX Field Assignment</td><td>Data Sample</td></tr></thead>";
                         echo "<tbody class=\"table-striped>\"";
                             $f = fopen($workFolder . 'tempnodes.txt', "r");
                                 $line1 = fgetcsv($f, 0, $delimiter);
@@ -182,7 +182,7 @@ var_dump($fileArray);
                         if ($_FILES["interactions"]["name"]) {
                             echo "<p>Links File</p>";
                             echo "<table width=100% class='table table-hover table-sm table-bordered'>\n\n";
-                            echo "<thead><tr class=\"bg-info\"><td>Original Field Name</td><td>Panoromics Field Assignment</td><td>Data Sample</td></tr></thead>";
+                            echo "<thead><tr class=\"bg-info\"><td>Original Field Name</td><td>PanoromiX Field Assignment</td><td>Data Sample</td></tr></thead>";
                             echo "<tbody class=\"table-striped>\"";
                             $f = fopen($workFolder . 'templinks.txt', "r");
                             $line1 = fgetcsv($f, 0, $delimiter);
